@@ -1,4 +1,4 @@
-ARM GAS  C:\Users\MECHAT~1\AppData\Local\Temp\cc2g9B0G.s 			page 1
+ARM GAS  C:\Users\MECHAT~1\AppData\Local\Temp\ccEQ8ISc.s 			page 1
 
 
    1              		.syntax unified
@@ -27,7 +27,7 @@ ARM GAS  C:\Users\MECHAT~1\AppData\Local\Temp\cc2g9B0G.s 			page 1
   24              		.section	.cyconfigecc,"a",%progbits
   25              		.align	2
   26              		.type	cy_meta_configecc, %object
-  27              		.size	cy_meta_configecc, 1040
+  27              		.size	cy_meta_configecc, 1032
   28              	cy_meta_configecc:
   29 0000 01       		.byte	1
   30 0001 45       		.byte	69
@@ -58,7 +58,7 @@ ARM GAS  C:\Users\MECHAT~1\AppData\Local\Temp\cc2g9B0G.s 			page 1
   55 001a 01       		.byte	1
   56 001b 40       		.byte	64
   57 001c 3F       		.byte	63
-ARM GAS  C:\Users\MECHAT~1\AppData\Local\Temp\cc2g9B0G.s 			page 2
+ARM GAS  C:\Users\MECHAT~1\AppData\Local\Temp\ccEQ8ISc.s 			page 2
 
 
   58 001d 14       		.byte	20
@@ -118,7 +118,7 @@ ARM GAS  C:\Users\MECHAT~1\AppData\Local\Temp\cc2g9B0G.s 			page 1
  112 0053 40       		.byte	64
  113 0054 01       		.byte	1
  114 0055 51       		.byte	81
-ARM GAS  C:\Users\MECHAT~1\AppData\Local\Temp\cc2g9B0G.s 			page 3
+ARM GAS  C:\Users\MECHAT~1\AppData\Local\Temp\ccEQ8ISc.s 			page 3
 
 
  115 0056 01       		.byte	1
@@ -178,7 +178,7 @@ ARM GAS  C:\Users\MECHAT~1\AppData\Local\Temp\cc2g9B0G.s 			page 1
  169 008c 21       		.byte	33
  170 008d 7F       		.byte	127
  171 008e 24       		.byte	36
-ARM GAS  C:\Users\MECHAT~1\AppData\Local\Temp\cc2g9B0G.s 			page 4
+ARM GAS  C:\Users\MECHAT~1\AppData\Local\Temp\ccEQ8ISc.s 			page 4
 
 
  172 008f C4       		.byte	-60
@@ -238,7 +238,7 @@ ARM GAS  C:\Users\MECHAT~1\AppData\Local\Temp\cc2g9B0G.s 			page 1
  226 00c5 38       		.byte	56
  227 00c6 AA       		.byte	-86
  228 00c7 C1       		.byte	-63
-ARM GAS  C:\Users\MECHAT~1\AppData\Local\Temp\cc2g9B0G.s 			page 5
+ARM GAS  C:\Users\MECHAT~1\AppData\Local\Temp\ccEQ8ISc.s 			page 5
 
 
  229 00c8 B2       		.byte	-78
@@ -298,7 +298,7 @@ ARM GAS  C:\Users\MECHAT~1\AppData\Local\Temp\cc2g9B0G.s 			page 1
  283 00fe 2B       		.byte	43
  284 00ff 04       		.byte	4
  285 0100 31       		.byte	49
-ARM GAS  C:\Users\MECHAT~1\AppData\Local\Temp\cc2g9B0G.s 			page 6
+ARM GAS  C:\Users\MECHAT~1\AppData\Local\Temp\ccEQ8ISc.s 			page 6
 
 
  286 0101 09       		.byte	9
@@ -358,7 +358,7 @@ ARM GAS  C:\Users\MECHAT~1\AppData\Local\Temp\cc2g9B0G.s 			page 1
  340 0137 40       		.byte	64
  341 0138 6A       		.byte	106
  342 0139 80       		.byte	-128
-ARM GAS  C:\Users\MECHAT~1\AppData\Local\Temp\cc2g9B0G.s 			page 7
+ARM GAS  C:\Users\MECHAT~1\AppData\Local\Temp\ccEQ8ISc.s 			page 7
 
 
  343 013a 6C       		.byte	108
@@ -418,7 +418,7 @@ ARM GAS  C:\Users\MECHAT~1\AppData\Local\Temp\cc2g9B0G.s 			page 1
  397 0170 AC       		.byte	-84
  398 0171 01       		.byte	1
  399 0172 B0       		.byte	-80
-ARM GAS  C:\Users\MECHAT~1\AppData\Local\Temp\cc2g9B0G.s 			page 8
+ARM GAS  C:\Users\MECHAT~1\AppData\Local\Temp\ccEQ8ISc.s 			page 8
 
 
  400 0173 0E       		.byte	14
@@ -478,7 +478,7 @@ ARM GAS  C:\Users\MECHAT~1\AppData\Local\Temp\cc2g9B0G.s 			page 1
  454 01a9 40       		.byte	64
  455 01aa E6       		.byte	-26
  456 01ab 80       		.byte	-128
-ARM GAS  C:\Users\MECHAT~1\AppData\Local\Temp\cc2g9B0G.s 			page 9
+ARM GAS  C:\Users\MECHAT~1\AppData\Local\Temp\ccEQ8ISc.s 			page 9
 
 
  457 01ac E8       		.byte	-24
@@ -538,7 +538,7 @@ ARM GAS  C:\Users\MECHAT~1\AppData\Local\Temp\cc2g9B0G.s 			page 1
  511 01e2 42       		.byte	66
  512 01e3 10       		.byte	16
  513 01e4 46       		.byte	70
-ARM GAS  C:\Users\MECHAT~1\AppData\Local\Temp\cc2g9B0G.s 			page 10
+ARM GAS  C:\Users\MECHAT~1\AppData\Local\Temp\ccEQ8ISc.s 			page 10
 
 
  514 01e5 08       		.byte	8
@@ -598,7 +598,7 @@ ARM GAS  C:\Users\MECHAT~1\AppData\Local\Temp\cc2g9B0G.s 			page 1
  568 021b A0       		.byte	-96
  569 021c 4F       		.byte	79
  570 021d 04       		.byte	4
-ARM GAS  C:\Users\MECHAT~1\AppData\Local\Temp\cc2g9B0G.s 			page 11
+ARM GAS  C:\Users\MECHAT~1\AppData\Local\Temp\ccEQ8ISc.s 			page 11
 
 
  571 021e 50       		.byte	80
@@ -658,7 +658,7 @@ ARM GAS  C:\Users\MECHAT~1\AppData\Local\Temp\cc2g9B0G.s 			page 1
  625 0254 C1       		.byte	-63
  626 0255 06       		.byte	6
  627 0256 C5       		.byte	-59
-ARM GAS  C:\Users\MECHAT~1\AppData\Local\Temp\cc2g9B0G.s 			page 12
+ARM GAS  C:\Users\MECHAT~1\AppData\Local\Temp\ccEQ8ISc.s 			page 12
 
 
  628 0257 D1       		.byte	-47
@@ -718,7 +718,7 @@ ARM GAS  C:\Users\MECHAT~1\AppData\Local\Temp\cc2g9B0G.s 			page 1
  682 028d C0       		.byte	-64
  683 028e 0D       		.byte	13
  684 028f 08       		.byte	8
-ARM GAS  C:\Users\MECHAT~1\AppData\Local\Temp\cc2g9B0G.s 			page 13
+ARM GAS  C:\Users\MECHAT~1\AppData\Local\Temp\ccEQ8ISc.s 			page 13
 
 
  685 0290 0F       		.byte	15
@@ -778,7 +778,7 @@ ARM GAS  C:\Users\MECHAT~1\AppData\Local\Temp\cc2g9B0G.s 			page 1
  739 02c6 D0       		.byte	-48
  740 02c7 46       		.byte	70
  741 02c8 D2       		.byte	-46
-ARM GAS  C:\Users\MECHAT~1\AppData\Local\Temp\cc2g9B0G.s 			page 14
+ARM GAS  C:\Users\MECHAT~1\AppData\Local\Temp\ccEQ8ISc.s 			page 14
 
 
  742 02c9 20       		.byte	32
@@ -838,7 +838,7 @@ ARM GAS  C:\Users\MECHAT~1\AppData\Local\Temp\cc2g9B0G.s 			page 1
  796 02ff 04       		.byte	4
  797 0300 A2       		.byte	-94
  798 0301 01       		.byte	1
-ARM GAS  C:\Users\MECHAT~1\AppData\Local\Temp\cc2g9B0G.s 			page 15
+ARM GAS  C:\Users\MECHAT~1\AppData\Local\Temp\ccEQ8ISc.s 			page 15
 
 
  799 0302 A3       		.byte	-93
@@ -898,7 +898,7 @@ ARM GAS  C:\Users\MECHAT~1\AppData\Local\Temp\cc2g9B0G.s 			page 1
  853 0338 1A       		.byte	26
  854 0339 04       		.byte	4
  855 033a 1B       		.byte	27
-ARM GAS  C:\Users\MECHAT~1\AppData\Local\Temp\cc2g9B0G.s 			page 16
+ARM GAS  C:\Users\MECHAT~1\AppData\Local\Temp\ccEQ8ISc.s 			page 16
 
 
  856 033b 08       		.byte	8
@@ -958,7 +958,7 @@ ARM GAS  C:\Users\MECHAT~1\AppData\Local\Temp\cc2g9B0G.s 			page 1
  910 0371 04       		.byte	4
  911 0372 9A       		.byte	-102
  912 0373 01       		.byte	1
-ARM GAS  C:\Users\MECHAT~1\AppData\Local\Temp\cc2g9B0G.s 			page 17
+ARM GAS  C:\Users\MECHAT~1\AppData\Local\Temp\ccEQ8ISc.s 			page 17
 
 
  913 0374 9B       		.byte	-101
@@ -1018,7 +1018,7 @@ ARM GAS  C:\Users\MECHAT~1\AppData\Local\Temp\cc2g9B0G.s 			page 1
  967 03aa A6       		.byte	-90
  968 03ab 48       		.byte	72
  969 03ac A7       		.byte	-89
-ARM GAS  C:\Users\MECHAT~1\AppData\Local\Temp\cc2g9B0G.s 			page 18
+ARM GAS  C:\Users\MECHAT~1\AppData\Local\Temp\ccEQ8ISc.s 			page 18
 
 
  970 03ad 80       		.byte	-128
@@ -1078,7 +1078,7 @@ ARM GAS  C:\Users\MECHAT~1\AppData\Local\Temp\cc2g9B0G.s 			page 1
  1024 03e3 01       		.byte	1
  1025 03e4 10       		.byte	16
  1026 03e5 03       		.byte	3
-ARM GAS  C:\Users\MECHAT~1\AppData\Local\Temp\cc2g9B0G.s 			page 19
+ARM GAS  C:\Users\MECHAT~1\AppData\Local\Temp\ccEQ8ISc.s 			page 19
 
 
  1027 03e6 1A       		.byte	26
@@ -1107,477 +1107,469 @@ ARM GAS  C:\Users\MECHAT~1\AppData\Local\Temp\cc2g9B0G.s 			page 1
  1050 03fd 00       		.byte	0
  1051 03fe 00       		.byte	0
  1052 03ff 00       		.byte	0
- 1053 0400 00       		.byte	0
- 1054 0401 7F       		.byte	127
- 1055 0402 7F       		.byte	127
+ 1053 0400 C0       		.byte	-64
+ 1054 0401 02       		.byte	2
+ 1055 0402 02       		.byte	2
  1056 0403 00       		.byte	0
- 1057 0404 00       		.byte	0
+ 1057 0404 02       		.byte	2
  1058 0405 00       		.byte	0
  1059 0406 00       		.byte	0
  1060 0407 00       		.byte	0
- 1061 0408 C0       		.byte	-64
- 1062 0409 02       		.byte	2
- 1063 040a 02       		.byte	2
- 1064 040b 00       		.byte	0
- 1065 040c 02       		.byte	2
- 1066 040d 00       		.byte	0
- 1067 040e 00       		.byte	0
- 1068 040f 00       		.byte	0
- 1069              		.section	.cywolatch,"a",%progbits
- 1070              		.align	2
- 1071              		.type	cy_meta_wonvl, %object
- 1072              		.size	cy_meta_wonvl, 4
- 1073              	cy_meta_wonvl:
- 1074 0000 BC       		.byte	-68
- 1075 0001 90       		.byte	-112
- 1076 0002 AC       		.byte	-84
- 1077 0003 AF       		.byte	-81
- 1078              		.section	.cycustnvl,"a",%progbits
- 1079              		.align	2
- 1080              		.type	cy_meta_custnvl, %object
- 1081              		.size	cy_meta_custnvl, 4
- 1082              	cy_meta_custnvl:
- 1083 0000 00       		.byte	0
-ARM GAS  C:\Users\MECHAT~1\AppData\Local\Temp\cc2g9B0G.s 			page 20
+ 1061              		.section	.cywolatch,"a",%progbits
+ 1062              		.align	2
+ 1063              		.type	cy_meta_wonvl, %object
+ 1064              		.size	cy_meta_wonvl, 4
+ 1065              	cy_meta_wonvl:
+ 1066 0000 BC       		.byte	-68
+ 1067 0001 90       		.byte	-112
+ 1068 0002 AC       		.byte	-84
+ 1069 0003 AF       		.byte	-81
+ 1070              		.section	.cycustnvl,"a",%progbits
+ 1071              		.align	2
+ 1072              		.type	cy_meta_custnvl, %object
+ 1073              		.size	cy_meta_custnvl, 4
+ 1074              	cy_meta_custnvl:
+ 1075 0000 00       		.byte	0
+ 1076 0001 00       		.byte	0
+ 1077 0002 40       		.byte	64
+ 1078 0003 05       		.byte	5
+ 1079              		.section	.cymeta,"a",%progbits
+ 1080              		.align	2
+ 1081              		.type	cy_metadata, %object
+ 1082              		.size	cy_metadata, 12
+ 1083              	cy_metadata:
+ARM GAS  C:\Users\MECHAT~1\AppData\Local\Temp\ccEQ8ISc.s 			page 20
 
 
- 1084 0001 00       		.byte	0
- 1085 0002 40       		.byte	64
- 1086 0003 05       		.byte	5
- 1087              		.section	.cymeta,"a",%progbits
- 1088              		.align	2
- 1089              		.type	cy_metadata, %object
- 1090              		.size	cy_metadata, 12
- 1091              	cy_metadata:
- 1092 0000 00       		.byte	0
- 1093 0001 01       		.byte	1
- 1094 0002 2E       		.byte	46
- 1095 0003 12       		.byte	18
- 1096 0004 30       		.byte	48
- 1097 0005 69       		.byte	105
- 1098 0006 00       		.byte	0
- 1099 0007 01       		.byte	1
- 1100 0008 00       		.byte	0
- 1101 0009 00       		.byte	0
- 1102 000a 00       		.byte	0
- 1103 000b 00       		.byte	0
- 1104              		.section	.cyflashprotect,"a",%progbits
- 1105              		.align	2
- 1106              		.type	cy_meta_flashprotect, %object
- 1107              		.size	cy_meta_flashprotect, 256
- 1108              	cy_meta_flashprotect:
- 1109 0000 00000000 		.space	256
- 1109      00000000 
- 1109      00000000 
- 1109      00000000 
- 1109      00000000 
- 1110              		.text
- 1111              	.Letext0:
- 1112              		.file 1 "c:\\program files (x86)\\cypress\\psoc creator\\4.1\\psoc creator\\import\\gnu\\arm\\5.4.
- 1113              		.file 2 "c:\\program files (x86)\\cypress\\psoc creator\\4.1\\psoc creator\\import\\gnu\\arm\\5.4.
- 1114              		.file 3 "Generated_Source\\PSoC5\\cymetadata.c"
- 1115              		.section	.debug_info,"",%progbits
- 1116              	.Ldebug_info0:
- 1117 0000 31010000 		.4byte	0x131
- 1118 0004 0400     		.2byte	0x4
- 1119 0006 00000000 		.4byte	.Ldebug_abbrev0
- 1120 000a 04       		.byte	0x4
- 1121 000b 01       		.uleb128 0x1
- 1122 000c 24000000 		.4byte	.LASF17
- 1123 0010 0C       		.byte	0xc
- 1124 0011 CE010000 		.4byte	.LASF18
- 1125 0015 7E010000 		.4byte	.LASF19
- 1126 0019 00000000 		.4byte	.Ldebug_line0
- 1127 001d 02       		.uleb128 0x2
- 1128 001e 01       		.byte	0x1
- 1129 001f 06       		.byte	0x6
- 1130 0020 72010000 		.4byte	.LASF0
- 1131 0024 03       		.uleb128 0x3
- 1132 0025 00000000 		.4byte	.LASF9
- 1133 0029 01       		.byte	0x1
- 1134 002a 1D       		.byte	0x1d
- 1135 002b 2F000000 		.4byte	0x2f
- 1136 002f 02       		.uleb128 0x2
-ARM GAS  C:\Users\MECHAT~1\AppData\Local\Temp\cc2g9B0G.s 			page 21
+ 1084 0000 00       		.byte	0
+ 1085 0001 01       		.byte	1
+ 1086 0002 2E       		.byte	46
+ 1087 0003 12       		.byte	18
+ 1088 0004 30       		.byte	48
+ 1089 0005 69       		.byte	105
+ 1090 0006 00       		.byte	0
+ 1091 0007 01       		.byte	1
+ 1092 0008 00       		.byte	0
+ 1093 0009 00       		.byte	0
+ 1094 000a 00       		.byte	0
+ 1095 000b 00       		.byte	0
+ 1096              		.section	.cyflashprotect,"a",%progbits
+ 1097              		.align	2
+ 1098              		.type	cy_meta_flashprotect, %object
+ 1099              		.size	cy_meta_flashprotect, 256
+ 1100              	cy_meta_flashprotect:
+ 1101 0000 00000000 		.space	256
+ 1101      00000000 
+ 1101      00000000 
+ 1101      00000000 
+ 1101      00000000 
+ 1102              		.text
+ 1103              	.Letext0:
+ 1104              		.file 1 "c:\\program files (x86)\\cypress\\psoc creator\\4.1\\psoc creator\\import\\gnu\\arm\\5.4.
+ 1105              		.file 2 "c:\\program files (x86)\\cypress\\psoc creator\\4.1\\psoc creator\\import\\gnu\\arm\\5.4.
+ 1106              		.file 3 "Generated_Source\\PSoC5\\cymetadata.c"
+ 1107              		.section	.debug_info,"",%progbits
+ 1108              	.Ldebug_info0:
+ 1109 0000 31010000 		.4byte	0x131
+ 1110 0004 0400     		.2byte	0x4
+ 1111 0006 00000000 		.4byte	.Ldebug_abbrev0
+ 1112 000a 04       		.byte	0x4
+ 1113 000b 01       		.uleb128 0x1
+ 1114 000c 24000000 		.4byte	.LASF17
+ 1115 0010 0C       		.byte	0xc
+ 1116 0011 CE010000 		.4byte	.LASF18
+ 1117 0015 7E010000 		.4byte	.LASF19
+ 1118 0019 00000000 		.4byte	.Ldebug_line0
+ 1119 001d 02       		.uleb128 0x2
+ 1120 001e 01       		.byte	0x1
+ 1121 001f 06       		.byte	0x6
+ 1122 0020 72010000 		.4byte	.LASF0
+ 1123 0024 03       		.uleb128 0x3
+ 1124 0025 00000000 		.4byte	.LASF9
+ 1125 0029 01       		.byte	0x1
+ 1126 002a 1D       		.byte	0x1d
+ 1127 002b 2F000000 		.4byte	0x2f
+ 1128 002f 02       		.uleb128 0x2
+ 1129 0030 01       		.byte	0x1
+ 1130 0031 08       		.byte	0x8
+ 1131 0032 16000000 		.4byte	.LASF1
+ 1132 0036 02       		.uleb128 0x2
+ 1133 0037 02       		.byte	0x2
+ 1134 0038 05       		.byte	0x5
+ 1135 0039 5F010000 		.4byte	.LASF2
+ 1136 003d 02       		.uleb128 0x2
+ARM GAS  C:\Users\MECHAT~1\AppData\Local\Temp\ccEQ8ISc.s 			page 21
 
 
- 1137 0030 01       		.byte	0x1
- 1138 0031 08       		.byte	0x8
- 1139 0032 16000000 		.4byte	.LASF1
- 1140 0036 02       		.uleb128 0x2
- 1141 0037 02       		.byte	0x2
- 1142 0038 05       		.byte	0x5
- 1143 0039 5F010000 		.4byte	.LASF2
- 1144 003d 02       		.uleb128 0x2
- 1145 003e 02       		.byte	0x2
- 1146 003f 07       		.byte	0x7
- 1147 0040 C4000000 		.4byte	.LASF3
- 1148 0044 02       		.uleb128 0x2
- 1149 0045 04       		.byte	0x4
- 1150 0046 05       		.byte	0x5
- 1151 0047 69010000 		.4byte	.LASF4
- 1152 004b 02       		.uleb128 0x2
- 1153 004c 04       		.byte	0x4
- 1154 004d 07       		.byte	0x7
- 1155 004e B2000000 		.4byte	.LASF5
- 1156 0052 02       		.uleb128 0x2
- 1157 0053 08       		.byte	0x8
- 1158 0054 05       		.byte	0x5
- 1159 0055 51010000 		.4byte	.LASF6
- 1160 0059 02       		.uleb128 0x2
- 1161 005a 08       		.byte	0x8
- 1162 005b 07       		.byte	0x7
- 1163 005c 06010000 		.4byte	.LASF7
- 1164 0060 04       		.uleb128 0x4
- 1165 0061 04       		.byte	0x4
- 1166 0062 05       		.byte	0x5
- 1167 0063 696E7400 		.ascii	"int\000"
- 1168 0067 02       		.uleb128 0x2
- 1169 0068 04       		.byte	0x4
- 1170 0069 07       		.byte	0x7
- 1171 006a F9000000 		.4byte	.LASF8
- 1172 006e 03       		.uleb128 0x3
- 1173 006f 1D010000 		.4byte	.LASF10
- 1174 0073 02       		.byte	0x2
- 1175 0074 18       		.byte	0x18
- 1176 0075 24000000 		.4byte	0x24
- 1177 0079 05       		.uleb128 0x5
- 1178 007a 91000000 		.4byte	0x91
- 1179 007e 8A000000 		.4byte	0x8a
- 1180 0082 06       		.uleb128 0x6
- 1181 0083 8A000000 		.4byte	0x8a
- 1182 0087 0F04     		.2byte	0x40f
- 1183 0089 00       		.byte	0
- 1184 008a 02       		.uleb128 0x2
- 1185 008b 04       		.byte	0x4
- 1186 008c 07       		.byte	0x7
- 1187 008d 48010000 		.4byte	.LASF11
- 1188 0091 07       		.uleb128 0x7
- 1189 0092 6E000000 		.4byte	0x6e
- 1190 0096 08       		.uleb128 0x8
- 1191 0097 E7000000 		.4byte	.LASF12
- 1192 009b 03       		.byte	0x3
- 1193 009c 1F       		.byte	0x1f
-ARM GAS  C:\Users\MECHAT~1\AppData\Local\Temp\cc2g9B0G.s 			page 22
+ 1137 003e 02       		.byte	0x2
+ 1138 003f 07       		.byte	0x7
+ 1139 0040 C4000000 		.4byte	.LASF3
+ 1140 0044 02       		.uleb128 0x2
+ 1141 0045 04       		.byte	0x4
+ 1142 0046 05       		.byte	0x5
+ 1143 0047 69010000 		.4byte	.LASF4
+ 1144 004b 02       		.uleb128 0x2
+ 1145 004c 04       		.byte	0x4
+ 1146 004d 07       		.byte	0x7
+ 1147 004e B2000000 		.4byte	.LASF5
+ 1148 0052 02       		.uleb128 0x2
+ 1149 0053 08       		.byte	0x8
+ 1150 0054 05       		.byte	0x5
+ 1151 0055 51010000 		.4byte	.LASF6
+ 1152 0059 02       		.uleb128 0x2
+ 1153 005a 08       		.byte	0x8
+ 1154 005b 07       		.byte	0x7
+ 1155 005c 06010000 		.4byte	.LASF7
+ 1156 0060 04       		.uleb128 0x4
+ 1157 0061 04       		.byte	0x4
+ 1158 0062 05       		.byte	0x5
+ 1159 0063 696E7400 		.ascii	"int\000"
+ 1160 0067 02       		.uleb128 0x2
+ 1161 0068 04       		.byte	0x4
+ 1162 0069 07       		.byte	0x7
+ 1163 006a F9000000 		.4byte	.LASF8
+ 1164 006e 03       		.uleb128 0x3
+ 1165 006f 1D010000 		.4byte	.LASF10
+ 1166 0073 02       		.byte	0x2
+ 1167 0074 18       		.byte	0x18
+ 1168 0075 24000000 		.4byte	0x24
+ 1169 0079 05       		.uleb128 0x5
+ 1170 007a 91000000 		.4byte	0x91
+ 1171 007e 8A000000 		.4byte	0x8a
+ 1172 0082 06       		.uleb128 0x6
+ 1173 0083 8A000000 		.4byte	0x8a
+ 1174 0087 0704     		.2byte	0x407
+ 1175 0089 00       		.byte	0
+ 1176 008a 02       		.uleb128 0x2
+ 1177 008b 04       		.byte	0x4
+ 1178 008c 07       		.byte	0x7
+ 1179 008d 48010000 		.4byte	.LASF11
+ 1180 0091 07       		.uleb128 0x7
+ 1181 0092 6E000000 		.4byte	0x6e
+ 1182 0096 08       		.uleb128 0x8
+ 1183 0097 E7000000 		.4byte	.LASF12
+ 1184 009b 03       		.byte	0x3
+ 1185 009c 1F       		.byte	0x1f
+ 1186 009d A7000000 		.4byte	0xa7
+ 1187 00a1 05       		.uleb128 0x5
+ 1188 00a2 03       		.byte	0x3
+ 1189 00a3 00000000 		.4byte	cy_meta_configecc
+ 1190 00a7 07       		.uleb128 0x7
+ 1191 00a8 79000000 		.4byte	0x79
+ 1192 00ac 05       		.uleb128 0x5
+ 1193 00ad 91000000 		.4byte	0x91
+ARM GAS  C:\Users\MECHAT~1\AppData\Local\Temp\ccEQ8ISc.s 			page 22
 
 
- 1194 009d A7000000 		.4byte	0xa7
- 1195 00a1 05       		.uleb128 0x5
- 1196 00a2 03       		.byte	0x3
- 1197 00a3 00000000 		.4byte	cy_meta_configecc
- 1198 00a7 07       		.uleb128 0x7
- 1199 00a8 79000000 		.4byte	0x79
- 1200 00ac 05       		.uleb128 0x5
- 1201 00ad 91000000 		.4byte	0x91
- 1202 00b1 BC000000 		.4byte	0xbc
- 1203 00b5 09       		.uleb128 0x9
- 1204 00b6 8A000000 		.4byte	0x8a
- 1205 00ba 03       		.byte	0x3
- 1206 00bb 00       		.byte	0
- 1207 00bc 08       		.uleb128 0x8
- 1208 00bd D7000000 		.4byte	.LASF13
- 1209 00c1 03       		.byte	0x3
- 1210 00c2 AE       		.byte	0xae
- 1211 00c3 CD000000 		.4byte	0xcd
- 1212 00c7 05       		.uleb128 0x5
- 1213 00c8 03       		.byte	0x3
- 1214 00c9 00000000 		.4byte	cy_meta_custnvl
- 1215 00cd 07       		.uleb128 0x7
- 1216 00ce AC000000 		.4byte	0xac
- 1217 00d2 08       		.uleb128 0x8
- 1218 00d3 3A010000 		.4byte	.LASF14
- 1219 00d7 03       		.byte	0x3
- 1220 00d8 BC       		.byte	0xbc
- 1221 00d9 E3000000 		.4byte	0xe3
- 1222 00dd 05       		.uleb128 0x5
- 1223 00de 03       		.byte	0x3
- 1224 00df 00000000 		.4byte	cy_meta_wonvl
- 1225 00e3 07       		.uleb128 0x7
- 1226 00e4 AC000000 		.4byte	0xac
- 1227 00e8 05       		.uleb128 0x5
- 1228 00e9 91000000 		.4byte	0x91
- 1229 00ed F8000000 		.4byte	0xf8
- 1230 00f1 09       		.uleb128 0x9
- 1231 00f2 8A000000 		.4byte	0x8a
- 1232 00f6 FF       		.byte	0xff
- 1233 00f7 00       		.byte	0
- 1234 00f8 08       		.uleb128 0x8
- 1235 00f9 25010000 		.4byte	.LASF15
- 1236 00fd 03       		.byte	0x3
- 1237 00fe CA       		.byte	0xca
- 1238 00ff 09010000 		.4byte	0x109
- 1239 0103 05       		.uleb128 0x5
- 1240 0104 03       		.byte	0x3
- 1241 0105 00000000 		.4byte	cy_meta_flashprotect
- 1242 0109 07       		.uleb128 0x7
- 1243 010a E8000000 		.4byte	0xe8
- 1244 010e 05       		.uleb128 0x5
- 1245 010f 91000000 		.4byte	0x91
- 1246 0113 1E010000 		.4byte	0x11e
- 1247 0117 09       		.uleb128 0x9
- 1248 0118 8A000000 		.4byte	0x8a
- 1249 011c 0B       		.byte	0xb
- 1250 011d 00       		.byte	0
-ARM GAS  C:\Users\MECHAT~1\AppData\Local\Temp\cc2g9B0G.s 			page 23
+ 1194 00b1 BC000000 		.4byte	0xbc
+ 1195 00b5 09       		.uleb128 0x9
+ 1196 00b6 8A000000 		.4byte	0x8a
+ 1197 00ba 03       		.byte	0x3
+ 1198 00bb 00       		.byte	0
+ 1199 00bc 08       		.uleb128 0x8
+ 1200 00bd D7000000 		.4byte	.LASF13
+ 1201 00c1 03       		.byte	0x3
+ 1202 00c2 AD       		.byte	0xad
+ 1203 00c3 CD000000 		.4byte	0xcd
+ 1204 00c7 05       		.uleb128 0x5
+ 1205 00c8 03       		.byte	0x3
+ 1206 00c9 00000000 		.4byte	cy_meta_custnvl
+ 1207 00cd 07       		.uleb128 0x7
+ 1208 00ce AC000000 		.4byte	0xac
+ 1209 00d2 08       		.uleb128 0x8
+ 1210 00d3 3A010000 		.4byte	.LASF14
+ 1211 00d7 03       		.byte	0x3
+ 1212 00d8 BB       		.byte	0xbb
+ 1213 00d9 E3000000 		.4byte	0xe3
+ 1214 00dd 05       		.uleb128 0x5
+ 1215 00de 03       		.byte	0x3
+ 1216 00df 00000000 		.4byte	cy_meta_wonvl
+ 1217 00e3 07       		.uleb128 0x7
+ 1218 00e4 AC000000 		.4byte	0xac
+ 1219 00e8 05       		.uleb128 0x5
+ 1220 00e9 91000000 		.4byte	0x91
+ 1221 00ed F8000000 		.4byte	0xf8
+ 1222 00f1 09       		.uleb128 0x9
+ 1223 00f2 8A000000 		.4byte	0x8a
+ 1224 00f6 FF       		.byte	0xff
+ 1225 00f7 00       		.byte	0
+ 1226 00f8 08       		.uleb128 0x8
+ 1227 00f9 25010000 		.4byte	.LASF15
+ 1228 00fd 03       		.byte	0x3
+ 1229 00fe C9       		.byte	0xc9
+ 1230 00ff 09010000 		.4byte	0x109
+ 1231 0103 05       		.uleb128 0x5
+ 1232 0104 03       		.byte	0x3
+ 1233 0105 00000000 		.4byte	cy_meta_flashprotect
+ 1234 0109 07       		.uleb128 0x7
+ 1235 010a E8000000 		.4byte	0xe8
+ 1236 010e 05       		.uleb128 0x5
+ 1237 010f 91000000 		.4byte	0x91
+ 1238 0113 1E010000 		.4byte	0x11e
+ 1239 0117 09       		.uleb128 0x9
+ 1240 0118 8A000000 		.4byte	0x8a
+ 1241 011c 0B       		.byte	0xb
+ 1242 011d 00       		.byte	0
+ 1243 011e 08       		.uleb128 0x8
+ 1244 011f 0A000000 		.4byte	.LASF16
+ 1245 0123 03       		.byte	0x3
+ 1246 0124 F6       		.byte	0xf6
+ 1247 0125 2F010000 		.4byte	0x12f
+ 1248 0129 05       		.uleb128 0x5
+ 1249 012a 03       		.byte	0x3
+ 1250 012b 00000000 		.4byte	cy_metadata
+ARM GAS  C:\Users\MECHAT~1\AppData\Local\Temp\ccEQ8ISc.s 			page 23
 
 
- 1251 011e 08       		.uleb128 0x8
- 1252 011f 0A000000 		.4byte	.LASF16
- 1253 0123 03       		.byte	0x3
- 1254 0124 F7       		.byte	0xf7
- 1255 0125 2F010000 		.4byte	0x12f
- 1256 0129 05       		.uleb128 0x5
- 1257 012a 03       		.byte	0x3
- 1258 012b 00000000 		.4byte	cy_metadata
- 1259 012f 07       		.uleb128 0x7
- 1260 0130 0E010000 		.4byte	0x10e
- 1261 0134 00       		.byte	0
- 1262              		.section	.debug_abbrev,"",%progbits
- 1263              	.Ldebug_abbrev0:
- 1264 0000 01       		.uleb128 0x1
- 1265 0001 11       		.uleb128 0x11
- 1266 0002 01       		.byte	0x1
- 1267 0003 25       		.uleb128 0x25
- 1268 0004 0E       		.uleb128 0xe
- 1269 0005 13       		.uleb128 0x13
- 1270 0006 0B       		.uleb128 0xb
- 1271 0007 03       		.uleb128 0x3
- 1272 0008 0E       		.uleb128 0xe
- 1273 0009 1B       		.uleb128 0x1b
- 1274 000a 0E       		.uleb128 0xe
- 1275 000b 10       		.uleb128 0x10
- 1276 000c 17       		.uleb128 0x17
- 1277 000d 00       		.byte	0
- 1278 000e 00       		.byte	0
- 1279 000f 02       		.uleb128 0x2
- 1280 0010 24       		.uleb128 0x24
- 1281 0011 00       		.byte	0
- 1282 0012 0B       		.uleb128 0xb
- 1283 0013 0B       		.uleb128 0xb
- 1284 0014 3E       		.uleb128 0x3e
- 1285 0015 0B       		.uleb128 0xb
- 1286 0016 03       		.uleb128 0x3
- 1287 0017 0E       		.uleb128 0xe
- 1288 0018 00       		.byte	0
- 1289 0019 00       		.byte	0
- 1290 001a 03       		.uleb128 0x3
- 1291 001b 16       		.uleb128 0x16
- 1292 001c 00       		.byte	0
- 1293 001d 03       		.uleb128 0x3
- 1294 001e 0E       		.uleb128 0xe
- 1295 001f 3A       		.uleb128 0x3a
- 1296 0020 0B       		.uleb128 0xb
- 1297 0021 3B       		.uleb128 0x3b
- 1298 0022 0B       		.uleb128 0xb
- 1299 0023 49       		.uleb128 0x49
- 1300 0024 13       		.uleb128 0x13
- 1301 0025 00       		.byte	0
- 1302 0026 00       		.byte	0
- 1303 0027 04       		.uleb128 0x4
- 1304 0028 24       		.uleb128 0x24
- 1305 0029 00       		.byte	0
- 1306 002a 0B       		.uleb128 0xb
- 1307 002b 0B       		.uleb128 0xb
-ARM GAS  C:\Users\MECHAT~1\AppData\Local\Temp\cc2g9B0G.s 			page 24
+ 1251 012f 07       		.uleb128 0x7
+ 1252 0130 0E010000 		.4byte	0x10e
+ 1253 0134 00       		.byte	0
+ 1254              		.section	.debug_abbrev,"",%progbits
+ 1255              	.Ldebug_abbrev0:
+ 1256 0000 01       		.uleb128 0x1
+ 1257 0001 11       		.uleb128 0x11
+ 1258 0002 01       		.byte	0x1
+ 1259 0003 25       		.uleb128 0x25
+ 1260 0004 0E       		.uleb128 0xe
+ 1261 0005 13       		.uleb128 0x13
+ 1262 0006 0B       		.uleb128 0xb
+ 1263 0007 03       		.uleb128 0x3
+ 1264 0008 0E       		.uleb128 0xe
+ 1265 0009 1B       		.uleb128 0x1b
+ 1266 000a 0E       		.uleb128 0xe
+ 1267 000b 10       		.uleb128 0x10
+ 1268 000c 17       		.uleb128 0x17
+ 1269 000d 00       		.byte	0
+ 1270 000e 00       		.byte	0
+ 1271 000f 02       		.uleb128 0x2
+ 1272 0010 24       		.uleb128 0x24
+ 1273 0011 00       		.byte	0
+ 1274 0012 0B       		.uleb128 0xb
+ 1275 0013 0B       		.uleb128 0xb
+ 1276 0014 3E       		.uleb128 0x3e
+ 1277 0015 0B       		.uleb128 0xb
+ 1278 0016 03       		.uleb128 0x3
+ 1279 0017 0E       		.uleb128 0xe
+ 1280 0018 00       		.byte	0
+ 1281 0019 00       		.byte	0
+ 1282 001a 03       		.uleb128 0x3
+ 1283 001b 16       		.uleb128 0x16
+ 1284 001c 00       		.byte	0
+ 1285 001d 03       		.uleb128 0x3
+ 1286 001e 0E       		.uleb128 0xe
+ 1287 001f 3A       		.uleb128 0x3a
+ 1288 0020 0B       		.uleb128 0xb
+ 1289 0021 3B       		.uleb128 0x3b
+ 1290 0022 0B       		.uleb128 0xb
+ 1291 0023 49       		.uleb128 0x49
+ 1292 0024 13       		.uleb128 0x13
+ 1293 0025 00       		.byte	0
+ 1294 0026 00       		.byte	0
+ 1295 0027 04       		.uleb128 0x4
+ 1296 0028 24       		.uleb128 0x24
+ 1297 0029 00       		.byte	0
+ 1298 002a 0B       		.uleb128 0xb
+ 1299 002b 0B       		.uleb128 0xb
+ 1300 002c 3E       		.uleb128 0x3e
+ 1301 002d 0B       		.uleb128 0xb
+ 1302 002e 03       		.uleb128 0x3
+ 1303 002f 08       		.uleb128 0x8
+ 1304 0030 00       		.byte	0
+ 1305 0031 00       		.byte	0
+ 1306 0032 05       		.uleb128 0x5
+ 1307 0033 01       		.uleb128 0x1
+ARM GAS  C:\Users\MECHAT~1\AppData\Local\Temp\ccEQ8ISc.s 			page 24
 
 
- 1308 002c 3E       		.uleb128 0x3e
- 1309 002d 0B       		.uleb128 0xb
- 1310 002e 03       		.uleb128 0x3
- 1311 002f 08       		.uleb128 0x8
- 1312 0030 00       		.byte	0
- 1313 0031 00       		.byte	0
- 1314 0032 05       		.uleb128 0x5
- 1315 0033 01       		.uleb128 0x1
- 1316 0034 01       		.byte	0x1
- 1317 0035 49       		.uleb128 0x49
- 1318 0036 13       		.uleb128 0x13
- 1319 0037 01       		.uleb128 0x1
- 1320 0038 13       		.uleb128 0x13
- 1321 0039 00       		.byte	0
- 1322 003a 00       		.byte	0
- 1323 003b 06       		.uleb128 0x6
- 1324 003c 21       		.uleb128 0x21
- 1325 003d 00       		.byte	0
- 1326 003e 49       		.uleb128 0x49
- 1327 003f 13       		.uleb128 0x13
- 1328 0040 2F       		.uleb128 0x2f
- 1329 0041 05       		.uleb128 0x5
- 1330 0042 00       		.byte	0
- 1331 0043 00       		.byte	0
- 1332 0044 07       		.uleb128 0x7
- 1333 0045 26       		.uleb128 0x26
- 1334 0046 00       		.byte	0
- 1335 0047 49       		.uleb128 0x49
- 1336 0048 13       		.uleb128 0x13
- 1337 0049 00       		.byte	0
- 1338 004a 00       		.byte	0
- 1339 004b 08       		.uleb128 0x8
- 1340 004c 34       		.uleb128 0x34
- 1341 004d 00       		.byte	0
- 1342 004e 03       		.uleb128 0x3
- 1343 004f 0E       		.uleb128 0xe
- 1344 0050 3A       		.uleb128 0x3a
- 1345 0051 0B       		.uleb128 0xb
- 1346 0052 3B       		.uleb128 0x3b
- 1347 0053 0B       		.uleb128 0xb
- 1348 0054 49       		.uleb128 0x49
- 1349 0055 13       		.uleb128 0x13
- 1350 0056 3F       		.uleb128 0x3f
- 1351 0057 19       		.uleb128 0x19
- 1352 0058 02       		.uleb128 0x2
- 1353 0059 18       		.uleb128 0x18
- 1354 005a 00       		.byte	0
- 1355 005b 00       		.byte	0
- 1356 005c 09       		.uleb128 0x9
- 1357 005d 21       		.uleb128 0x21
- 1358 005e 00       		.byte	0
- 1359 005f 49       		.uleb128 0x49
- 1360 0060 13       		.uleb128 0x13
- 1361 0061 2F       		.uleb128 0x2f
- 1362 0062 0B       		.uleb128 0xb
- 1363 0063 00       		.byte	0
- 1364 0064 00       		.byte	0
-ARM GAS  C:\Users\MECHAT~1\AppData\Local\Temp\cc2g9B0G.s 			page 25
+ 1308 0034 01       		.byte	0x1
+ 1309 0035 49       		.uleb128 0x49
+ 1310 0036 13       		.uleb128 0x13
+ 1311 0037 01       		.uleb128 0x1
+ 1312 0038 13       		.uleb128 0x13
+ 1313 0039 00       		.byte	0
+ 1314 003a 00       		.byte	0
+ 1315 003b 06       		.uleb128 0x6
+ 1316 003c 21       		.uleb128 0x21
+ 1317 003d 00       		.byte	0
+ 1318 003e 49       		.uleb128 0x49
+ 1319 003f 13       		.uleb128 0x13
+ 1320 0040 2F       		.uleb128 0x2f
+ 1321 0041 05       		.uleb128 0x5
+ 1322 0042 00       		.byte	0
+ 1323 0043 00       		.byte	0
+ 1324 0044 07       		.uleb128 0x7
+ 1325 0045 26       		.uleb128 0x26
+ 1326 0046 00       		.byte	0
+ 1327 0047 49       		.uleb128 0x49
+ 1328 0048 13       		.uleb128 0x13
+ 1329 0049 00       		.byte	0
+ 1330 004a 00       		.byte	0
+ 1331 004b 08       		.uleb128 0x8
+ 1332 004c 34       		.uleb128 0x34
+ 1333 004d 00       		.byte	0
+ 1334 004e 03       		.uleb128 0x3
+ 1335 004f 0E       		.uleb128 0xe
+ 1336 0050 3A       		.uleb128 0x3a
+ 1337 0051 0B       		.uleb128 0xb
+ 1338 0052 3B       		.uleb128 0x3b
+ 1339 0053 0B       		.uleb128 0xb
+ 1340 0054 49       		.uleb128 0x49
+ 1341 0055 13       		.uleb128 0x13
+ 1342 0056 3F       		.uleb128 0x3f
+ 1343 0057 19       		.uleb128 0x19
+ 1344 0058 02       		.uleb128 0x2
+ 1345 0059 18       		.uleb128 0x18
+ 1346 005a 00       		.byte	0
+ 1347 005b 00       		.byte	0
+ 1348 005c 09       		.uleb128 0x9
+ 1349 005d 21       		.uleb128 0x21
+ 1350 005e 00       		.byte	0
+ 1351 005f 49       		.uleb128 0x49
+ 1352 0060 13       		.uleb128 0x13
+ 1353 0061 2F       		.uleb128 0x2f
+ 1354 0062 0B       		.uleb128 0xb
+ 1355 0063 00       		.byte	0
+ 1356 0064 00       		.byte	0
+ 1357 0065 00       		.byte	0
+ 1358              		.section	.debug_aranges,"",%progbits
+ 1359 0000 14000000 		.4byte	0x14
+ 1360 0004 0200     		.2byte	0x2
+ 1361 0006 00000000 		.4byte	.Ldebug_info0
+ 1362 000a 04       		.byte	0x4
+ 1363 000b 00       		.byte	0
+ 1364 000c 0000     		.2byte	0
+ARM GAS  C:\Users\MECHAT~1\AppData\Local\Temp\ccEQ8ISc.s 			page 25
 
 
- 1365 0065 00       		.byte	0
- 1366              		.section	.debug_aranges,"",%progbits
- 1367 0000 14000000 		.4byte	0x14
- 1368 0004 0200     		.2byte	0x2
- 1369 0006 00000000 		.4byte	.Ldebug_info0
- 1370 000a 04       		.byte	0x4
- 1371 000b 00       		.byte	0
- 1372 000c 0000     		.2byte	0
- 1373 000e 0000     		.2byte	0
- 1374 0010 00000000 		.4byte	0
- 1375 0014 00000000 		.4byte	0
- 1376              		.section	.debug_line,"",%progbits
- 1377              	.Ldebug_line0:
- 1378 0000 3D010000 		.section	.debug_str,"MS",%progbits,1
- 1378      02003701 
- 1378      00000201 
- 1378      FB0E0D00 
- 1378      01010101 
- 1379              	.LASF9:
- 1380 0000 5F5F7569 		.ascii	"__uint8_t\000"
- 1380      6E74385F 
- 1380      7400
- 1381              	.LASF16:
- 1382 000a 63795F6D 		.ascii	"cy_metadata\000"
- 1382      65746164 
- 1382      61746100 
- 1383              	.LASF1:
- 1384 0016 756E7369 		.ascii	"unsigned char\000"
- 1384      676E6564 
- 1384      20636861 
- 1384      7200
- 1385              	.LASF17:
- 1386 0024 474E5520 		.ascii	"GNU C11 5.4.1 20160609 (release) [ARM/embedded-5-br"
- 1386      43313120 
- 1386      352E342E 
- 1386      31203230 
- 1386      31363036 
- 1387 0057 616E6368 		.ascii	"anch revision 237715] -mcpu=cortex-m3 -mthumb -g -O"
- 1387      20726576 
- 1387      6973696F 
- 1387      6E203233 
- 1387      37373135 
- 1388 008a 67202D66 		.ascii	"g -ffunction-sections -ffat-lto-objects\000"
- 1388      66756E63 
- 1388      74696F6E 
- 1388      2D736563 
- 1388      74696F6E 
- 1389              	.LASF5:
- 1390 00b2 6C6F6E67 		.ascii	"long unsigned int\000"
- 1390      20756E73 
- 1390      69676E65 
- 1390      6420696E 
- 1390      7400
- 1391              	.LASF3:
- 1392 00c4 73686F72 		.ascii	"short unsigned int\000"
- 1392      7420756E 
+ 1365 000e 0000     		.2byte	0
+ 1366 0010 00000000 		.4byte	0
+ 1367 0014 00000000 		.4byte	0
+ 1368              		.section	.debug_line,"",%progbits
+ 1369              	.Ldebug_line0:
+ 1370 0000 3D010000 		.section	.debug_str,"MS",%progbits,1
+ 1370      02003701 
+ 1370      00000201 
+ 1370      FB0E0D00 
+ 1370      01010101 
+ 1371              	.LASF9:
+ 1372 0000 5F5F7569 		.ascii	"__uint8_t\000"
+ 1372      6E74385F 
+ 1372      7400
+ 1373              	.LASF16:
+ 1374 000a 63795F6D 		.ascii	"cy_metadata\000"
+ 1374      65746164 
+ 1374      61746100 
+ 1375              	.LASF1:
+ 1376 0016 756E7369 		.ascii	"unsigned char\000"
+ 1376      676E6564 
+ 1376      20636861 
+ 1376      7200
+ 1377              	.LASF17:
+ 1378 0024 474E5520 		.ascii	"GNU C11 5.4.1 20160609 (release) [ARM/embedded-5-br"
+ 1378      43313120 
+ 1378      352E342E 
+ 1378      31203230 
+ 1378      31363036 
+ 1379 0057 616E6368 		.ascii	"anch revision 237715] -mcpu=cortex-m3 -mthumb -g -O"
+ 1379      20726576 
+ 1379      6973696F 
+ 1379      6E203233 
+ 1379      37373135 
+ 1380 008a 67202D66 		.ascii	"g -ffunction-sections -ffat-lto-objects\000"
+ 1380      66756E63 
+ 1380      74696F6E 
+ 1380      2D736563 
+ 1380      74696F6E 
+ 1381              	.LASF5:
+ 1382 00b2 6C6F6E67 		.ascii	"long unsigned int\000"
+ 1382      20756E73 
+ 1382      69676E65 
+ 1382      6420696E 
+ 1382      7400
+ 1383              	.LASF3:
+ 1384 00c4 73686F72 		.ascii	"short unsigned int\000"
+ 1384      7420756E 
+ 1384      7369676E 
+ 1384      65642069 
+ 1384      6E7400
+ 1385              	.LASF13:
+ 1386 00d7 63795F6D 		.ascii	"cy_meta_custnvl\000"
+ 1386      6574615F 
+ 1386      63757374 
+ 1386      6E766C00 
+ 1387              	.LASF12:
+ARM GAS  C:\Users\MECHAT~1\AppData\Local\Temp\ccEQ8ISc.s 			page 26
+
+
+ 1388 00e7 63795F6D 		.ascii	"cy_meta_configecc\000"
+ 1388      6574615F 
+ 1388      636F6E66 
+ 1388      69676563 
+ 1388      6300
+ 1389              	.LASF8:
+ 1390 00f9 756E7369 		.ascii	"unsigned int\000"
+ 1390      676E6564 
+ 1390      20696E74 
+ 1390      00
+ 1391              	.LASF7:
+ 1392 0106 6C6F6E67 		.ascii	"long long unsigned int\000"
+ 1392      206C6F6E 
+ 1392      6720756E 
  1392      7369676E 
-ARM GAS  C:\Users\MECHAT~1\AppData\Local\Temp\cc2g9B0G.s 			page 26
-
-
  1392      65642069 
- 1392      6E7400
- 1393              	.LASF13:
- 1394 00d7 63795F6D 		.ascii	"cy_meta_custnvl\000"
- 1394      6574615F 
- 1394      63757374 
- 1394      6E766C00 
- 1395              	.LASF12:
- 1396 00e7 63795F6D 		.ascii	"cy_meta_configecc\000"
+ 1393              	.LASF10:
+ 1394 011d 75696E74 		.ascii	"uint8_t\000"
+ 1394      385F7400 
+ 1395              	.LASF15:
+ 1396 0125 63795F6D 		.ascii	"cy_meta_flashprotect\000"
  1396      6574615F 
- 1396      636F6E66 
- 1396      69676563 
- 1396      6300
- 1397              	.LASF8:
- 1398 00f9 756E7369 		.ascii	"unsigned int\000"
- 1398      676E6564 
- 1398      20696E74 
- 1398      00
- 1399              	.LASF7:
- 1400 0106 6C6F6E67 		.ascii	"long long unsigned int\000"
- 1400      206C6F6E 
- 1400      6720756E 
- 1400      7369676E 
- 1400      65642069 
- 1401              	.LASF10:
- 1402 011d 75696E74 		.ascii	"uint8_t\000"
- 1402      385F7400 
- 1403              	.LASF15:
- 1404 0125 63795F6D 		.ascii	"cy_meta_flashprotect\000"
- 1404      6574615F 
- 1404      666C6173 
- 1404      6870726F 
- 1404      74656374 
- 1405              	.LASF14:
- 1406 013a 63795F6D 		.ascii	"cy_meta_wonvl\000"
- 1406      6574615F 
- 1406      776F6E76 
- 1406      6C00
- 1407              	.LASF11:
- 1408 0148 73697A65 		.ascii	"sizetype\000"
- 1408      74797065 
- 1408      00
- 1409              	.LASF6:
- 1410 0151 6C6F6E67 		.ascii	"long long int\000"
- 1410      206C6F6E 
- 1410      6720696E 
- 1410      7400
- 1411              	.LASF2:
- 1412 015f 73686F72 		.ascii	"short int\000"
- 1412      7420696E 
- 1412      7400
- 1413              	.LASF4:
- 1414 0169 6C6F6E67 		.ascii	"long int\000"
- 1414      20696E74 
- 1414      00
- 1415              	.LASF0:
- 1416 0172 7369676E 		.ascii	"signed char\000"
-ARM GAS  C:\Users\MECHAT~1\AppData\Local\Temp\cc2g9B0G.s 			page 27
+ 1396      666C6173 
+ 1396      6870726F 
+ 1396      74656374 
+ 1397              	.LASF14:
+ 1398 013a 63795F6D 		.ascii	"cy_meta_wonvl\000"
+ 1398      6574615F 
+ 1398      776F6E76 
+ 1398      6C00
+ 1399              	.LASF11:
+ 1400 0148 73697A65 		.ascii	"sizetype\000"
+ 1400      74797065 
+ 1400      00
+ 1401              	.LASF6:
+ 1402 0151 6C6F6E67 		.ascii	"long long int\000"
+ 1402      206C6F6E 
+ 1402      6720696E 
+ 1402      7400
+ 1403              	.LASF2:
+ 1404 015f 73686F72 		.ascii	"short int\000"
+ 1404      7420696E 
+ 1404      7400
+ 1405              	.LASF4:
+ 1406 0169 6C6F6E67 		.ascii	"long int\000"
+ 1406      20696E74 
+ 1406      00
+ 1407              	.LASF0:
+ 1408 0172 7369676E 		.ascii	"signed char\000"
+ 1408      65642063 
+ 1408      68617200 
+ 1409              	.LASF19:
+ 1410 017e 433A5C55 		.ascii	"C:\\Users\\mechatoro\\Documents\\PSoC Creator\\rota"
+ 1410      73657273 
+ 1410      5C6D6563 
+ 1410      6861746F 
+ 1410      726F5C44 
+ARM GAS  C:\Users\MECHAT~1\AppData\Local\Temp\ccEQ8ISc.s 			page 27
 
 
- 1416      65642063 
- 1416      68617200 
- 1417              	.LASF19:
- 1418 017e 433A5C55 		.ascii	"C:\\Users\\mechatoro\\Documents\\PSoC Creator\\rota"
- 1418      73657273 
- 1418      5C6D6563 
- 1418      6861746F 
- 1418      726F5C44 
- 1419 01ac 72795F65 		.ascii	"ry_enc_hard\\rotary_enc_hard.cydsn\000"
- 1419      6E635F68 
- 1419      6172645C 
- 1419      726F7461 
- 1419      72795F65 
- 1420              	.LASF18:
- 1421 01ce 47656E65 		.ascii	"Generated_Source\\PSoC5\\cymetadata.c\000"
- 1421      72617465 
- 1421      645F536F 
- 1421      75726365 
- 1421      5C50536F 
- 1422              		.ident	"GCC: (GNU Tools for ARM Embedded Processors) 5.4.1 20160609 (release) [ARM/embedded-5-bran
+ 1411 01ac 72795F65 		.ascii	"ry_enc_hard\\rotary_enc_hard.cydsn\000"
+ 1411      6E635F68 
+ 1411      6172645C 
+ 1411      726F7461 
+ 1411      72795F65 
+ 1412              	.LASF18:
+ 1413 01ce 47656E65 		.ascii	"Generated_Source\\PSoC5\\cymetadata.c\000"
+ 1413      72617465 
+ 1413      645F536F 
+ 1413      75726365 
+ 1413      5C50536F 
+ 1414              		.ident	"GCC: (GNU Tools for ARM Embedded Processors) 5.4.1 20160609 (release) [ARM/embedded-5-bran

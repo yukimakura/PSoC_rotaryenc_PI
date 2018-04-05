@@ -13,7 +13,7 @@
 <v>Output</v>
 </TreeKeys>
 <TreeStates>
-<CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237 type_name="CyDesigner.Common.Base.Controls.CyTreeViewState" version="1" SelectedNodeId="">
+<CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237 type_name="CyDesigner.Common.Base.Controls.CyTreeViewState" version="1" SelectedNodeId="rotary_enc_hard\rotary_enc_hard\Source Files\main.c">
 <ExpandedNodeIds>
 <v>rotary_enc_hard</v>
 <v>rotary_enc_hard\rotary_enc_hard</v>
@@ -62,11 +62,11 @@
 <v>rotary_enc_hard\rotary_enc_hard\Generated_Source\PSoC5\dt_isr</v>
 <v>rotary_enc_hard\rotary_enc_hard\Generated_Source\PSoC5\enc_a</v>
 <v>rotary_enc_hard\rotary_enc_hard\Generated_Source\PSoC5\enc_b</v>
-<v>rotary_enc_hard\rotary_enc_hard\Generated_Source\PSoC5\LCD_Char</v>
-<v>rotary_enc_hard\rotary_enc_hard\Generated_Source\PSoC5\LCD_Char_LCDPort</v>
 <v>rotary_enc_hard\rotary_enc_hard\Generated_Source\PSoC5\Pin_1</v>
 <v>rotary_enc_hard\rotary_enc_hard\Generated_Source\PSoC5\PWM</v>
 <v>rotary_enc_hard\rotary_enc_hard\Generated_Source\PSoC5\QuadDec</v>
+<v>rotary_enc_hard\rotary_enc_hard\Generated_Source\PSoC5\QuadDec_Cnt16</v>
+<v>rotary_enc_hard\rotary_enc_hard\Generated_Source\PSoC5\USBUART</v>
 </VisibleNodeIds>
 </CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237>
 <CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237 type_name="CyDesigner.Common.Base.Controls.CyTreeViewState" version="1" SelectedNodeId="">
@@ -107,9 +107,6 @@
 <v>rotary_enc_hard\rotary_enc_hard\CortexM3\ARM_GCC_541\Debug\Listing Files\dt_isr.lst</v>
 <v>rotary_enc_hard\rotary_enc_hard\CortexM3\ARM_GCC_541\Debug\Listing Files\enc_a.lst</v>
 <v>rotary_enc_hard\rotary_enc_hard\CortexM3\ARM_GCC_541\Debug\Listing Files\enc_b.lst</v>
-<v>rotary_enc_hard\rotary_enc_hard\CortexM3\ARM_GCC_541\Debug\Listing Files\LCD_Char.lst</v>
-<v>rotary_enc_hard\rotary_enc_hard\CortexM3\ARM_GCC_541\Debug\Listing Files\LCD_Char_LCDPort.lst</v>
-<v>rotary_enc_hard\rotary_enc_hard\CortexM3\ARM_GCC_541\Debug\Listing Files\LCD_Char_PM.lst</v>
 <v>rotary_enc_hard\rotary_enc_hard\CortexM3\ARM_GCC_541\Debug\Listing Files\main.lst</v>
 <v>rotary_enc_hard\rotary_enc_hard\CortexM3\ARM_GCC_541\Debug\Listing Files\Pin_1.lst</v>
 <v>rotary_enc_hard\rotary_enc_hard\CortexM3\ARM_GCC_541\Debug\Listing Files\PWM.lst</v>
@@ -144,35 +141,6 @@
 <VisibleNodeIds>
 <v>rotary_enc_hard</v>
 <v>rotary_enc_hard\rotary_enc_hard</v>
-<v>rotary_enc_hard\rotary_enc_hard\CortexM3</v>
-<v>rotary_enc_hard\rotary_enc_hard\CortexM3\ARM_GCC_541</v>
-<v>rotary_enc_hard\rotary_enc_hard\CortexM3\ARM_GCC_541\Debug</v>
-<v>rotary_enc_hard\rotary_enc_hard\CortexM3\ARM_GCC_541\Debug\Listing Files</v>
-<v>rotary_enc_hard\rotary_enc_hard\CortexM3\ARM_GCC_541\Debug\Listing Files\Clock_1.lst</v>
-<v>rotary_enc_hard\rotary_enc_hard\CortexM3\ARM_GCC_541\Debug\Listing Files\Clock_2.lst</v>
-<v>rotary_enc_hard\rotary_enc_hard\CortexM3\ARM_GCC_541\Debug\Listing Files\Clock_3.lst</v>
-<v>rotary_enc_hard\rotary_enc_hard\CortexM3\ARM_GCC_541\Debug\Listing Files\Cm3Start.lst</v>
-<v>rotary_enc_hard\rotary_enc_hard\CortexM3\ARM_GCC_541\Debug\Listing Files\CyBootAsmGnu.lst</v>
-<v>rotary_enc_hard\rotary_enc_hard\CortexM3\ARM_GCC_541\Debug\Listing Files\CyDmac.lst</v>
-<v>rotary_enc_hard\rotary_enc_hard\CortexM3\ARM_GCC_541\Debug\Listing Files\cyfitter_cfg.lst</v>
-<v>rotary_enc_hard\rotary_enc_hard\CortexM3\ARM_GCC_541\Debug\Listing Files\CyFlash.lst</v>
-<v>rotary_enc_hard\rotary_enc_hard\CortexM3\ARM_GCC_541\Debug\Listing Files\CyLib.lst</v>
-<v>rotary_enc_hard\rotary_enc_hard\CortexM3\ARM_GCC_541\Debug\Listing Files\cymetadata.lst</v>
-<v>rotary_enc_hard\rotary_enc_hard\CortexM3\ARM_GCC_541\Debug\Listing Files\cyPm.lst</v>
-<v>rotary_enc_hard\rotary_enc_hard\CortexM3\ARM_GCC_541\Debug\Listing Files\CySpc.lst</v>
-<v>rotary_enc_hard\rotary_enc_hard\CortexM3\ARM_GCC_541\Debug\Listing Files\cyutils.lst</v>
-<v>rotary_enc_hard\rotary_enc_hard\CortexM3\ARM_GCC_541\Debug\Listing Files\dt_isr.lst</v>
-<v>rotary_enc_hard\rotary_enc_hard\CortexM3\ARM_GCC_541\Debug\Listing Files\enc_a.lst</v>
-<v>rotary_enc_hard\rotary_enc_hard\CortexM3\ARM_GCC_541\Debug\Listing Files\enc_b.lst</v>
-<v>rotary_enc_hard\rotary_enc_hard\CortexM3\ARM_GCC_541\Debug\Listing Files\LCD_Char.lst</v>
-<v>rotary_enc_hard\rotary_enc_hard\CortexM3\ARM_GCC_541\Debug\Listing Files\LCD_Char_LCDPort.lst</v>
-<v>rotary_enc_hard\rotary_enc_hard\CortexM3\ARM_GCC_541\Debug\Listing Files\LCD_Char_PM.lst</v>
-<v>rotary_enc_hard\rotary_enc_hard\CortexM3\ARM_GCC_541\Debug\Listing Files\main.lst</v>
-<v>rotary_enc_hard\rotary_enc_hard\CortexM3\ARM_GCC_541\Debug\Listing Files\Pin_1.lst</v>
-<v>rotary_enc_hard\rotary_enc_hard\CortexM3\ARM_GCC_541\Debug\Listing Files\PWM.lst</v>
-<v>rotary_enc_hard\rotary_enc_hard\CortexM3\ARM_GCC_541\Debug\Listing Files\PWM_PM.lst</v>
-<v>rotary_enc_hard\rotary_enc_hard\CortexM3\ARM_GCC_541\Debug\Listing Files\QuadDec.lst</v>
-<v>rotary_enc_hard\rotary_enc_hard\CortexM3\ARM_GCC_541\Debug\Listing Files\QuadDec_Cnt16.lst</v>
 </VisibleNodeIds>
 </CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237>
 </TreeStates>
@@ -188,7 +156,6 @@
 <v>rotary_enc_hard\rotary_enc_hard\CY8C58LP Family Datasheet</v>
 <v>rotary_enc_hard\rotary_enc_hard\System Reference Guides</v>
 <v>rotary_enc_hard\rotary_enc_hard\System Reference Guides\cy_boot_v5_60</v>
-<v>rotary_enc_hard\rotary_enc_hard\CharLCD_v2_20.pdf</v>
 <v>rotary_enc_hard\rotary_enc_hard\cy_clock_v2_20</v>
 <v>rotary_enc_hard\rotary_enc_hard\cy_clock_v2_20\cy_clock_v2_20.pdf</v>
 <v>rotary_enc_hard\rotary_enc_hard\cy_isr_v1_70.pdf</v>
@@ -205,7 +172,6 @@
 <v>rotary_enc_hard\rotary_enc_hard\CY8C58LP Family Datasheet</v>
 <v>rotary_enc_hard\rotary_enc_hard\System Reference Guides</v>
 <v>rotary_enc_hard\rotary_enc_hard\System Reference Guides\cy_boot_v5_60</v>
-<v>rotary_enc_hard\rotary_enc_hard\CharLCD_v2_20.pdf</v>
 <v>rotary_enc_hard\rotary_enc_hard\cy_clock_v2_20</v>
 <v>rotary_enc_hard\rotary_enc_hard\cy_clock_v2_20\cy_clock_v2_20.pdf</v>
 <v>rotary_enc_hard\rotary_enc_hard\cy_isr_v1_70.pdf</v>
@@ -225,6 +191,10 @@
 <OpenDocs>
 <name v=".\rotary_enc_hard.cydsn\TopDesign\TopDesign.cysch" />
 <name v=".\rotary_enc_hard.cydsn\rotary_enc_hard.cydwr" />
+<name v=".\rotary_enc_hard.cydsn\Generated_Source\PSoC5\CyBootAsmGnu.s" />
+<name v=".\rotary_enc_hard.cydsn\Generated_Source\PSoC5\CyLib.c" />
+<name v=".\rotary_enc_hard.cydsn\Generated_Source\PSoC5\QuadDec_Cnt16.c" />
+<name v=".\rotary_enc_hard.cydsn\Generated_Source\PSoC5\USBUART.c" />
 <name v=".\rotary_enc_hard.cydsn\main.c" />
 </OpenDocs>
 <OpenDocsLayout><![CDATA[<?xml version="1.0"?><!--
@@ -233,7 +203,7 @@
   Copyright (c) 2001-2016 Actipro Software LLC.  All rights reserved.
   http://www.actiprosoftware.com
 
---><DocumentLayout Version="1.0"><LayoutData><TabbedMdiRootContainer Orientation="Horizontal"><TabbedMdiContainer Size="1002, 409" SelectedTabbedMdiWindow="184dcbca-3839-4012-88e9-380932ccf473"><ToolWindow Key="Start Page:bd4649ab-da6b-4d04-a663-c722b8bf99db:Start Page" Guid="0dfd48a3-2c0a-4379-9f26-c8d6ee48ad5c" /><DocumentWindow Key="C:\Users\mechatoro\Documents\PSoC Creator\rotary_enc_hard\rotary_enc_hard.cydsn\TopDesign\TopDesign.cysch" Guid="184dcbca-3839-4012-88e9-380932ccf473" /><DocumentWindow Key="C:\Users\mechatoro\Documents\PSoC Creator\rotary_enc_hard\rotary_enc_hard.cydsn\rotary_enc_hard.cydwr" Guid="5b775766-412c-494d-92ef-d3504bba1769" /><DocumentWindow Key="C:\Users\mechatoro\Documents\PSoC Creator\rotary_enc_hard\rotary_enc_hard.cydsn\main.c" Guid="8ba07701-3b2c-4180-a7e4-880e0a036291" /></TabbedMdiContainer></TabbedMdiRootContainer><FloatingContainers /></LayoutData></DocumentLayout>]]></OpenDocsLayout>
+--><DocumentLayout Version="1.0"><LayoutData><TabbedMdiRootContainer Orientation="Horizontal"><TabbedMdiContainer Size="1064, 409" SelectedTabbedMdiWindow="424b7c88-f892-4826-b4a0-fc6f738e5fd9"><DocumentWindow Key="C:\Users\mechatoro\Documents\PSoC Creator\rotary_enc_hard\rotary_enc_hard.cydsn\TopDesign\TopDesign.cysch" Guid="184dcbca-3839-4012-88e9-380932ccf473" /><DocumentWindow Key="C:\Users\mechatoro\Documents\PSoC Creator\rotary_enc_hard\rotary_enc_hard.cydsn\rotary_enc_hard.cydwr" Guid="5b775766-412c-494d-92ef-d3504bba1769" /><DocumentWindow Key="C:\Users\mechatoro\Documents\PSoC Creator\rotary_enc_hard\rotary_enc_hard.cydsn\Generated_Source\PSoC5\CyBootAsmGnu.s" Guid="4b0fcd90-980a-40c3-bffe-d5e98838af65" /><DocumentWindow Key="C:\Users\mechatoro\Documents\PSoC Creator\rotary_enc_hard\rotary_enc_hard.cydsn\Generated_Source\PSoC5\CyLib.c" Guid="2f81b489-21af-46b5-acbb-00c6446dffd3" /><DocumentWindow Key="C:\Users\mechatoro\Documents\PSoC Creator\rotary_enc_hard\rotary_enc_hard.cydsn\Generated_Source\PSoC5\QuadDec_Cnt16.c" Guid="5a2c26b9-13e4-4250-9620-3db46c3984ea" /><DocumentWindow Key="C:\Users\mechatoro\Documents\PSoC Creator\rotary_enc_hard\rotary_enc_hard.cydsn\Generated_Source\PSoC5\USBUART.c" Guid="1c8a6803-339f-4846-870c-ced02f078c3a" /><ToolWindow Key="Start Page:bd4649ab-da6b-4d04-a663-c722b8bf99db:Start Page" Guid="0dfd48a3-2c0a-4379-9f26-c8d6ee48ad5c" /><DocumentWindow Key="C:\Users\mechatoro\Documents\PSoC Creator\rotary_enc_hard\rotary_enc_hard.cydsn\main.c" Guid="424b7c88-f892-4826-b4a0-fc6f738e5fd9" /></TabbedMdiContainer></TabbedMdiRootContainer><FloatingContainers /></LayoutData></DocumentLayout>]]></OpenDocsLayout>
 <config v="" />
 <AutoUpdate v="true" />
 </CyGuid_843a90a4-0c4b-4e44-991d-05e7fb117a21>

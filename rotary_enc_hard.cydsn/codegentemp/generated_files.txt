@@ -29,9 +29,6 @@
   <file name="C:\Users\mechatoro\Documents\PSoC Creator\rotary_enc_hard\rotary_enc_hard.cydsn\codegentemp\enc_b_aliases.h" value="HEADER;;;;;enc_b" />
   <file name="C:\Users\mechatoro\Documents\PSoC Creator\rotary_enc_hard\rotary_enc_hard.cydsn\codegentemp\enc_b.c" value="SOURCE_C;CortexM3;;;;enc_b" />
   <file name="C:\Users\mechatoro\Documents\PSoC Creator\rotary_enc_hard\rotary_enc_hard.cydsn\codegentemp\enc_b.h" value="HEADER;;;;;enc_b" />
-  <file name="C:\Users\mechatoro\Documents\PSoC Creator\rotary_enc_hard\rotary_enc_hard.cydsn\codegentemp\LCD_Char.c" value="SOURCE_C;CortexM3;;;;LCD_Char" />
-  <file name="C:\Users\mechatoro\Documents\PSoC Creator\rotary_enc_hard\rotary_enc_hard.cydsn\codegentemp\LCD_Char.h" value="HEADER;;;;;LCD_Char" />
-  <file name="C:\Users\mechatoro\Documents\PSoC Creator\rotary_enc_hard\rotary_enc_hard.cydsn\codegentemp\LCD_Char_PM.c" value="SOURCE_C;CortexM3;;;;LCD_Char" />
   <file name="C:\Users\mechatoro\Documents\PSoC Creator\rotary_enc_hard\rotary_enc_hard.cydsn\codegentemp\dt_isr.c" value="SOURCE_C;CortexM3;;;;dt_isr" />
   <file name="C:\Users\mechatoro\Documents\PSoC Creator\rotary_enc_hard\rotary_enc_hard.cydsn\codegentemp\dt_isr.h" value="HEADER;;;;;dt_isr" />
   <file name="C:\Users\mechatoro\Documents\PSoC Creator\rotary_enc_hard\rotary_enc_hard.cydsn\codegentemp\Clock_2.c" value="SOURCE_C;CortexM3;;;;Clock_2" />
@@ -70,9 +67,6 @@
   <file name="C:\Users\mechatoro\Documents\PSoC Creator\rotary_enc_hard\rotary_enc_hard.cydsn\codegentemp\QuadDec_Cnt16.c" value="SOURCE_C;CortexM3;;;;QuadDec_Cnt16" />
   <file name="C:\Users\mechatoro\Documents\PSoC Creator\rotary_enc_hard\rotary_enc_hard.cydsn\codegentemp\QuadDec_Cnt16.h" value="HEADER;;;;;QuadDec_Cnt16" />
   <file name="C:\Users\mechatoro\Documents\PSoC Creator\rotary_enc_hard\rotary_enc_hard.cydsn\codegentemp\QuadDec_Cnt16_PM.c" value="SOURCE_C;CortexM3;;;;QuadDec_Cnt16" />
-  <file name="C:\Users\mechatoro\Documents\PSoC Creator\rotary_enc_hard\rotary_enc_hard.cydsn\codegentemp\LCD_Char_LCDPort_aliases.h" value="HEADER;;;;;LCD_Char_LCDPort" />
-  <file name="C:\Users\mechatoro\Documents\PSoC Creator\rotary_enc_hard\rotary_enc_hard.cydsn\codegentemp\LCD_Char_LCDPort.c" value="SOURCE_C;CortexM3;;;;LCD_Char_LCDPort" />
-  <file name="C:\Users\mechatoro\Documents\PSoC Creator\rotary_enc_hard\rotary_enc_hard.cydsn\codegentemp\LCD_Char_LCDPort.h" value="HEADER;;;;;LCD_Char_LCDPort" />
   <file name="C:\Users\mechatoro\Documents\PSoC Creator\rotary_enc_hard\rotary_enc_hard.cydsn\codegentemp\USBUART_Dm_aliases.h" value="HEADER;;;;;USBUART_Dm" />
   <file name="C:\Users\mechatoro\Documents\PSoC Creator\rotary_enc_hard\rotary_enc_hard.cydsn\codegentemp\USBUART_Dm.c" value="SOURCE_C;CortexM3;;;;USBUART_Dm" />
   <file name="C:\Users\mechatoro\Documents\PSoC Creator\rotary_enc_hard\rotary_enc_hard.cydsn\codegentemp\USBUART_Dm.h" value="HEADER;;;;;USBUART_Dm" />
