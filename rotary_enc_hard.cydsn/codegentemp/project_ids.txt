@@ -1,0 +1,6 @@
+C:\Users\mechatoro\Documents\PSoC Creator\rotary_enc_hard\rotary_enc_hard.cydsn\rotary_enc_hard.cyprj|82e8fff7-2ce1-42d6-b8ea-11a710aa1147
+C:\Program Files (x86)\Cypress\PSoC Creator\4.1\PSoC Creator\psoc\content\default\CyAnnotationLibrary\CyAnnotationLibrary.cylib\CyAnnotationLibrary.cyprj|060b9ddb-006d-4bad-8a1a-36cbe074d6d4
+C:\Users\mechatoro\Documents\PSoC Creator\4.1\Downloads ( 4.1).cylib\Downloads ( 4.1).cyprj|d2bca522-7eda-4f3d-ac8a-08e98a22b44e
+C:\Program Files (x86)\Cypress\PSoC Creator\4.1\PSoC Creator\psoc\content\cycomponentlibraryupdates\CyComponentLibraryUpdates.cylib\CyComponentLibraryUpdates.cyprj|9274e587-52a7-4ef2-b4c5-d48e41ca58b9
+C:\Program Files (x86)\Cypress\PSoC Creator\4.1\PSoC Creator\psoc\content\cycomponentlibrary\CyComponentLibrary.cylib\CyComponentLibrary.cyprj|82e1a62f-839c-44fb-b982-85b5ccf4b8f4
+C:\Program Files (x86)\Cypress\PSoC Creator\4.1\PSoC Creator\psoc\content\cyprimitives\CyPrimitives.cylib\CyPrimitives.cyprj|b5f4a99e-e5ef-4607-98d2-8b0292839f70
