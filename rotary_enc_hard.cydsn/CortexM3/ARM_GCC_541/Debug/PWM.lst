@@ -1,4 +1,4 @@
-ARM GAS  C:\Users\MECHAT~1\AppData\Local\Temp\ccFAb6bf.s 			page 1
+ARM GAS  C:\Users\MECHAT~1\AppData\Local\Temp\cc9b2I0f.s 			page 1
 
 
    1              		.syntax unified
@@ -58,7 +58,7 @@ ARM GAS  C:\Users\MECHAT~1\AppData\Local\Temp\ccFAb6bf.s 			page 1
   28:Generated_Source\PSoC5/PWM.c ****     #error PWM_v3_30 detected with a constant 0 for the enable or \
   29:Generated_Source\PSoC5/PWM.c ****          constant 1 for reset. This will prevent the component from operating.
   30:Generated_Source\PSoC5/PWM.c **** #endif /* PWM_PWMUDB_genblk1_ctrlreg__REMOVED */
-ARM GAS  C:\Users\MECHAT~1\AppData\Local\Temp\ccFAb6bf.s 			page 2
+ARM GAS  C:\Users\MECHAT~1\AppData\Local\Temp\cc9b2I0f.s 			page 2
 
 
   31:Generated_Source\PSoC5/PWM.c **** 
@@ -118,7 +118,7 @@ ARM GAS  C:\Users\MECHAT~1\AppData\Local\Temp\ccFAb6bf.s 			page 1
   85:Generated_Source\PSoC5/PWM.c **** {
   86:Generated_Source\PSoC5/PWM.c ****     #if (PWM_UsingFixedFunction || PWM_UseControl)
   87:Generated_Source\PSoC5/PWM.c ****         uint8 ctrl;
-ARM GAS  C:\Users\MECHAT~1\AppData\Local\Temp\ccFAb6bf.s 			page 3
+ARM GAS  C:\Users\MECHAT~1\AppData\Local\Temp\cc9b2I0f.s 			page 3
 
 
   88:Generated_Source\PSoC5/PWM.c ****     #endif /* (PWM_UsingFixedFunction || PWM_UseControl) */
@@ -178,7 +178,7 @@ ARM GAS  C:\Users\MECHAT~1\AppData\Local\Temp\ccFAb6bf.s 			page 1
  142:Generated_Source\PSoC5/PWM.c ****             PWM_WriteCompare2(PWM_INIT_COMPARE_VALUE2);
  143:Generated_Source\PSoC5/PWM.c ****         #endif /* (PWM_UseOneCompareMode) */
  144:Generated_Source\PSoC5/PWM.c **** 
-ARM GAS  C:\Users\MECHAT~1\AppData\Local\Temp\ccFAb6bf.s 			page 4
+ARM GAS  C:\Users\MECHAT~1\AppData\Local\Temp\cc9b2I0f.s 			page 4
 
 
  145:Generated_Source\PSoC5/PWM.c ****         #if (PWM_KillModeMinTime)
@@ -238,7 +238,7 @@ ARM GAS  C:\Users\MECHAT~1\AppData\Local\Temp\ccFAb6bf.s 			page 1
  199:Generated_Source\PSoC5/PWM.c **** void PWM_Enable(void) 
  200:Generated_Source\PSoC5/PWM.c **** {
   28              		.loc 1 200 0
-ARM GAS  C:\Users\MECHAT~1\AppData\Local\Temp\ccFAb6bf.s 			page 5
+ARM GAS  C:\Users\MECHAT~1\AppData\Local\Temp\cc9b2I0f.s 			page 5
 
 
   29              		.cfi_startproc
@@ -263,7 +263,7 @@ ARM GAS  C:\Users\MECHAT~1\AppData\Local\Temp\ccFAb6bf.s 			page 1
   39              	.L3:
   40              		.align	2
   41              	.L2:
-  42 000c 75650040 		.word	1073767797
+  42 000c 7D640040 		.word	1073767549
   43              		.cfi_endproc
   44              	.LFE2:
   45              		.size	PWM_Enable, .-PWM_Enable
@@ -298,7 +298,7 @@ ARM GAS  C:\Users\MECHAT~1\AppData\Local\Temp\ccFAb6bf.s 			page 1
  230:Generated_Source\PSoC5/PWM.c **** *  has no effect on the operation of the PWM
  231:Generated_Source\PSoC5/PWM.c **** *
  232:Generated_Source\PSoC5/PWM.c **** *******************************************************************************/
-ARM GAS  C:\Users\MECHAT~1\AppData\Local\Temp\ccFAb6bf.s 			page 6
+ARM GAS  C:\Users\MECHAT~1\AppData\Local\Temp\cc9b2I0f.s 			page 6
 
 
  233:Generated_Source\PSoC5/PWM.c **** void PWM_Stop(void) 
@@ -319,7 +319,7 @@ ARM GAS  C:\Users\MECHAT~1\AppData\Local\Temp\ccFAb6bf.s 			page 1
   65              	.L6:
   66              		.align	2
   67              	.L5:
-  68 000c 75650040 		.word	1073767797
+  68 000c 7D640040 		.word	1073767549
   69              		.cfi_endproc
   70              	.LFE3:
   71              		.size	PWM_Stop, .-PWM_Stop
@@ -358,7 +358,7 @@ ARM GAS  C:\Users\MECHAT~1\AppData\Local\Temp\ccFAb6bf.s 			page 1
  261:Generated_Source\PSoC5/PWM.c ****         *
  262:Generated_Source\PSoC5/PWM.c ****         * Return:
  263:Generated_Source\PSoC5/PWM.c ****         *  None
-ARM GAS  C:\Users\MECHAT~1\AppData\Local\Temp\ccFAb6bf.s 			page 7
+ARM GAS  C:\Users\MECHAT~1\AppData\Local\Temp\cc9b2I0f.s 			page 7
 
 
  264:Generated_Source\PSoC5/PWM.c ****         *
@@ -418,7 +418,7 @@ ARM GAS  C:\Users\MECHAT~1\AppData\Local\Temp\ccFAb6bf.s 			page 1
  318:Generated_Source\PSoC5/PWM.c ****         * Parameters:
  319:Generated_Source\PSoC5/PWM.c ****         *  comparemode:  The new compare mode for the PWM output. Use the compare types
  320:Generated_Source\PSoC5/PWM.c ****         *                defined in the H file as input arguments.
-ARM GAS  C:\Users\MECHAT~1\AppData\Local\Temp\ccFAb6bf.s 			page 8
+ARM GAS  C:\Users\MECHAT~1\AppData\Local\Temp\cc9b2I0f.s 			page 8
 
 
  321:Generated_Source\PSoC5/PWM.c ****         *
@@ -478,7 +478,7 @@ ARM GAS  C:\Users\MECHAT~1\AppData\Local\Temp\ccFAb6bf.s 			page 1
  375:Generated_Source\PSoC5/PWM.c ****     #endif /*PWM_CompareMode2SW */
  376:Generated_Source\PSoC5/PWM.c **** 
  377:Generated_Source\PSoC5/PWM.c **** #endif /* UseOneCompareMode */
-ARM GAS  C:\Users\MECHAT~1\AppData\Local\Temp\ccFAb6bf.s 			page 9
+ARM GAS  C:\Users\MECHAT~1\AppData\Local\Temp\cc9b2I0f.s 			page 9
 
 
  378:Generated_Source\PSoC5/PWM.c **** 
@@ -523,7 +523,7 @@ ARM GAS  C:\Users\MECHAT~1\AppData\Local\Temp\ccFAb6bf.s 			page 1
   90              	.L9:
   91 0006 00BF     		.align	2
   92              	.L8:
-  93 0008 086A0040 		.word	1073768968
+  93 0008 18680040 		.word	1073768472
   94              		.cfi_endproc
   95              	.LFE4:
   96              		.size	PWM_WriteCounter, .-PWM_WriteCounter
@@ -538,7 +538,7 @@ ARM GAS  C:\Users\MECHAT~1\AppData\Local\Temp\ccFAb6bf.s 			page 1
  407:Generated_Source\PSoC5/PWM.c ****     }
  408:Generated_Source\PSoC5/PWM.c **** 
  409:Generated_Source\PSoC5/PWM.c **** 
-ARM GAS  C:\Users\MECHAT~1\AppData\Local\Temp\ccFAb6bf.s 			page 10
+ARM GAS  C:\Users\MECHAT~1\AppData\Local\Temp\cc9b2I0f.s 			page 10
 
 
  410:Generated_Source\PSoC5/PWM.c ****     /*******************************************************************************
@@ -583,8 +583,8 @@ ARM GAS  C:\Users\MECHAT~1\AppData\Local\Temp\ccFAb6bf.s 			page 1
  119              	.L12:
  120              		.align	2
  121              	.L11:
- 122 000c 14650040 		.word	1073767700
- 123 0010 A86A0040 		.word	1073769128
+ 122 000c 1C640040 		.word	1073767452
+ 123 0010 B8680040 		.word	1073768632
  124              		.cfi_endproc
  125              	.LFE5:
  126              		.size	PWM_ReadCounter, .-PWM_ReadCounter
@@ -598,7 +598,7 @@ ARM GAS  C:\Users\MECHAT~1\AppData\Local\Temp\ccFAb6bf.s 			page 1
  134              	.LFB7:
  435:Generated_Source\PSoC5/PWM.c **** 
  436:Generated_Source\PSoC5/PWM.c ****     #if (PWM_UseStatus)
-ARM GAS  C:\Users\MECHAT~1\AppData\Local\Temp\ccFAb6bf.s 			page 11
+ARM GAS  C:\Users\MECHAT~1\AppData\Local\Temp\cc9b2I0f.s 			page 11
 
 
  437:Generated_Source\PSoC5/PWM.c **** 
@@ -658,7 +658,7 @@ ARM GAS  C:\Users\MECHAT~1\AppData\Local\Temp\ccFAb6bf.s 			page 1
  485:Generated_Source\PSoC5/PWM.c ****         CY_SET_REG16(PWM_PERIOD_LSB_PTR, (uint16)period);
  486:Generated_Source\PSoC5/PWM.c ****     #else
  487:Generated_Source\PSoC5/PWM.c ****         CY_SET_REG16(PWM_PERIOD_LSB_PTR, period);
-ARM GAS  C:\Users\MECHAT~1\AppData\Local\Temp\ccFAb6bf.s 			page 12
+ARM GAS  C:\Users\MECHAT~1\AppData\Local\Temp\cc9b2I0f.s 			page 12
 
 
  141              		.loc 1 487 0
@@ -668,7 +668,7 @@ ARM GAS  C:\Users\MECHAT~1\AppData\Local\Temp\ccFAb6bf.s 			page 1
  145              	.L15:
  146 0006 00BF     		.align	2
  147              	.L14:
- 148 0008 886A0040 		.word	1073769096
+ 148 0008 98680040 		.word	1073768600
  149              		.cfi_endproc
  150              	.LFE7:
  151              		.size	PWM_WritePeriod, .-PWM_WritePeriod
@@ -718,7 +718,7 @@ ARM GAS  C:\Users\MECHAT~1\AppData\Local\Temp\ccFAb6bf.s 			page 1
  164              		@ link register save eliminated.
  165              	.LVL2:
  519:Generated_Source\PSoC5/PWM.c ****         #if(PWM_UsingFixedFunction)
-ARM GAS  C:\Users\MECHAT~1\AppData\Local\Temp\ccFAb6bf.s 			page 13
+ARM GAS  C:\Users\MECHAT~1\AppData\Local\Temp\cc9b2I0f.s 			page 13
 
 
  520:Generated_Source\PSoC5/PWM.c ****             CY_SET_REG16(PWM_COMPARE1_LSB_PTR, (uint16)compare);
@@ -731,7 +731,7 @@ ARM GAS  C:\Users\MECHAT~1\AppData\Local\Temp\ccFAb6bf.s 			page 1
  170              	.L18:
  171 0006 00BF     		.align	2
  172              	.L17:
- 173 0008 486A0040 		.word	1073769032
+ 173 0008 58680040 		.word	1073768536
  174              		.cfi_endproc
  175              	.LFE8:
  176              		.size	PWM_WriteCompare, .-PWM_WriteCompare
@@ -778,7 +778,7 @@ ARM GAS  C:\Users\MECHAT~1\AppData\Local\Temp\ccFAb6bf.s 			page 1
  555:Generated_Source\PSoC5/PWM.c ****     void PWM_WriteCompare1(uint16 compare) \
  556:Generated_Source\PSoC5/PWM.c ****                                         
  557:Generated_Source\PSoC5/PWM.c ****     {
-ARM GAS  C:\Users\MECHAT~1\AppData\Local\Temp\ccFAb6bf.s 			page 14
+ARM GAS  C:\Users\MECHAT~1\AppData\Local\Temp\cc9b2I0f.s 			page 14
 
 
  558:Generated_Source\PSoC5/PWM.c ****         #if(PWM_UsingFixedFunction)
@@ -838,7 +838,7 @@ ARM GAS  C:\Users\MECHAT~1\AppData\Local\Temp\ccFAb6bf.s 			page 1
  612:Generated_Source\PSoC5/PWM.c ****     void PWM_WriteDeadTime(uint8 deadtime) 
  613:Generated_Source\PSoC5/PWM.c ****     {
  614:Generated_Source\PSoC5/PWM.c ****         /* If using the Dead Band 1-255 mode then just write the register */
-ARM GAS  C:\Users\MECHAT~1\AppData\Local\Temp\ccFAb6bf.s 			page 15
+ARM GAS  C:\Users\MECHAT~1\AppData\Local\Temp\cc9b2I0f.s 			page 15
 
 
  615:Generated_Source\PSoC5/PWM.c ****         #if(!PWM_DeadBand2_4)
@@ -898,7 +898,7 @@ ARM GAS  C:\Users\MECHAT~1\AppData\Local\Temp\ccFAb6bf.s 			page 1
  669:Generated_Source\PSoC5/PWM.c ****     /*******************************************************************************
  670:Generated_Source\PSoC5/PWM.c ****     * Function Name: PWM_SetInterruptMode
  671:Generated_Source\PSoC5/PWM.c ****     ********************************************************************************
-ARM GAS  C:\Users\MECHAT~1\AppData\Local\Temp\ccFAb6bf.s 			page 16
+ARM GAS  C:\Users\MECHAT~1\AppData\Local\Temp\cc9b2I0f.s 			page 16
 
 
  672:Generated_Source\PSoC5/PWM.c ****     *
@@ -929,7 +929,7 @@ ARM GAS  C:\Users\MECHAT~1\AppData\Local\Temp\ccFAb6bf.s 			page 1
  195              	.L21:
  196 0006 00BF     		.align	2
  197              	.L20:
- 198 0008 85650040 		.word	1073767813
+ 198 0008 8D640040 		.word	1073767565
  199              		.cfi_endproc
  200              	.LFE9:
  201              		.size	PWM_SetInterruptMode, .-PWM_SetInterruptMode
@@ -958,7 +958,7 @@ ARM GAS  C:\Users\MECHAT~1\AppData\Local\Temp\ccFAb6bf.s 			page 1
  701:Generated_Source\PSoC5/PWM.c ****     *  uint8 : Current status register value. The status register bits are:
  702:Generated_Source\PSoC5/PWM.c ****     *  [7:6] : Unused(0)
  703:Generated_Source\PSoC5/PWM.c ****     *  [5]   : Kill event output
-ARM GAS  C:\Users\MECHAT~1\AppData\Local\Temp\ccFAb6bf.s 			page 17
+ARM GAS  C:\Users\MECHAT~1\AppData\Local\Temp\cc9b2I0f.s 			page 17
 
 
  704:Generated_Source\PSoC5/PWM.c ****     *  [4]   : FIFO not empty
@@ -985,7 +985,7 @@ ARM GAS  C:\Users\MECHAT~1\AppData\Local\Temp\ccFAb6bf.s 			page 1
  220              	.L24:
  221 0006 00BF     		.align	2
  222              	.L23:
- 223 0008 65650040 		.word	1073767781
+ 223 0008 6D640040 		.word	1073767533
  224              		.cfi_endproc
  225              	.LFE10:
  226              		.size	PWM_ReadStatusRegister, .-PWM_ReadStatusRegister
@@ -1018,7 +1018,7 @@ ARM GAS  C:\Users\MECHAT~1\AppData\Local\Temp\ccFAb6bf.s 			page 1
  733:Generated_Source\PSoC5/PWM.c ****     * Return:
  734:Generated_Source\PSoC5/PWM.c ****     *  uint8 : Current control register value
  735:Generated_Source\PSoC5/PWM.c ****     *
-ARM GAS  C:\Users\MECHAT~1\AppData\Local\Temp\ccFAb6bf.s 			page 18
+ARM GAS  C:\Users\MECHAT~1\AppData\Local\Temp\cc9b2I0f.s 			page 18
 
 
  736:Generated_Source\PSoC5/PWM.c ****     *******************************************************************************/
@@ -1043,7 +1043,7 @@ ARM GAS  C:\Users\MECHAT~1\AppData\Local\Temp\ccFAb6bf.s 			page 1
  246              	.L27:
  247 0006 00BF     		.align	2
  248              	.L26:
- 249 0008 75650040 		.word	1073767797
+ 249 0008 7D640040 		.word	1073767549
  250              		.cfi_endproc
  251              	.LFE11:
  252              		.size	PWM_ReadControlRegister, .-PWM_ReadControlRegister
@@ -1078,7 +1078,7 @@ ARM GAS  C:\Users\MECHAT~1\AppData\Local\Temp\ccFAb6bf.s 			page 1
  764:Generated_Source\PSoC5/PWM.c ****     *******************************************************************************/
  765:Generated_Source\PSoC5/PWM.c ****     void PWM_WriteControlRegister(uint8 control) 
  766:Generated_Source\PSoC5/PWM.c ****     {
-ARM GAS  C:\Users\MECHAT~1\AppData\Local\Temp\ccFAb6bf.s 			page 19
+ARM GAS  C:\Users\MECHAT~1\AppData\Local\Temp\cc9b2I0f.s 			page 19
 
 
  261              		.loc 1 766 0
@@ -1095,7 +1095,7 @@ ARM GAS  C:\Users\MECHAT~1\AppData\Local\Temp\ccFAb6bf.s 			page 1
  271              	.L30:
  272 0006 00BF     		.align	2
  273              	.L29:
- 274 0008 75650040 		.word	1073767797
+ 274 0008 7D640040 		.word	1073767549
  275              		.cfi_endproc
  276              	.LFE12:
  277              		.size	PWM_WriteControlRegister, .-PWM_WriteControlRegister
@@ -1138,7 +1138,7 @@ ARM GAS  C:\Users\MECHAT~1\AppData\Local\Temp\ccFAb6bf.s 			page 1
  290              		@ link register save eliminated.
  792:Generated_Source\PSoC5/PWM.c ****         return (CY_GET_REG16(PWM_CAPTURE_LSB_PTR));
  291              		.loc 1 792 0
-ARM GAS  C:\Users\MECHAT~1\AppData\Local\Temp\ccFAb6bf.s 			page 20
+ARM GAS  C:\Users\MECHAT~1\AppData\Local\Temp\cc9b2I0f.s 			page 20
 
 
  292 0000 014B     		ldr	r3, .L32
@@ -1150,7 +1150,7 @@ ARM GAS  C:\Users\MECHAT~1\AppData\Local\Temp\ccFAb6bf.s 			page 1
  297              	.L33:
  298              		.align	2
  299              	.L32:
- 300 0008 A86A0040 		.word	1073769128
+ 300 0008 B8680040 		.word	1073768632
  301              		.cfi_endproc
  302              	.LFE13:
  303              		.size	PWM_ReadCapture, .-PWM_ReadCapture
@@ -1198,7 +1198,7 @@ ARM GAS  C:\Users\MECHAT~1\AppData\Local\Temp\ccFAb6bf.s 			page 1
  340              		.thumb
  341              		.thumb_func
  342              		.type	PWM_Init, %function
-ARM GAS  C:\Users\MECHAT~1\AppData\Local\Temp\ccFAb6bf.s 			page 21
+ARM GAS  C:\Users\MECHAT~1\AppData\Local\Temp\cc9b2I0f.s 			page 21
 
 
  343              	PWM_Init:
@@ -1258,7 +1258,7 @@ ARM GAS  C:\Users\MECHAT~1\AppData\Local\Temp\ccFAb6bf.s 			page 1
  167:Generated_Source\PSoC5/PWM.c ****             /* Use the interrupt output of the status register for IRQ output */
  388              		.loc 1 167 0
  389 0040 FFF7FEFF 		bl	CyEnterCriticalSection
-ARM GAS  C:\Users\MECHAT~1\AppData\Local\Temp\ccFAb6bf.s 			page 22
+ARM GAS  C:\Users\MECHAT~1\AppData\Local\Temp\cc9b2I0f.s 			page 22
 
 
  390              	.LVL14:
@@ -1279,8 +1279,8 @@ ARM GAS  C:\Users\MECHAT~1\AppData\Local\Temp\ccFAb6bf.s 			page 1
  402              	.L41:
  403 0056 00BF     		.align	2
  404              	.L40:
- 405 0058 75650040 		.word	1073767797
- 406 005c 95650040 		.word	1073767829
+ 405 0058 7D640040 		.word	1073767549
+ 406 005c 9D640040 		.word	1073767581
  407              		.cfi_endproc
  408              	.LFE1:
  409              		.size	PWM_Init, .-PWM_Init
@@ -1318,7 +1318,7 @@ ARM GAS  C:\Users\MECHAT~1\AppData\Local\Temp\ccFAb6bf.s 			page 1
  437              	.L43:
   63:Generated_Source\PSoC5/PWM.c **** 
  438              		.loc 1 63 0
-ARM GAS  C:\Users\MECHAT~1\AppData\Local\Temp\ccFAb6bf.s 			page 23
+ARM GAS  C:\Users\MECHAT~1\AppData\Local\Temp\cc9b2I0f.s 			page 23
 
 
  439 0012 FFF7FEFF 		bl	PWM_Enable
@@ -1378,7 +1378,7 @@ ARM GAS  C:\Users\MECHAT~1\AppData\Local\Temp\ccFAb6bf.s 			page 1
  822:Generated_Source\PSoC5/PWM.c ****         #endif /* (PWM_UsingFixedFunction) */
  823:Generated_Source\PSoC5/PWM.c ****     }
  465              		.loc 1 823 0
-ARM GAS  C:\Users\MECHAT~1\AppData\Local\Temp\ccFAb6bf.s 			page 24
+ARM GAS  C:\Users\MECHAT~1\AppData\Local\Temp\cc9b2I0f.s 			page 24
 
 
  466 0004 80B2     		uxth	r0, r0
@@ -1386,7 +1386,7 @@ ARM GAS  C:\Users\MECHAT~1\AppData\Local\Temp\ccFAb6bf.s 			page 1
  468              	.L49:
  469              		.align	2
  470              	.L48:
- 471 0008 486A0040 		.word	1073769032
+ 471 0008 58680040 		.word	1073768536
  472              		.cfi_endproc
  473              	.LFE14:
  474              		.size	PWM_ReadCompare, .-PWM_ReadCompare
@@ -1438,7 +1438,7 @@ ARM GAS  C:\Users\MECHAT~1\AppData\Local\Temp\ccFAb6bf.s 			page 1
  861:Generated_Source\PSoC5/PWM.c ****     *******************************************************************************/
  862:Generated_Source\PSoC5/PWM.c ****     uint16 PWM_ReadCompare2(void) 
  863:Generated_Source\PSoC5/PWM.c ****     {
-ARM GAS  C:\Users\MECHAT~1\AppData\Local\Temp\ccFAb6bf.s 			page 25
+ARM GAS  C:\Users\MECHAT~1\AppData\Local\Temp\cc9b2I0f.s 			page 25
 
 
  864:Generated_Source\PSoC5/PWM.c ****         return (CY_GET_REG16(PWM_COMPARE2_LSB_PTR));
@@ -1483,7 +1483,7 @@ ARM GAS  C:\Users\MECHAT~1\AppData\Local\Temp\ccFAb6bf.s 			page 1
  494              	.L52:
  495              		.align	2
  496              	.L51:
- 497 0008 886A0040 		.word	1073769096
+ 497 0008 98680040 		.word	1073768600
  498              		.cfi_endproc
  499              	.LFE15:
  500              		.size	PWM_ReadPeriod, .-PWM_ReadPeriod
@@ -1498,7 +1498,7 @@ ARM GAS  C:\Users\MECHAT~1\AppData\Local\Temp\ccFAb6bf.s 			page 1
  509              	.Letext0:
  510              		.file 2 "Generated_Source\\PSoC5\\cytypes.h"
  511              		.file 3 "Generated_Source\\PSoC5\\CyLib.h"
-ARM GAS  C:\Users\MECHAT~1\AppData\Local\Temp\ccFAb6bf.s 			page 26
+ARM GAS  C:\Users\MECHAT~1\AppData\Local\Temp\cc9b2I0f.s 			page 26
 
 
  512              		.section	.debug_info,"",%progbits
@@ -1508,45 +1508,45 @@ ARM GAS  C:\Users\MECHAT~1\AppData\Local\Temp\ccFAb6bf.s 			page 1
  516 0006 00000000 		.4byte	.Ldebug_abbrev0
  517 000a 04       		.byte	0x4
  518 000b 01       		.uleb128 0x1
- 519 000c 94000000 		.4byte	.LASF43
+ 519 000c EE000000 		.4byte	.LASF43
  520 0010 0C       		.byte	0xc
- 521 0011 29030000 		.4byte	.LASF44
- 522 0015 D4020000 		.4byte	.LASF45
+ 521 0011 43030000 		.4byte	.LASF44
+ 522 0015 06000000 		.4byte	.LASF45
  523 0019 00000000 		.4byte	.Ldebug_ranges0+0
  524 001d 00000000 		.4byte	0
  525 0021 00000000 		.4byte	.Ldebug_line0
  526 0025 02       		.uleb128 0x2
  527 0026 01       		.byte	0x1
  528 0027 06       		.byte	0x6
- 529 0028 9E020000 		.4byte	.LASF0
+ 529 0028 08030000 		.4byte	.LASF0
  530 002c 02       		.uleb128 0x2
  531 002d 01       		.byte	0x1
  532 002e 08       		.byte	0x8
- 533 002f 86000000 		.4byte	.LASF1
+ 533 002f E0000000 		.4byte	.LASF1
  534 0033 02       		.uleb128 0x2
  535 0034 02       		.byte	0x2
  536 0035 05       		.byte	0x5
- 537 0036 48020000 		.4byte	.LASF2
+ 537 0036 B2020000 		.4byte	.LASF2
  538 003a 02       		.uleb128 0x2
  539 003b 02       		.byte	0x2
  540 003c 07       		.byte	0x7
- 541 003d 3E000000 		.4byte	.LASF3
+ 541 003d 98000000 		.4byte	.LASF3
  542 0041 02       		.uleb128 0x2
  543 0042 04       		.byte	0x4
  544 0043 05       		.byte	0x5
- 545 0044 6C020000 		.4byte	.LASF4
+ 545 0044 D6020000 		.4byte	.LASF4
  546 0048 02       		.uleb128 0x2
  547 0049 04       		.byte	0x4
  548 004a 07       		.byte	0x7
- 549 004b 27010000 		.4byte	.LASF5
+ 549 004b 81010000 		.4byte	.LASF5
  550 004f 02       		.uleb128 0x2
  551 0050 08       		.byte	0x8
  552 0051 05       		.byte	0x5
- 553 0052 F1010000 		.4byte	.LASF6
+ 553 0052 5B020000 		.4byte	.LASF6
  554 0056 02       		.uleb128 0x2
  555 0057 08       		.byte	0x8
  556 0058 07       		.byte	0x7
- 557 0059 6F000000 		.4byte	.LASF7
+ 557 0059 C9000000 		.4byte	.LASF7
  558 005d 03       		.uleb128 0x3
  559 005e 04       		.byte	0x4
  560 005f 05       		.byte	0x5
@@ -1554,34 +1554,34 @@ ARM GAS  C:\Users\MECHAT~1\AppData\Local\Temp\ccFAb6bf.s 			page 1
  562 0064 02       		.uleb128 0x2
  563 0065 04       		.byte	0x4
  564 0066 07       		.byte	0x7
- 565 0067 99010000 		.4byte	.LASF8
+ 565 0067 03020000 		.4byte	.LASF8
  566 006b 04       		.uleb128 0x4
- 567 006c 49010000 		.4byte	.LASF9
+ 567 006c A3010000 		.4byte	.LASF9
  568 0070 02       		.byte	0x2
-ARM GAS  C:\Users\MECHAT~1\AppData\Local\Temp\ccFAb6bf.s 			page 27
+ARM GAS  C:\Users\MECHAT~1\AppData\Local\Temp\cc9b2I0f.s 			page 27
 
 
  569 0071 9201     		.2byte	0x192
  570 0073 2C000000 		.4byte	0x2c
  571 0077 04       		.uleb128 0x4
- 572 0078 6F010000 		.4byte	.LASF10
+ 572 0078 C9010000 		.4byte	.LASF10
  573 007c 02       		.byte	0x2
  574 007d 9301     		.2byte	0x193
  575 007f 3A000000 		.4byte	0x3a
  576 0083 02       		.uleb128 0x2
  577 0084 04       		.byte	0x4
  578 0085 04       		.byte	0x4
- 579 0086 61000000 		.4byte	.LASF11
+ 579 0086 BB000000 		.4byte	.LASF11
  580 008a 02       		.uleb128 0x2
  581 008b 08       		.byte	0x8
  582 008c 04       		.byte	0x4
- 583 008d 57010000 		.4byte	.LASF12
+ 583 008d B1010000 		.4byte	.LASF12
  584 0091 02       		.uleb128 0x2
  585 0092 01       		.byte	0x1
  586 0093 08       		.byte	0x8
- 587 0094 75020000 		.4byte	.LASF13
+ 587 0094 DF020000 		.4byte	.LASF13
  588 0098 04       		.uleb128 0x4
- 589 0099 22010000 		.4byte	.LASF14
+ 589 0099 7C010000 		.4byte	.LASF14
  590 009d 02       		.byte	0x2
  591 009e 3C02     		.2byte	0x23c
  592 00a0 A4000000 		.4byte	0xa4
@@ -1597,13 +1597,13 @@ ARM GAS  C:\Users\MECHAT~1\AppData\Local\Temp\ccFAb6bf.s 			page 1
  602 00ba 02       		.uleb128 0x2
  603 00bb 08       		.byte	0x8
  604 00bc 04       		.byte	0x4
- 605 00bd 7A020000 		.4byte	.LASF16
+ 605 00bd E4020000 		.4byte	.LASF16
  606 00c1 02       		.uleb128 0x2
  607 00c2 04       		.byte	0x4
  608 00c3 07       		.byte	0x7
- 609 00c4 E8010000 		.4byte	.LASF17
+ 609 00c4 52020000 		.4byte	.LASF17
  610 00c8 06       		.uleb128 0x6
- 611 00c9 B2020000 		.4byte	.LASF18
+ 611 00c9 1C030000 		.4byte	.LASF18
  612 00cd 01       		.byte	0x1
  613 00ce C7       		.byte	0xc7
  614 00cf 00000000 		.4byte	.LFB2
@@ -1611,18 +1611,18 @@ ARM GAS  C:\Users\MECHAT~1\AppData\Local\Temp\ccFAb6bf.s 			page 1
  616 00d7 01       		.uleb128 0x1
  617 00d8 9C       		.byte	0x9c
  618 00d9 06       		.uleb128 0x6
- 619 00da 63020000 		.4byte	.LASF19
+ 619 00da CD020000 		.4byte	.LASF19
  620 00de 01       		.byte	0x1
  621 00df E9       		.byte	0xe9
  622 00e0 00000000 		.4byte	.LFB3
  623 00e4 10000000 		.4byte	.LFE3-.LFB3
  624 00e8 01       		.uleb128 0x1
  625 00e9 9C       		.byte	0x9c
-ARM GAS  C:\Users\MECHAT~1\AppData\Local\Temp\ccFAb6bf.s 			page 28
+ARM GAS  C:\Users\MECHAT~1\AppData\Local\Temp\cc9b2I0f.s 			page 28
 
 
  626 00ea 07       		.uleb128 0x7
- 627 00eb 52020000 		.4byte	.LASF20
+ 627 00eb BC020000 		.4byte	.LASF20
  628 00ef 01       		.byte	0x1
  629 00f0 9301     		.2byte	0x193
  630 00f2 00000000 		.4byte	.LFB4
@@ -1631,7 +1631,7 @@ ARM GAS  C:\Users\MECHAT~1\AppData\Local\Temp\ccFAb6bf.s 			page 1
  633 00fb 9C       		.byte	0x9c
  634 00fc 0F010000 		.4byte	0x10f
  635 0100 08       		.uleb128 0x8
- 636 0101 67000000 		.4byte	.LASF22
+ 636 0101 C1000000 		.4byte	.LASF22
  637 0105 01       		.byte	0x1
  638 0106 9301     		.2byte	0x193
  639 0108 77000000 		.4byte	0x77
@@ -1639,7 +1639,7 @@ ARM GAS  C:\Users\MECHAT~1\AppData\Local\Temp\ccFAb6bf.s 			page 1
  641 010d 50       		.byte	0x50
  642 010e 00       		.byte	0
  643 010f 09       		.uleb128 0x9
- 644 0110 39010000 		.4byte	.LASF28
+ 644 0110 93010000 		.4byte	.LASF28
  645 0114 01       		.byte	0x1
  646 0115 A901     		.2byte	0x1a9
  647 0117 77000000 		.4byte	0x77
@@ -1648,7 +1648,7 @@ ARM GAS  C:\Users\MECHAT~1\AppData\Local\Temp\ccFAb6bf.s 			page 1
  650 0123 01       		.uleb128 0x1
  651 0124 9C       		.byte	0x9c
  652 0125 07       		.uleb128 0x7
- 653 0126 C3010000 		.4byte	.LASF21
+ 653 0126 2D020000 		.4byte	.LASF21
  654 012a 01       		.byte	0x1
  655 012b E201     		.2byte	0x1e2
  656 012d 00000000 		.4byte	.LFB7
@@ -1657,7 +1657,7 @@ ARM GAS  C:\Users\MECHAT~1\AppData\Local\Temp\ccFAb6bf.s 			page 1
  659 0136 9C       		.byte	0x9c
  660 0137 4A010000 		.4byte	0x14a
  661 013b 08       		.uleb128 0x8
- 662 013c 2D000000 		.4byte	.LASF23
+ 662 013c 87000000 		.4byte	.LASF23
  663 0140 01       		.byte	0x1
  664 0141 E201     		.2byte	0x1e2
  665 0143 77000000 		.4byte	0x77
@@ -1665,7 +1665,7 @@ ARM GAS  C:\Users\MECHAT~1\AppData\Local\Temp\ccFAb6bf.s 			page 1
  667 0148 50       		.byte	0x50
  668 0149 00       		.byte	0
  669 014a 07       		.uleb128 0x7
- 670 014b 5E010000 		.4byte	.LASF24
+ 670 014b B8010000 		.4byte	.LASF24
  671 014f 01       		.byte	0x1
  672 0150 0402     		.2byte	0x204
  673 0152 00000000 		.4byte	.LFB8
@@ -1674,18 +1674,18 @@ ARM GAS  C:\Users\MECHAT~1\AppData\Local\Temp\ccFAb6bf.s 			page 1
  676 015b 9C       		.byte	0x9c
  677 015c 6F010000 		.4byte	0x16f
  678 0160 08       		.uleb128 0x8
- 679 0161 AA020000 		.4byte	.LASF25
+ 679 0161 14030000 		.4byte	.LASF25
  680 0165 01       		.byte	0x1
  681 0166 0402     		.2byte	0x204
  682 0168 77000000 		.4byte	0x77
-ARM GAS  C:\Users\MECHAT~1\AppData\Local\Temp\ccFAb6bf.s 			page 29
+ARM GAS  C:\Users\MECHAT~1\AppData\Local\Temp\cc9b2I0f.s 			page 29
 
 
  683 016c 01       		.uleb128 0x1
  684 016d 50       		.byte	0x50
  685 016e 00       		.byte	0
  686 016f 07       		.uleb128 0x7
- 687 0170 D3010000 		.4byte	.LASF26
+ 687 0170 3D020000 		.4byte	.LASF26
  688 0174 01       		.byte	0x1
  689 0175 AC02     		.2byte	0x2ac
  690 0177 00000000 		.4byte	.LFB9
@@ -1694,7 +1694,7 @@ ARM GAS  C:\Users\MECHAT~1\AppData\Local\Temp\ccFAb6bf.s 			page 1
  693 0180 9C       		.byte	0x9c
  694 0181 94010000 		.4byte	0x194
  695 0185 08       		.uleb128 0x8
- 696 0186 FF010000 		.4byte	.LASF27
+ 696 0186 69020000 		.4byte	.LASF27
  697 018a 01       		.byte	0x1
  698 018b AC02     		.2byte	0x2ac
  699 018d 6B000000 		.4byte	0x6b
@@ -1702,7 +1702,7 @@ ARM GAS  C:\Users\MECHAT~1\AppData\Local\Temp\ccFAb6bf.s 			page 1
  701 0192 50       		.byte	0x50
  702 0193 00       		.byte	0
  703 0194 09       		.uleb128 0x9
- 704 0195 BD020000 		.4byte	.LASF29
+ 704 0195 27030000 		.4byte	.LASF29
  705 0199 01       		.byte	0x1
  706 019a C702     		.2byte	0x2c7
  707 019c 6B000000 		.4byte	0x6b
@@ -1711,7 +1711,7 @@ ARM GAS  C:\Users\MECHAT~1\AppData\Local\Temp\ccFAb6bf.s 			page 1
  710 01a8 01       		.uleb128 0x1
  711 01a9 9C       		.byte	0x9c
  712 01aa 0A       		.uleb128 0xa
- 713 01ab 86020000 		.4byte	.LASF46
+ 713 01ab F0020000 		.4byte	.LASF46
  714 01af 01       		.byte	0x1
  715 01b0 E102     		.2byte	0x2e1
  716 01b2 6B000000 		.4byte	0x6b
@@ -1721,7 +1721,7 @@ ARM GAS  C:\Users\MECHAT~1\AppData\Local\Temp\ccFAb6bf.s 			page 1
  720 01bf 9C       		.byte	0x9c
  721 01c0 D3010000 		.4byte	0x1d3
  722 01c4 0B       		.uleb128 0xb
- 723 01c5 BC010000 		.4byte	.LASF35
+ 723 01c5 26020000 		.4byte	.LASF35
  724 01c9 01       		.byte	0x1
  725 01ca E302     		.2byte	0x2e3
  726 01cc 6B000000 		.4byte	0x6b
@@ -1729,7 +1729,7 @@ ARM GAS  C:\Users\MECHAT~1\AppData\Local\Temp\ccFAb6bf.s 			page 1
  728 01d1 50       		.byte	0x50
  729 01d2 00       		.byte	0
  730 01d3 07       		.uleb128 0x7
- 731 01d4 0D020000 		.4byte	.LASF30
+ 731 01d4 77020000 		.4byte	.LASF30
  732 01d8 01       		.byte	0x1
  733 01d9 FD02     		.2byte	0x2fd
  734 01db 00000000 		.4byte	.LFB12
@@ -1738,10 +1738,10 @@ ARM GAS  C:\Users\MECHAT~1\AppData\Local\Temp\ccFAb6bf.s 			page 1
  737 01e4 9C       		.byte	0x9c
  738 01e5 F8010000 		.4byte	0x1f8
  739 01e9 08       		.uleb128 0x8
-ARM GAS  C:\Users\MECHAT~1\AppData\Local\Temp\ccFAb6bf.s 			page 30
+ARM GAS  C:\Users\MECHAT~1\AppData\Local\Temp\cc9b2I0f.s 			page 30
 
 
- 740 01ea 4F010000 		.4byte	.LASF31
+ 740 01ea A9010000 		.4byte	.LASF31
  741 01ee 01       		.byte	0x1
  742 01ef FD02     		.2byte	0x2fd
  743 01f1 6B000000 		.4byte	0x6b
@@ -1749,7 +1749,7 @@ ARM GAS  C:\Users\MECHAT~1\AppData\Local\Temp\ccFAb6bf.s 			page 1
  745 01f6 50       		.byte	0x50
  746 01f7 00       		.byte	0
  747 01f8 09       		.uleb128 0x9
- 748 01f9 51000000 		.4byte	.LASF32
+ 748 01f9 AB000000 		.4byte	.LASF32
  749 01fd 01       		.byte	0x1
  750 01fe 1603     		.2byte	0x316
  751 0200 77000000 		.4byte	0x77
@@ -1758,7 +1758,7 @@ ARM GAS  C:\Users\MECHAT~1\AppData\Local\Temp\ccFAb6bf.s 			page 1
  754 020c 01       		.uleb128 0x1
  755 020d 9C       		.byte	0x9c
  756 020e 07       		.uleb128 0x7
- 757 020f 1F000000 		.4byte	.LASF33
+ 757 020f 79000000 		.4byte	.LASF33
  758 0213 01       		.byte	0x1
  759 0214 C501     		.2byte	0x1c5
  760 0216 00000000 		.4byte	.LFB6
@@ -1774,7 +1774,7 @@ ARM GAS  C:\Users\MECHAT~1\AppData\Local\Temp\ccFAb6bf.s 			page 1
  770 0232 94010000 		.4byte	0x194
  771 0236 00       		.byte	0
  772 0237 0D       		.uleb128 0xd
- 773 0238 16000000 		.4byte	.LASF34
+ 773 0238 70000000 		.4byte	.LASF34
  774 023c 01       		.byte	0x1
  775 023d 54       		.byte	0x54
  776 023e 00000000 		.4byte	.LFB1
@@ -1783,13 +1783,13 @@ ARM GAS  C:\Users\MECHAT~1\AppData\Local\Temp\ccFAb6bf.s 			page 1
  779 0247 9C       		.byte	0x9c
  780 0248 D6020000 		.4byte	0x2d6
  781 024c 0E       		.uleb128 0xe
- 782 024d 24030000 		.4byte	.LASF36
+ 782 024d 3E030000 		.4byte	.LASF36
  783 0251 01       		.byte	0x1
  784 0252 57       		.byte	0x57
  785 0253 6B000000 		.4byte	0x6b
  786 0257 00000000 		.4byte	.LLST0
  787 025b 0E       		.uleb128 0xe
- 788 025c 26020000 		.4byte	.LASF37
+ 788 025c 90020000 		.4byte	.LASF37
  789 0260 01       		.byte	0x1
  790 0261 5D       		.byte	0x5d
  791 0262 6B000000 		.4byte	0x6b
@@ -1798,7 +1798,7 @@ ARM GAS  C:\Users\MECHAT~1\AppData\Local\Temp\ccFAb6bf.s 			page 1
  794 026b 2C000000 		.4byte	.LVL10
  795 026f EA000000 		.4byte	0xea
  796 0273 7F020000 		.4byte	0x27f
-ARM GAS  C:\Users\MECHAT~1\AppData\Local\Temp\ccFAb6bf.s 			page 31
+ARM GAS  C:\Users\MECHAT~1\AppData\Local\Temp\cc9b2I0f.s 			page 31
 
 
  797 0277 10       		.uleb128 0x10
@@ -1850,7 +1850,7 @@ ARM GAS  C:\Users\MECHAT~1\AppData\Local\Temp\ccFAb6bf.s 			page 1
  843 02d1 0E020000 		.4byte	0x20e
  844 02d5 00       		.byte	0
  845 02d6 0D       		.uleb128 0xd
- 846 02d7 34000000 		.4byte	.LASF38
+ 846 02d7 8E000000 		.4byte	.LASF38
  847 02db 01       		.byte	0x1
  848 02dc 37       		.byte	0x37
  849 02dd 00000000 		.4byte	.LFB0
@@ -1858,7 +1858,7 @@ ARM GAS  C:\Users\MECHAT~1\AppData\Local\Temp\ccFAb6bf.s 			page 1
  851 02e5 01       		.uleb128 0x1
  852 02e6 9C       		.byte	0x9c
  853 02e7 FE020000 		.4byte	0x2fe
-ARM GAS  C:\Users\MECHAT~1\AppData\Local\Temp\ccFAb6bf.s 			page 32
+ARM GAS  C:\Users\MECHAT~1\AppData\Local\Temp\cc9b2I0f.s 			page 32
 
 
  854 02eb 0C       		.uleb128 0xc
@@ -1869,7 +1869,7 @@ ARM GAS  C:\Users\MECHAT~1\AppData\Local\Temp\ccFAb6bf.s 			page 1
  859 02f9 C8000000 		.4byte	0xc8
  860 02fd 00       		.byte	0
  861 02fe 09       		.uleb128 0x9
- 862 02ff 06000000 		.4byte	.LASF39
+ 862 02ff D0010000 		.4byte	.LASF39
  863 0303 01       		.byte	0x1
  864 0304 3003     		.2byte	0x330
  865 0306 77000000 		.4byte	0x77
@@ -1878,7 +1878,7 @@ ARM GAS  C:\Users\MECHAT~1\AppData\Local\Temp\ccFAb6bf.s 			page 1
  868 0312 01       		.uleb128 0x1
  869 0313 9C       		.byte	0x9c
  870 0314 09       		.uleb128 0x9
- 871 0315 39020000 		.4byte	.LASF40
+ 871 0315 A3020000 		.4byte	.LASF40
  872 0319 01       		.byte	0x1
  873 031a 7403     		.2byte	0x374
  874 031c 77000000 		.4byte	0x77
@@ -1887,7 +1887,7 @@ ARM GAS  C:\Users\MECHAT~1\AppData\Local\Temp\ccFAb6bf.s 			page 1
  877 0328 01       		.uleb128 0x1
  878 0329 9C       		.byte	0x9c
  879 032a 11       		.uleb128 0x11
- 880 032b 76010000 		.4byte	.LASF47
+ 880 032b E0010000 		.4byte	.LASF47
  881 032f 01       		.byte	0x1
  882 0330 20       		.byte	0x20
  883 0331 6B000000 		.4byte	0x6b
@@ -1895,13 +1895,13 @@ ARM GAS  C:\Users\MECHAT~1\AppData\Local\Temp\ccFAb6bf.s 			page 1
  885 0336 03       		.byte	0x3
  886 0337 00000000 		.4byte	PWM_initVar
  887 033b 12       		.uleb128 0x12
- 888 033c 82010000 		.4byte	.LASF41
- 889 0340 82010000 		.4byte	.LASF41
+ 888 033c EC010000 		.4byte	.LASF41
+ 889 0340 EC010000 		.4byte	.LASF41
  890 0344 03       		.byte	0x3
  891 0345 7D       		.byte	0x7d
  892 0346 12       		.uleb128 0x12
- 893 0347 A6010000 		.4byte	.LASF42
- 894 034b A6010000 		.4byte	.LASF42
+ 893 0347 10020000 		.4byte	.LASF42
+ 894 034b 10020000 		.4byte	.LASF42
  895 034f 03       		.byte	0x3
  896 0350 7E       		.byte	0x7e
  897 0351 00       		.byte	0
@@ -1918,7 +1918,7 @@ ARM GAS  C:\Users\MECHAT~1\AppData\Local\Temp\ccFAb6bf.s 			page 1
  908 0008 0E       		.uleb128 0xe
  909 0009 1B       		.uleb128 0x1b
  910 000a 0E       		.uleb128 0xe
-ARM GAS  C:\Users\MECHAT~1\AppData\Local\Temp\ccFAb6bf.s 			page 33
+ARM GAS  C:\Users\MECHAT~1\AppData\Local\Temp\cc9b2I0f.s 			page 33
 
 
  911 000b 55       		.uleb128 0x55
@@ -1978,7 +1978,7 @@ ARM GAS  C:\Users\MECHAT~1\AppData\Local\Temp\ccFAb6bf.s 			page 1
  965 0041 19       		.uleb128 0x19
  966 0042 03       		.uleb128 0x3
  967 0043 0E       		.uleb128 0xe
-ARM GAS  C:\Users\MECHAT~1\AppData\Local\Temp\ccFAb6bf.s 			page 34
+ARM GAS  C:\Users\MECHAT~1\AppData\Local\Temp\cc9b2I0f.s 			page 34
 
 
  968 0044 3A       		.uleb128 0x3a
@@ -2038,7 +2038,7 @@ ARM GAS  C:\Users\MECHAT~1\AppData\Local\Temp\ccFAb6bf.s 			page 1
  1022 007c 00       		.byte	0
  1023 007d 00       		.byte	0
  1024 007e 09       		.uleb128 0x9
-ARM GAS  C:\Users\MECHAT~1\AppData\Local\Temp\ccFAb6bf.s 			page 35
+ARM GAS  C:\Users\MECHAT~1\AppData\Local\Temp\cc9b2I0f.s 			page 35
 
 
  1025 007f 2E       		.uleb128 0x2e
@@ -2098,7 +2098,7 @@ ARM GAS  C:\Users\MECHAT~1\AppData\Local\Temp\ccFAb6bf.s 			page 1
  1079 00b7 03       		.uleb128 0x3
  1080 00b8 0E       		.uleb128 0xe
  1081 00b9 3A       		.uleb128 0x3a
-ARM GAS  C:\Users\MECHAT~1\AppData\Local\Temp\ccFAb6bf.s 			page 36
+ARM GAS  C:\Users\MECHAT~1\AppData\Local\Temp\cc9b2I0f.s 			page 36
 
 
  1082 00ba 0B       		.uleb128 0xb
@@ -2158,7 +2158,7 @@ ARM GAS  C:\Users\MECHAT~1\AppData\Local\Temp\ccFAb6bf.s 			page 1
  1136 00f3 02       		.uleb128 0x2
  1137 00f4 17       		.uleb128 0x17
  1138 00f5 00       		.byte	0
-ARM GAS  C:\Users\MECHAT~1\AppData\Local\Temp\ccFAb6bf.s 			page 37
+ARM GAS  C:\Users\MECHAT~1\AppData\Local\Temp\cc9b2I0f.s 			page 37
 
 
  1139 00f6 00       		.byte	0
@@ -2218,7 +2218,7 @@ ARM GAS  C:\Users\MECHAT~1\AppData\Local\Temp\ccFAb6bf.s 			page 1
  1193 0131 00       		.byte	0
  1194 0132 00       		.byte	0
  1195              		.section	.debug_loc,"",%progbits
-ARM GAS  C:\Users\MECHAT~1\AppData\Local\Temp\ccFAb6bf.s 			page 38
+ARM GAS  C:\Users\MECHAT~1\AppData\Local\Temp\cc9b2I0f.s 			page 38
 
 
  1196              	.Ldebug_loc0:
@@ -2278,7 +2278,7 @@ ARM GAS  C:\Users\MECHAT~1\AppData\Local\Temp\ccFAb6bf.s 			page 1
  1250 008c 0C000000 		.4byte	.LFE15-.LFB15
  1251 0090 00000000 		.4byte	0
  1252 0094 00000000 		.4byte	0
-ARM GAS  C:\Users\MECHAT~1\AppData\Local\Temp\ccFAb6bf.s 			page 39
+ARM GAS  C:\Users\MECHAT~1\AppData\Local\Temp\cc9b2I0f.s 			page 39
 
 
  1253              		.section	.debug_ranges,"",%progbits
@@ -2327,247 +2327,250 @@ ARM GAS  C:\Users\MECHAT~1\AppData\Local\Temp\ccFAb6bf.s 			page 1
  1292              	.LASF15:
  1293 0000 72656731 		.ascii	"reg16\000"
  1293      3600
- 1294              	.LASF39:
- 1295 0006 50574D5F 		.ascii	"PWM_ReadCompare\000"
- 1295      52656164 
- 1295      436F6D70 
- 1295      61726500 
- 1296              	.LASF34:
- 1297 0016 50574D5F 		.ascii	"PWM_Init\000"
- 1297      496E6974 
- 1297      00
- 1298              	.LASF33:
- 1299 001f 50574D5F 		.ascii	"PWM_ClearFIFO\000"
-ARM GAS  C:\Users\MECHAT~1\AppData\Local\Temp\ccFAb6bf.s 			page 40
+ 1294              	.LASF45:
+ 1295 0006 433A5C55 		.ascii	"C:\\Users\\mechatoro\\Documents\\PSoC Creator\\rota"
+ 1295      73657273 
+ 1295      5C6D6563 
+ 1295      6861746F 
+ 1295      726F5C44 
+ 1296 0034 72795F65 		.ascii	"ry_enc_hard_for_git\\PSoC_rotaryenc_PI\\rotary_enc_"
+ 1296      6E635F68 
+ 1296      6172645F 
+ 1296      666F725F 
+ 1296      6769745C 
+ARM GAS  C:\Users\MECHAT~1\AppData\Local\Temp\cc9b2I0f.s 			page 40
 
 
- 1299      436C6561 
- 1299      72464946 
- 1299      4F00
- 1300              	.LASF23:
- 1301 002d 70657269 		.ascii	"period\000"
- 1301      6F6400
- 1302              	.LASF38:
- 1303 0034 50574D5F 		.ascii	"PWM_Start\000"
- 1303      53746172 
- 1303      7400
- 1304              	.LASF3:
- 1305 003e 73686F72 		.ascii	"short unsigned int\000"
- 1305      7420756E 
- 1305      7369676E 
- 1305      65642069 
- 1305      6E7400
- 1306              	.LASF32:
- 1307 0051 50574D5F 		.ascii	"PWM_ReadCapture\000"
- 1307      52656164 
- 1307      43617074 
- 1307      75726500 
- 1308              	.LASF11:
- 1309 0061 666C6F61 		.ascii	"float\000"
- 1309      7400
- 1310              	.LASF22:
- 1311 0067 636F756E 		.ascii	"counter\000"
- 1311      74657200 
- 1312              	.LASF7:
- 1313 006f 6C6F6E67 		.ascii	"long long unsigned int\000"
- 1313      206C6F6E 
- 1313      6720756E 
- 1313      7369676E 
- 1313      65642069 
- 1314              	.LASF1:
- 1315 0086 756E7369 		.ascii	"unsigned char\000"
- 1315      676E6564 
- 1315      20636861 
- 1315      7200
- 1316              	.LASF43:
- 1317 0094 474E5520 		.ascii	"GNU C11 5.4.1 20160609 (release) [ARM/embedded-5-br"
- 1317      43313120 
- 1317      352E342E 
- 1317      31203230 
- 1317      31363036 
- 1318 00c7 616E6368 		.ascii	"anch revision 237715] -mcpu=cortex-m3 -mthumb -g -O"
- 1318      20726576 
- 1318      6973696F 
- 1318      6E203233 
- 1318      37373135 
- 1319 00fa 67202D66 		.ascii	"g -ffunction-sections -ffat-lto-objects\000"
- 1319      66756E63 
- 1319      74696F6E 
- 1319      2D736563 
- 1319      74696F6E 
- 1320              	.LASF14:
- 1321 0122 72656738 		.ascii	"reg8\000"
- 1321      00
-ARM GAS  C:\Users\MECHAT~1\AppData\Local\Temp\ccFAb6bf.s 			page 41
+ 1297 0065 68617264 		.ascii	"hard.cydsn\000"
+ 1297      2E637964 
+ 1297      736E00
+ 1298              	.LASF34:
+ 1299 0070 50574D5F 		.ascii	"PWM_Init\000"
+ 1299      496E6974 
+ 1299      00
+ 1300              	.LASF33:
+ 1301 0079 50574D5F 		.ascii	"PWM_ClearFIFO\000"
+ 1301      436C6561 
+ 1301      72464946 
+ 1301      4F00
+ 1302              	.LASF23:
+ 1303 0087 70657269 		.ascii	"period\000"
+ 1303      6F6400
+ 1304              	.LASF38:
+ 1305 008e 50574D5F 		.ascii	"PWM_Start\000"
+ 1305      53746172 
+ 1305      7400
+ 1306              	.LASF3:
+ 1307 0098 73686F72 		.ascii	"short unsigned int\000"
+ 1307      7420756E 
+ 1307      7369676E 
+ 1307      65642069 
+ 1307      6E7400
+ 1308              	.LASF32:
+ 1309 00ab 50574D5F 		.ascii	"PWM_ReadCapture\000"
+ 1309      52656164 
+ 1309      43617074 
+ 1309      75726500 
+ 1310              	.LASF11:
+ 1311 00bb 666C6F61 		.ascii	"float\000"
+ 1311      7400
+ 1312              	.LASF22:
+ 1313 00c1 636F756E 		.ascii	"counter\000"
+ 1313      74657200 
+ 1314              	.LASF7:
+ 1315 00c9 6C6F6E67 		.ascii	"long long unsigned int\000"
+ 1315      206C6F6E 
+ 1315      6720756E 
+ 1315      7369676E 
+ 1315      65642069 
+ 1316              	.LASF1:
+ 1317 00e0 756E7369 		.ascii	"unsigned char\000"
+ 1317      676E6564 
+ 1317      20636861 
+ 1317      7200
+ 1318              	.LASF43:
+ 1319 00ee 474E5520 		.ascii	"GNU C11 5.4.1 20160609 (release) [ARM/embedded-5-br"
+ 1319      43313120 
+ 1319      352E342E 
+ 1319      31203230 
+ 1319      31363036 
+ 1320 0121 616E6368 		.ascii	"anch revision 237715] -mcpu=cortex-m3 -mthumb -g -O"
+ 1320      20726576 
+ 1320      6973696F 
+ 1320      6E203233 
+ARM GAS  C:\Users\MECHAT~1\AppData\Local\Temp\cc9b2I0f.s 			page 41
 
 
- 1322              	.LASF5:
- 1323 0127 6C6F6E67 		.ascii	"long unsigned int\000"
- 1323      20756E73 
- 1323      69676E65 
- 1323      6420696E 
- 1323      7400
- 1324              	.LASF28:
- 1325 0139 50574D5F 		.ascii	"PWM_ReadCounter\000"
- 1325      52656164 
- 1325      436F756E 
- 1325      74657200 
- 1326              	.LASF9:
- 1327 0149 75696E74 		.ascii	"uint8\000"
- 1327      3800
- 1328              	.LASF31:
- 1329 014f 636F6E74 		.ascii	"control\000"
- 1329      726F6C00 
- 1330              	.LASF12:
- 1331 0157 646F7562 		.ascii	"double\000"
- 1331      6C6500
- 1332              	.LASF24:
- 1333 015e 50574D5F 		.ascii	"PWM_WriteCompare\000"
- 1333      57726974 
- 1333      65436F6D 
- 1333      70617265 
- 1333      00
- 1334              	.LASF10:
- 1335 016f 75696E74 		.ascii	"uint16\000"
- 1335      313600
- 1336              	.LASF47:
- 1337 0176 50574D5F 		.ascii	"PWM_initVar\000"
- 1337      696E6974 
- 1337      56617200 
- 1338              	.LASF41:
- 1339 0182 4379456E 		.ascii	"CyEnterCriticalSection\000"
- 1339      74657243 
- 1339      72697469 
- 1339      63616C53 
- 1339      65637469 
- 1340              	.LASF8:
- 1341 0199 756E7369 		.ascii	"unsigned int\000"
- 1341      676E6564 
- 1341      20696E74 
- 1341      00
- 1342              	.LASF42:
- 1343 01a6 43794578 		.ascii	"CyExitCriticalSection\000"
- 1343      69744372 
- 1343      69746963 
- 1343      616C5365 
- 1343      6374696F 
- 1344              	.LASF35:
- 1345 01bc 72657375 		.ascii	"result\000"
- 1345      6C7400
- 1346              	.LASF21:
- 1347 01c3 50574D5F 		.ascii	"PWM_WritePeriod\000"
- 1347      57726974 
- 1347      65506572 
-ARM GAS  C:\Users\MECHAT~1\AppData\Local\Temp\ccFAb6bf.s 			page 42
+ 1320      37373135 
+ 1321 0154 67202D66 		.ascii	"g -ffunction-sections -ffat-lto-objects\000"
+ 1321      66756E63 
+ 1321      74696F6E 
+ 1321      2D736563 
+ 1321      74696F6E 
+ 1322              	.LASF14:
+ 1323 017c 72656738 		.ascii	"reg8\000"
+ 1323      00
+ 1324              	.LASF5:
+ 1325 0181 6C6F6E67 		.ascii	"long unsigned int\000"
+ 1325      20756E73 
+ 1325      69676E65 
+ 1325      6420696E 
+ 1325      7400
+ 1326              	.LASF28:
+ 1327 0193 50574D5F 		.ascii	"PWM_ReadCounter\000"
+ 1327      52656164 
+ 1327      436F756E 
+ 1327      74657200 
+ 1328              	.LASF9:
+ 1329 01a3 75696E74 		.ascii	"uint8\000"
+ 1329      3800
+ 1330              	.LASF31:
+ 1331 01a9 636F6E74 		.ascii	"control\000"
+ 1331      726F6C00 
+ 1332              	.LASF12:
+ 1333 01b1 646F7562 		.ascii	"double\000"
+ 1333      6C6500
+ 1334              	.LASF24:
+ 1335 01b8 50574D5F 		.ascii	"PWM_WriteCompare\000"
+ 1335      57726974 
+ 1335      65436F6D 
+ 1335      70617265 
+ 1335      00
+ 1336              	.LASF10:
+ 1337 01c9 75696E74 		.ascii	"uint16\000"
+ 1337      313600
+ 1338              	.LASF39:
+ 1339 01d0 50574D5F 		.ascii	"PWM_ReadCompare\000"
+ 1339      52656164 
+ 1339      436F6D70 
+ 1339      61726500 
+ 1340              	.LASF47:
+ 1341 01e0 50574D5F 		.ascii	"PWM_initVar\000"
+ 1341      696E6974 
+ 1341      56617200 
+ 1342              	.LASF41:
+ 1343 01ec 4379456E 		.ascii	"CyEnterCriticalSection\000"
+ 1343      74657243 
+ 1343      72697469 
+ 1343      63616C53 
+ 1343      65637469 
+ 1344              	.LASF8:
+ 1345 0203 756E7369 		.ascii	"unsigned int\000"
+ 1345      676E6564 
+ 1345      20696E74 
+ARM GAS  C:\Users\MECHAT~1\AppData\Local\Temp\cc9b2I0f.s 			page 42
 
 
- 1347      696F6400 
- 1348              	.LASF26:
- 1349 01d3 50574D5F 		.ascii	"PWM_SetInterruptMode\000"
- 1349      53657449 
- 1349      6E746572 
- 1349      72757074 
- 1349      4D6F6465 
- 1350              	.LASF17:
- 1351 01e8 73697A65 		.ascii	"sizetype\000"
- 1351      74797065 
- 1351      00
- 1352              	.LASF6:
- 1353 01f1 6C6F6E67 		.ascii	"long long int\000"
- 1353      206C6F6E 
- 1353      6720696E 
- 1353      7400
- 1354              	.LASF27:
- 1355 01ff 696E7465 		.ascii	"interruptMode\000"
- 1355      72727570 
- 1355      744D6F64 
- 1355      6500
- 1356              	.LASF30:
- 1357 020d 50574D5F 		.ascii	"PWM_WriteControlRegister\000"
- 1357      57726974 
- 1357      65436F6E 
- 1357      74726F6C 
- 1357      52656769 
- 1358              	.LASF37:
- 1359 0226 50574D5F 		.ascii	"PWM_interruptState\000"
- 1359      696E7465 
+ 1345      00
+ 1346              	.LASF42:
+ 1347 0210 43794578 		.ascii	"CyExitCriticalSection\000"
+ 1347      69744372 
+ 1347      69746963 
+ 1347      616C5365 
+ 1347      6374696F 
+ 1348              	.LASF35:
+ 1349 0226 72657375 		.ascii	"result\000"
+ 1349      6C7400
+ 1350              	.LASF21:
+ 1351 022d 50574D5F 		.ascii	"PWM_WritePeriod\000"
+ 1351      57726974 
+ 1351      65506572 
+ 1351      696F6400 
+ 1352              	.LASF26:
+ 1353 023d 50574D5F 		.ascii	"PWM_SetInterruptMode\000"
+ 1353      53657449 
+ 1353      6E746572 
+ 1353      72757074 
+ 1353      4D6F6465 
+ 1354              	.LASF17:
+ 1355 0252 73697A65 		.ascii	"sizetype\000"
+ 1355      74797065 
+ 1355      00
+ 1356              	.LASF6:
+ 1357 025b 6C6F6E67 		.ascii	"long long int\000"
+ 1357      206C6F6E 
+ 1357      6720696E 
+ 1357      7400
+ 1358              	.LASF27:
+ 1359 0269 696E7465 		.ascii	"interruptMode\000"
  1359      72727570 
- 1359      74537461 
- 1359      746500
- 1360              	.LASF40:
- 1361 0239 50574D5F 		.ascii	"PWM_ReadPeriod\000"
- 1361      52656164 
- 1361      50657269 
- 1361      6F6400
- 1362              	.LASF2:
- 1363 0248 73686F72 		.ascii	"short int\000"
- 1363      7420696E 
- 1363      7400
- 1364              	.LASF20:
- 1365 0252 50574D5F 		.ascii	"PWM_WriteCounter\000"
- 1365      57726974 
- 1365      65436F75 
- 1365      6E746572 
- 1365      00
- 1366              	.LASF19:
- 1367 0263 50574D5F 		.ascii	"PWM_Stop\000"
- 1367      53746F70 
- 1367      00
- 1368              	.LASF4:
- 1369 026c 6C6F6E67 		.ascii	"long int\000"
- 1369      20696E74 
+ 1359      744D6F64 
+ 1359      6500
+ 1360              	.LASF30:
+ 1361 0277 50574D5F 		.ascii	"PWM_WriteControlRegister\000"
+ 1361      57726974 
+ 1361      65436F6E 
+ 1361      74726F6C 
+ 1361      52656769 
+ 1362              	.LASF37:
+ 1363 0290 50574D5F 		.ascii	"PWM_interruptState\000"
+ 1363      696E7465 
+ 1363      72727570 
+ 1363      74537461 
+ 1363      746500
+ 1364              	.LASF40:
+ 1365 02a3 50574D5F 		.ascii	"PWM_ReadPeriod\000"
+ 1365      52656164 
+ 1365      50657269 
+ 1365      6F6400
+ 1366              	.LASF2:
+ 1367 02b2 73686F72 		.ascii	"short int\000"
+ 1367      7420696E 
+ 1367      7400
+ 1368              	.LASF20:
+ARM GAS  C:\Users\MECHAT~1\AppData\Local\Temp\cc9b2I0f.s 			page 43
+
+
+ 1369 02bc 50574D5F 		.ascii	"PWM_WriteCounter\000"
+ 1369      57726974 
+ 1369      65436F75 
+ 1369      6E746572 
  1369      00
- 1370              	.LASF13:
-ARM GAS  C:\Users\MECHAT~1\AppData\Local\Temp\ccFAb6bf.s 			page 43
-
-
- 1371 0275 63686172 		.ascii	"char\000"
+ 1370              	.LASF19:
+ 1371 02cd 50574D5F 		.ascii	"PWM_Stop\000"
+ 1371      53746F70 
  1371      00
- 1372              	.LASF16:
- 1373 027a 6C6F6E67 		.ascii	"long double\000"
- 1373      20646F75 
- 1373      626C6500 
- 1374              	.LASF46:
- 1375 0286 50574D5F 		.ascii	"PWM_ReadControlRegister\000"
- 1375      52656164 
- 1375      436F6E74 
- 1375      726F6C52 
- 1375      65676973 
- 1376              	.LASF0:
- 1377 029e 7369676E 		.ascii	"signed char\000"
- 1377      65642063 
- 1377      68617200 
- 1378              	.LASF25:
- 1379 02aa 636F6D70 		.ascii	"compare\000"
- 1379      61726500 
- 1380              	.LASF18:
- 1381 02b2 50574D5F 		.ascii	"PWM_Enable\000"
- 1381      456E6162 
- 1381      6C6500
- 1382              	.LASF29:
- 1383 02bd 50574D5F 		.ascii	"PWM_ReadStatusRegister\000"
- 1383      52656164 
- 1383      53746174 
- 1383      75735265 
- 1383      67697374 
- 1384              	.LASF45:
- 1385 02d4 433A5C55 		.ascii	"C:\\Users\\mechatoro\\Documents\\PSoC Creator\\rota"
- 1385      73657273 
- 1385      5C6D6563 
- 1385      6861746F 
- 1385      726F5C44 
- 1386 0302 72795F65 		.ascii	"ry_enc_hard\\rotary_enc_hard.cydsn\000"
- 1386      6E635F68 
- 1386      6172645C 
- 1386      726F7461 
- 1386      72795F65 
- 1387              	.LASF36:
- 1388 0324 6374726C 		.ascii	"ctrl\000"
- 1388      00
- 1389              	.LASF44:
- 1390 0329 47656E65 		.ascii	"Generated_Source\\PSoC5\\PWM.c\000"
- 1390      72617465 
- 1390      645F536F 
- 1390      75726365 
- 1390      5C50536F 
- 1391              		.ident	"GCC: (GNU Tools for ARM Embedded Processors) 5.4.1 20160609 (release) [ARM/embedded-5-bran
+ 1372              	.LASF4:
+ 1373 02d6 6C6F6E67 		.ascii	"long int\000"
+ 1373      20696E74 
+ 1373      00
+ 1374              	.LASF13:
+ 1375 02df 63686172 		.ascii	"char\000"
+ 1375      00
+ 1376              	.LASF16:
+ 1377 02e4 6C6F6E67 		.ascii	"long double\000"
+ 1377      20646F75 
+ 1377      626C6500 
+ 1378              	.LASF46:
+ 1379 02f0 50574D5F 		.ascii	"PWM_ReadControlRegister\000"
+ 1379      52656164 
+ 1379      436F6E74 
+ 1379      726F6C52 
+ 1379      65676973 
+ 1380              	.LASF0:
+ 1381 0308 7369676E 		.ascii	"signed char\000"
+ 1381      65642063 
+ 1381      68617200 
+ 1382              	.LASF25:
+ 1383 0314 636F6D70 		.ascii	"compare\000"
+ 1383      61726500 
+ 1384              	.LASF18:
+ 1385 031c 50574D5F 		.ascii	"PWM_Enable\000"
+ 1385      456E6162 
+ 1385      6C6500
+ 1386              	.LASF29:
+ 1387 0327 50574D5F 		.ascii	"PWM_ReadStatusRegister\000"
+ 1387      52656164 
+ 1387      53746174 
+ 1387      75735265 
+ 1387      67697374 
+ 1388              	.LASF36:
+ 1389 033e 6374726C 		.ascii	"ctrl\000"
+ 1389      00
+ 1390              	.LASF44:
+ 1391 0343 47656E65 		.ascii	"Generated_Source\\PSoC5\\PWM.c\000"
+ 1391      72617465 
+ 1391      645F536F 
+ 1391      75726365 
+ 1391      5C50536F 
+ 1392              		.ident	"GCC: (GNU Tools for ARM Embedded Processors) 5.4.1 20160609 (release) [ARM/embedded-5-bran

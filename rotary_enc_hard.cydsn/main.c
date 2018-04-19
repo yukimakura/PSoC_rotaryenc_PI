@@ -6,14 +6,15 @@
  * ========================================
 */
 #include "project.h"
+#include <stdio.h>
 
 //定数
-#define Kp      60
-#define Ki      500 
+#define Kp      10
+#define Ki      5
 #define Kd      0.1
 
-#define target  32775  //ロータリエンコーダは32767が基準
-#define isr_clock 10   //割り込みの周期（Hz）
+#define target  0x800a  //ロータリエンコーダは32767が基準
+#define isr_clock 5 //割り込みの周期（Hz）
 
 
 volatile short temp_Count = 0xFFFF,Count = 0xFFFF;
@@ -39,6 +40,14 @@ inline void PID() {
 
 CY_ISR(dtisr_func){
     
+    //Count = 0;
+    temp_Count = 0xFFFF / 2;
+    
+    // 現在のカウンタ値取得
+    PWM_WriteCompare(ans);
+    
+    temp_Count -= QuadDec_GetCounter();
+
     QuadDec_SetCounter(0);
     
     PID();
@@ -49,7 +58,17 @@ int main(void)
 {
     CyGlobalIntEnable; /* Enable global interrupts. */
     PWM_Start();
+    UART_Start();
+    char str[10];
     
+    //PWM_WriteCompare(100);
+    USBUART_CDC_Init();
+    //volatile int dbg_ans = 0;
+    
+    //int uart_count = 0;
+    //char buff[64] = "";
+
+
     QuadDec_Start();
     
     dt_isr_StartEx(dtisr_func);
@@ -57,14 +76,50 @@ int main(void)
    
     for(;;)
     {
-      
-        temp_Count = 0xFFFF / 2;
-        // 現在のカウンタ値取得
+       //dbg_ans = (int)(ans*1000000);
+       //dbg_ans = ans;
+       // LCD_Char_PrintNumber(Clock_2_GetSourceRegister());
         
-        PWM_WriteCompare(ans);//PIの計算の答えの値を与える
+        //LCD_Char_Position(0,0); 
+        //LCD_Char_PrintNumber(temp_Count);
         
-        temp_Count -= QuadDec_GetCounter();//ロータリエンコーダから値を取得
-
+        
+        Count = (0xFFFF/2) - temp_Count;
+        sprintf(str,"tempcnt = %x",temp_Count);
+        UART_PutString(str);
+        UART_PutCRLF(0x0a);
+        sprintf(str,"cnt = %x",Count);
+        UART_PutString(str);
+        
+        //buff[0] = 's';
+        //data_conv(buff,1,temp_Count);
+        //buff[8] = 'e';
+        
+//        if(0 != USBUART_GetConfiguration())//USB周り
+//            {
+//                
+//                USBUART_PutString(buff);
+//                
+//
+//                if(0 != USBUART_DataIsReady())
+//                {
+//                    //uart_count = USBUART_GetAll(buff);
+//                    if( uart_count != 0){
+//
+//                    while(0 == USBUART_CDCIsReady()){}
+//
+//                    //   USBUART_PutString("test");
+//
+//
+//                    if(64 == uart_count){
+//                          while(0 == USBUART_CDCIsReady()){}
+//                          //sent zero packet
+//                          USBUART_PutData(NULL,0);
+//                    }      
+//                }
+//            }     
+//        }//USB周り終
+        
     }
 }
 
