@@ -18,17 +18,17 @@
   <file name="C:\Users\mechatoro\Documents\PSoC Creator\rotary_enc_hard_for_git\PSoC_rotaryenc_PI\rotary_enc_hard.cydsn\codegentemp\cyfitteriar.inc" value="HEADER;;;;;" />
   <file name="C:\Users\mechatoro\Documents\PSoC Creator\rotary_enc_hard_for_git\PSoC_rotaryenc_PI\rotary_enc_hard.cydsn\codegentemp\cyfitter.h" value="HEADER;;;;;" />
   <file name="C:\Users\mechatoro\Documents\PSoC Creator\rotary_enc_hard_for_git\PSoC_rotaryenc_PI\rotary_enc_hard.cydsn\codegentemp\cydisabledsheets.h" value="HEADER;;;;;" />
-  <file name="C:\Users\mechatoro\Documents\PSoC Creator\rotary_enc_hard_for_git\PSoC_rotaryenc_PI\rotary_enc_hard.cydsn\codegentemp\QuadDec.c" value="SOURCE_C;CortexM3;;;;QuadDec" />
-  <file name="C:\Users\mechatoro\Documents\PSoC Creator\rotary_enc_hard_for_git\PSoC_rotaryenc_PI\rotary_enc_hard.cydsn\codegentemp\QuadDec.h" value="HEADER;;;;;QuadDec" />
-  <file name="C:\Users\mechatoro\Documents\PSoC Creator\rotary_enc_hard_for_git\PSoC_rotaryenc_PI\rotary_enc_hard.cydsn\codegentemp\QuadDec_PM.c" value="SOURCE_C;CortexM3;;;;QuadDec" />
+  <file name="C:\Users\mechatoro\Documents\PSoC Creator\rotary_enc_hard_for_git\PSoC_rotaryenc_PI\rotary_enc_hard.cydsn\codegentemp\QuadDec_L.c" value="SOURCE_C;CortexM3;;;;QuadDec_L" />
+  <file name="C:\Users\mechatoro\Documents\PSoC Creator\rotary_enc_hard_for_git\PSoC_rotaryenc_PI\rotary_enc_hard.cydsn\codegentemp\QuadDec_L.h" value="HEADER;;;;;QuadDec_L" />
+  <file name="C:\Users\mechatoro\Documents\PSoC Creator\rotary_enc_hard_for_git\PSoC_rotaryenc_PI\rotary_enc_hard.cydsn\codegentemp\QuadDec_L_PM.c" value="SOURCE_C;CortexM3;;;;QuadDec_L" />
   <file name="C:\Users\mechatoro\Documents\PSoC Creator\rotary_enc_hard_for_git\PSoC_rotaryenc_PI\rotary_enc_hard.cydsn\codegentemp\Clock_1.c" value="SOURCE_C;CortexM3;;;;Clock_1" />
   <file name="C:\Users\mechatoro\Documents\PSoC Creator\rotary_enc_hard_for_git\PSoC_rotaryenc_PI\rotary_enc_hard.cydsn\codegentemp\Clock_1.h" value="HEADER;;;;;Clock_1" />
-  <file name="C:\Users\mechatoro\Documents\PSoC Creator\rotary_enc_hard_for_git\PSoC_rotaryenc_PI\rotary_enc_hard.cydsn\codegentemp\enc_a_aliases.h" value="HEADER;;;;;enc_a" />
-  <file name="C:\Users\mechatoro\Documents\PSoC Creator\rotary_enc_hard_for_git\PSoC_rotaryenc_PI\rotary_enc_hard.cydsn\codegentemp\enc_a.c" value="SOURCE_C;CortexM3;;;;enc_a" />
-  <file name="C:\Users\mechatoro\Documents\PSoC Creator\rotary_enc_hard_for_git\PSoC_rotaryenc_PI\rotary_enc_hard.cydsn\codegentemp\enc_a.h" value="HEADER;;;;;enc_a" />
-  <file name="C:\Users\mechatoro\Documents\PSoC Creator\rotary_enc_hard_for_git\PSoC_rotaryenc_PI\rotary_enc_hard.cydsn\codegentemp\enc_b_aliases.h" value="HEADER;;;;;enc_b" />
-  <file name="C:\Users\mechatoro\Documents\PSoC Creator\rotary_enc_hard_for_git\PSoC_rotaryenc_PI\rotary_enc_hard.cydsn\codegentemp\enc_b.c" value="SOURCE_C;CortexM3;;;;enc_b" />
-  <file name="C:\Users\mechatoro\Documents\PSoC Creator\rotary_enc_hard_for_git\PSoC_rotaryenc_PI\rotary_enc_hard.cydsn\codegentemp\enc_b.h" value="HEADER;;;;;enc_b" />
+  <file name="C:\Users\mechatoro\Documents\PSoC Creator\rotary_enc_hard_for_git\PSoC_rotaryenc_PI\rotary_enc_hard.cydsn\codegentemp\enc_a_L_aliases.h" value="HEADER;;;;;enc_a_L" />
+  <file name="C:\Users\mechatoro\Documents\PSoC Creator\rotary_enc_hard_for_git\PSoC_rotaryenc_PI\rotary_enc_hard.cydsn\codegentemp\enc_a_L.c" value="SOURCE_C;CortexM3;;;;enc_a_L" />
+  <file name="C:\Users\mechatoro\Documents\PSoC Creator\rotary_enc_hard_for_git\PSoC_rotaryenc_PI\rotary_enc_hard.cydsn\codegentemp\enc_a_L.h" value="HEADER;;;;;enc_a_L" />
+  <file name="C:\Users\mechatoro\Documents\PSoC Creator\rotary_enc_hard_for_git\PSoC_rotaryenc_PI\rotary_enc_hard.cydsn\codegentemp\enc_b_L_aliases.h" value="HEADER;;;;;enc_b_L" />
+  <file name="C:\Users\mechatoro\Documents\PSoC Creator\rotary_enc_hard_for_git\PSoC_rotaryenc_PI\rotary_enc_hard.cydsn\codegentemp\enc_b_L.c" value="SOURCE_C;CortexM3;;;;enc_b_L" />
+  <file name="C:\Users\mechatoro\Documents\PSoC Creator\rotary_enc_hard_for_git\PSoC_rotaryenc_PI\rotary_enc_hard.cydsn\codegentemp\enc_b_L.h" value="HEADER;;;;;enc_b_L" />
   <file name="C:\Users\mechatoro\Documents\PSoC Creator\rotary_enc_hard_for_git\PSoC_rotaryenc_PI\rotary_enc_hard.cydsn\codegentemp\dt_isr.c" value="SOURCE_C;CortexM3;;;;dt_isr" />
   <file name="C:\Users\mechatoro\Documents\PSoC Creator\rotary_enc_hard_for_git\PSoC_rotaryenc_PI\rotary_enc_hard.cydsn\codegentemp\dt_isr.h" value="HEADER;;;;;dt_isr" />
   <file name="C:\Users\mechatoro\Documents\PSoC Creator\rotary_enc_hard_for_git\PSoC_rotaryenc_PI\rotary_enc_hard.cydsn\codegentemp\Clock_2.c" value="SOURCE_C;CortexM3;;;;Clock_2" />
@@ -56,22 +56,37 @@
   <file name="C:\Users\mechatoro\Documents\PSoC Creator\rotary_enc_hard_for_git\PSoC_rotaryenc_PI\rotary_enc_hard.cydsn\codegentemp\USBUART_cydmac.h" value="HEADER;;;;;USBUART" />
   <file name="C:\Users\mechatoro\Documents\PSoC Creator\rotary_enc_hard_for_git\PSoC_rotaryenc_PI\rotary_enc_hard.cydsn\codegentemp\USBUART_msc.c" value="SOURCE_C;CortexM3;;;;USBUART" />
   <file name="C:\Users\mechatoro\Documents\PSoC Creator\rotary_enc_hard_for_git\PSoC_rotaryenc_PI\rotary_enc_hard.cydsn\codegentemp\USBUART_msc.h" value="HEADER;;;;;USBUART" />
-  <file name="C:\Users\mechatoro\Documents\PSoC Creator\rotary_enc_hard_for_git\PSoC_rotaryenc_PI\rotary_enc_hard.cydsn\codegentemp\PWM.c" value="SOURCE_C;CortexM3;;;;PWM" />
-  <file name="C:\Users\mechatoro\Documents\PSoC Creator\rotary_enc_hard_for_git\PSoC_rotaryenc_PI\rotary_enc_hard.cydsn\codegentemp\PWM.h" value="HEADER;;;;;PWM" />
-  <file name="C:\Users\mechatoro\Documents\PSoC Creator\rotary_enc_hard_for_git\PSoC_rotaryenc_PI\rotary_enc_hard.cydsn\codegentemp\PWM_PM.c" value="SOURCE_C;CortexM3;;;;PWM" />
+  <file name="C:\Users\mechatoro\Documents\PSoC Creator\rotary_enc_hard_for_git\PSoC_rotaryenc_PI\rotary_enc_hard.cydsn\codegentemp\PWM_L.c" value="SOURCE_C;CortexM3;;;;PWM_L" />
+  <file name="C:\Users\mechatoro\Documents\PSoC Creator\rotary_enc_hard_for_git\PSoC_rotaryenc_PI\rotary_enc_hard.cydsn\codegentemp\PWM_L.h" value="HEADER;;;;;PWM_L" />
+  <file name="C:\Users\mechatoro\Documents\PSoC Creator\rotary_enc_hard_for_git\PSoC_rotaryenc_PI\rotary_enc_hard.cydsn\codegentemp\PWM_L_PM.c" value="SOURCE_C;CortexM3;;;;PWM_L" />
   <file name="C:\Users\mechatoro\Documents\PSoC Creator\rotary_enc_hard_for_git\PSoC_rotaryenc_PI\rotary_enc_hard.cydsn\codegentemp\Clock_3.c" value="SOURCE_C;CortexM3;;;;Clock_3" />
   <file name="C:\Users\mechatoro\Documents\PSoC Creator\rotary_enc_hard_for_git\PSoC_rotaryenc_PI\rotary_enc_hard.cydsn\codegentemp\Clock_3.h" value="HEADER;;;;;Clock_3" />
-  <file name="C:\Users\mechatoro\Documents\PSoC Creator\rotary_enc_hard_for_git\PSoC_rotaryenc_PI\rotary_enc_hard.cydsn\codegentemp\Pin_1_aliases.h" value="HEADER;;;;;Pin_1" />
-  <file name="C:\Users\mechatoro\Documents\PSoC Creator\rotary_enc_hard_for_git\PSoC_rotaryenc_PI\rotary_enc_hard.cydsn\codegentemp\Pin_1.c" value="SOURCE_C;CortexM3;;;;Pin_1" />
-  <file name="C:\Users\mechatoro\Documents\PSoC Creator\rotary_enc_hard_for_git\PSoC_rotaryenc_PI\rotary_enc_hard.cydsn\codegentemp\Pin_1.h" value="HEADER;;;;;Pin_1" />
+  <file name="C:\Users\mechatoro\Documents\PSoC Creator\rotary_enc_hard_for_git\PSoC_rotaryenc_PI\rotary_enc_hard.cydsn\codegentemp\PWM_Pin_L_aliases.h" value="HEADER;;;;;PWM_Pin_L" />
+  <file name="C:\Users\mechatoro\Documents\PSoC Creator\rotary_enc_hard_for_git\PSoC_rotaryenc_PI\rotary_enc_hard.cydsn\codegentemp\PWM_Pin_L.c" value="SOURCE_C;CortexM3;;;;PWM_Pin_L" />
+  <file name="C:\Users\mechatoro\Documents\PSoC Creator\rotary_enc_hard_for_git\PSoC_rotaryenc_PI\rotary_enc_hard.cydsn\codegentemp\PWM_Pin_L.h" value="HEADER;;;;;PWM_Pin_L" />
   <file name="C:\Users\mechatoro\Documents\PSoC Creator\rotary_enc_hard_for_git\PSoC_rotaryenc_PI\rotary_enc_hard.cydsn\codegentemp\UART.c" value="SOURCE_C;CortexM3;;;;UART" />
   <file name="C:\Users\mechatoro\Documents\PSoC Creator\rotary_enc_hard_for_git\PSoC_rotaryenc_PI\rotary_enc_hard.cydsn\codegentemp\UART.h" value="HEADER;;;;;UART" />
   <file name="C:\Users\mechatoro\Documents\PSoC Creator\rotary_enc_hard_for_git\PSoC_rotaryenc_PI\rotary_enc_hard.cydsn\codegentemp\UART_PM.c" value="SOURCE_C;CortexM3;;;;UART" />
   <file name="C:\Users\mechatoro\Documents\PSoC Creator\rotary_enc_hard_for_git\PSoC_rotaryenc_PI\rotary_enc_hard.cydsn\codegentemp\UART_INT.c" value="SOURCE_C;CortexM3;;;;UART" />
   <file name="C:\Users\mechatoro\Documents\PSoC Creator\rotary_enc_hard_for_git\PSoC_rotaryenc_PI\rotary_enc_hard.cydsn\codegentemp\UART_BOOT.c" value="SOURCE_C;CortexM3;;;;UART" />
-  <file name="C:\Users\mechatoro\Documents\PSoC Creator\rotary_enc_hard_for_git\PSoC_rotaryenc_PI\rotary_enc_hard.cydsn\codegentemp\QuadDec_Cnt16.c" value="SOURCE_C;CortexM3;;;;QuadDec_Cnt16" />
-  <file name="C:\Users\mechatoro\Documents\PSoC Creator\rotary_enc_hard_for_git\PSoC_rotaryenc_PI\rotary_enc_hard.cydsn\codegentemp\QuadDec_Cnt16.h" value="HEADER;;;;;QuadDec_Cnt16" />
-  <file name="C:\Users\mechatoro\Documents\PSoC Creator\rotary_enc_hard_for_git\PSoC_rotaryenc_PI\rotary_enc_hard.cydsn\codegentemp\QuadDec_Cnt16_PM.c" value="SOURCE_C;CortexM3;;;;QuadDec_Cnt16" />
+  <file name="C:\Users\mechatoro\Documents\PSoC Creator\rotary_enc_hard_for_git\PSoC_rotaryenc_PI\rotary_enc_hard.cydsn\codegentemp\QuadDec_R.c" value="SOURCE_C;CortexM3;;;;QuadDec_R" />
+  <file name="C:\Users\mechatoro\Documents\PSoC Creator\rotary_enc_hard_for_git\PSoC_rotaryenc_PI\rotary_enc_hard.cydsn\codegentemp\QuadDec_R.h" value="HEADER;;;;;QuadDec_R" />
+  <file name="C:\Users\mechatoro\Documents\PSoC Creator\rotary_enc_hard_for_git\PSoC_rotaryenc_PI\rotary_enc_hard.cydsn\codegentemp\QuadDec_R_PM.c" value="SOURCE_C;CortexM3;;;;QuadDec_R" />
+  <file name="C:\Users\mechatoro\Documents\PSoC Creator\rotary_enc_hard_for_git\PSoC_rotaryenc_PI\rotary_enc_hard.cydsn\codegentemp\PWM_R.c" value="SOURCE_C;CortexM3;;;;PWM_R" />
+  <file name="C:\Users\mechatoro\Documents\PSoC Creator\rotary_enc_hard_for_git\PSoC_rotaryenc_PI\rotary_enc_hard.cydsn\codegentemp\PWM_R.h" value="HEADER;;;;;PWM_R" />
+  <file name="C:\Users\mechatoro\Documents\PSoC Creator\rotary_enc_hard_for_git\PSoC_rotaryenc_PI\rotary_enc_hard.cydsn\codegentemp\PWM_R_PM.c" value="SOURCE_C;CortexM3;;;;PWM_R" />
+  <file name="C:\Users\mechatoro\Documents\PSoC Creator\rotary_enc_hard_for_git\PSoC_rotaryenc_PI\rotary_enc_hard.cydsn\codegentemp\enc_a_R_aliases.h" value="HEADER;;;;;enc_a_R" />
+  <file name="C:\Users\mechatoro\Documents\PSoC Creator\rotary_enc_hard_for_git\PSoC_rotaryenc_PI\rotary_enc_hard.cydsn\codegentemp\enc_a_R.c" value="SOURCE_C;CortexM3;;;;enc_a_R" />
+  <file name="C:\Users\mechatoro\Documents\PSoC Creator\rotary_enc_hard_for_git\PSoC_rotaryenc_PI\rotary_enc_hard.cydsn\codegentemp\enc_a_R.h" value="HEADER;;;;;enc_a_R" />
+  <file name="C:\Users\mechatoro\Documents\PSoC Creator\rotary_enc_hard_for_git\PSoC_rotaryenc_PI\rotary_enc_hard.cydsn\codegentemp\enc_b_R_aliases.h" value="HEADER;;;;;enc_b_R" />
+  <file name="C:\Users\mechatoro\Documents\PSoC Creator\rotary_enc_hard_for_git\PSoC_rotaryenc_PI\rotary_enc_hard.cydsn\codegentemp\enc_b_R.c" value="SOURCE_C;CortexM3;;;;enc_b_R" />
+  <file name="C:\Users\mechatoro\Documents\PSoC Creator\rotary_enc_hard_for_git\PSoC_rotaryenc_PI\rotary_enc_hard.cydsn\codegentemp\enc_b_R.h" value="HEADER;;;;;enc_b_R" />
+  <file name="C:\Users\mechatoro\Documents\PSoC Creator\rotary_enc_hard_for_git\PSoC_rotaryenc_PI\rotary_enc_hard.cydsn\codegentemp\PWM_Pin_R_aliases.h" value="HEADER;;;;;PWM_Pin_R" />
+  <file name="C:\Users\mechatoro\Documents\PSoC Creator\rotary_enc_hard_for_git\PSoC_rotaryenc_PI\rotary_enc_hard.cydsn\codegentemp\PWM_Pin_R.c" value="SOURCE_C;CortexM3;;;;PWM_Pin_R" />
+  <file name="C:\Users\mechatoro\Documents\PSoC Creator\rotary_enc_hard_for_git\PSoC_rotaryenc_PI\rotary_enc_hard.cydsn\codegentemp\PWM_Pin_R.h" value="HEADER;;;;;PWM_Pin_R" />
+  <file name="C:\Users\mechatoro\Documents\PSoC Creator\rotary_enc_hard_for_git\PSoC_rotaryenc_PI\rotary_enc_hard.cydsn\codegentemp\QuadDec_L_Cnt16.c" value="SOURCE_C;CortexM3;;;;QuadDec_L_Cnt16" />
+  <file name="C:\Users\mechatoro\Documents\PSoC Creator\rotary_enc_hard_for_git\PSoC_rotaryenc_PI\rotary_enc_hard.cydsn\codegentemp\QuadDec_L_Cnt16.h" value="HEADER;;;;;QuadDec_L_Cnt16" />
+  <file name="C:\Users\mechatoro\Documents\PSoC Creator\rotary_enc_hard_for_git\PSoC_rotaryenc_PI\rotary_enc_hard.cydsn\codegentemp\QuadDec_L_Cnt16_PM.c" value="SOURCE_C;CortexM3;;;;QuadDec_L_Cnt16" />
   <file name="C:\Users\mechatoro\Documents\PSoC Creator\rotary_enc_hard_for_git\PSoC_rotaryenc_PI\rotary_enc_hard.cydsn\codegentemp\USBUART_Dm_aliases.h" value="HEADER;;;;;USBUART_Dm" />
   <file name="C:\Users\mechatoro\Documents\PSoC Creator\rotary_enc_hard_for_git\PSoC_rotaryenc_PI\rotary_enc_hard.cydsn\codegentemp\USBUART_Dm.c" value="SOURCE_C;CortexM3;;;;USBUART_Dm" />
   <file name="C:\Users\mechatoro\Documents\PSoC Creator\rotary_enc_hard_for_git\PSoC_rotaryenc_PI\rotary_enc_hard.cydsn\codegentemp\USBUART_Dm.h" value="HEADER;;;;;USBUART_Dm" />
@@ -80,6 +95,9 @@
   <file name="C:\Users\mechatoro\Documents\PSoC Creator\rotary_enc_hard_for_git\PSoC_rotaryenc_PI\rotary_enc_hard.cydsn\codegentemp\USBUART_Dp.h" value="HEADER;;;;;USBUART_Dp" />
   <file name="C:\Users\mechatoro\Documents\PSoC Creator\rotary_enc_hard_for_git\PSoC_rotaryenc_PI\rotary_enc_hard.cydsn\codegentemp\UART_IntClock.c" value="SOURCE_C;CortexM3;;;;UART_IntClock" />
   <file name="C:\Users\mechatoro\Documents\PSoC Creator\rotary_enc_hard_for_git\PSoC_rotaryenc_PI\rotary_enc_hard.cydsn\codegentemp\UART_IntClock.h" value="HEADER;;;;;UART_IntClock" />
+  <file name="C:\Users\mechatoro\Documents\PSoC Creator\rotary_enc_hard_for_git\PSoC_rotaryenc_PI\rotary_enc_hard.cydsn\codegentemp\QuadDec_R_Cnt16.c" value="SOURCE_C;CortexM3;;;;QuadDec_R_Cnt16" />
+  <file name="C:\Users\mechatoro\Documents\PSoC Creator\rotary_enc_hard_for_git\PSoC_rotaryenc_PI\rotary_enc_hard.cydsn\codegentemp\QuadDec_R_Cnt16.h" value="HEADER;;;;;QuadDec_R_Cnt16" />
+  <file name="C:\Users\mechatoro\Documents\PSoC Creator\rotary_enc_hard_for_git\PSoC_rotaryenc_PI\rotary_enc_hard.cydsn\codegentemp\QuadDec_R_Cnt16_PM.c" value="SOURCE_C;CortexM3;;;;QuadDec_R_Cnt16" />
   <file name="C:\Users\mechatoro\Documents\PSoC Creator\rotary_enc_hard_for_git\PSoC_rotaryenc_PI\rotary_enc_hard.cydsn\codegentemp\cm3gcc.ld" value="LINKER_SCRIPT;;;b98f980c-3bd1-4fc7-a887-c56a20a46fdd;;cy_boot" />
   <file name="C:\Users\mechatoro\Documents\PSoC Creator\rotary_enc_hard_for_git\PSoC_rotaryenc_PI\rotary_enc_hard.cydsn\codegentemp\Cm3RealView.scat" value="LINKER_SCRIPT;;;fdb8e1ae-f83a-46cf-9446-1d703716f38a;;cy_boot" />
   <file name="C:\Users\mechatoro\Documents\PSoC Creator\rotary_enc_hard_for_git\PSoC_rotaryenc_PI\rotary_enc_hard.cydsn\codegentemp\Cm3Start.c" value="SOURCE_C;CortexM3;;;;cy_boot" />
