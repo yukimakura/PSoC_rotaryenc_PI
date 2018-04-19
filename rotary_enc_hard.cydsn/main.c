@@ -6,14 +6,15 @@
  * ========================================
 */
 #include "project.h"
+#include <stdio.h>
 
 //定数
-#define Kp      60
-#define Ki      500 
+#define Kp      10
+#define Ki      5
 #define Kd      0.1
 
-#define target  32780  //ロータリエンコーダは32767が基準
-#define isr_clock 10　　//割り込みの周期（Hz）
+#define target  0x800a  //ロータリエンコーダは32767が基準
+#define isr_clock 5 //割り込みの周期（Hz）
 
 
 volatile short temp_Count = 0xFFFF,Count = 0xFFFF;
@@ -47,6 +48,12 @@ inline void PID() {
 CY_ISR(dtisr_func){
     
     //Count = 0;
+    temp_Count = 0xFFFF / 2;
+    
+    // 現在のカウンタ値取得
+    PWM_WriteCompare(ans);
+    
+    temp_Count -= QuadDec_GetCounter();
     isrcnt++; 
     QuadDec_SetCounter(0);
     
@@ -58,15 +65,13 @@ int main(void)
 {
     CyGlobalIntEnable; /* Enable global interrupts. */
     PWM_Start();
+    UART_Start();
+    char str[10];
     
     //PWM_WriteCompare(100);
-    USBUART_Start(0,USBUART_5V_OPERATION);
-    while(!USBUART_bGetConfiguration()){}
-    LCD_Char_Start();
     USBUART_CDC_Init();
     //volatile int dbg_ans = 0;
     
-
     //int uart_count = 0;
     //char buff[64] = "";
 
@@ -81,16 +86,17 @@ int main(void)
        //dbg_ans = (int)(ans*1000000);
        //dbg_ans = ans;
        // LCD_Char_PrintNumber(Clock_2_GetSourceRegister());
-        temp_Count = 0xFFFF / 2;
-        // 現在のカウンタ値取得
         
-        PWM_WriteCompare(ans);
-        
-        temp_Count -= QuadDec_GetCounter();
         //LCD_Char_Position(0,0); 
         //LCD_Char_PrintNumber(temp_Count);
         
+        
         Count = (0xFFFF/2) - temp_Count;
+        sprintf(str,"tempcnt = %x",temp_Count);
+        UART_PutString(str);
+        UART_PutCRLF(0x0a);
+        sprintf(str,"cnt = %x",Count);
+        UART_PutString(str);
         
         //buff[0] = 's';
         //data_conv(buff,1,temp_Count);
@@ -120,7 +126,6 @@ int main(void)
 //                }
 //            }     
 //        }//USB周り終
-        
         
     }
 }

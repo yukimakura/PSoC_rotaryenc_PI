@@ -1,4 +1,4 @@
-ARM GAS  C:\Users\MECHAT~1\AppData\Local\Temp\cc2g9B0G.s 			page 1
+ARM GAS  C:\Users\MECHAT~1\AppData\Local\Temp\cckDkNiZ.s 			page 1
 
 
    1              		.syntax unified
@@ -27,7 +27,7 @@ ARM GAS  C:\Users\MECHAT~1\AppData\Local\Temp\cc2g9B0G.s 			page 1
   24              		.section	.cyconfigecc,"a",%progbits
   25              		.align	2
   26              		.type	cy_meta_configecc, %object
-  27              		.size	cy_meta_configecc, 1040
+  27              		.size	cy_meta_configecc, 2024
   28              	cy_meta_configecc:
   29 0000 01       		.byte	1
   30 0001 45       		.byte	69
@@ -38,1546 +38,2598 @@ ARM GAS  C:\Users\MECHAT~1\AppData\Local\Temp\cc2g9B0G.s 			page 1
   35 0006 00       		.byte	0
   36 0007 40       		.byte	64
   37 0008 03       		.byte	3
-  38 0009 65       		.byte	101
+  38 0009 64       		.byte	100
   39 000a 00       		.byte	0
   40 000b 40       		.byte	64
-  41 000c 36       		.byte	54
-  42 000d 04       		.byte	4
-  43 000e 01       		.byte	1
+  41 000c 03       		.byte	3
+  42 000d 65       		.byte	101
+  43 000e 00       		.byte	0
   44 000f 40       		.byte	64
-  45 0010 24       		.byte	36
-  46 0011 05       		.byte	5
+  45 0010 5C       		.byte	92
+  46 0011 06       		.byte	6
   47 0012 01       		.byte	1
   48 0013 40       		.byte	64
-  49 0014 4F       		.byte	79
-  50 0015 06       		.byte	6
+  49 0014 32       		.byte	50
+  50 0015 07       		.byte	7
   51 0016 01       		.byte	1
   52 0017 40       		.byte	64
-  53 0018 2D       		.byte	45
-  54 0019 07       		.byte	7
+  53 0018 04       		.byte	4
+  54 0019 09       		.byte	9
   55 001a 01       		.byte	1
   56 001b 40       		.byte	64
-  57 001c 3F       		.byte	63
-ARM GAS  C:\Users\MECHAT~1\AppData\Local\Temp\cc2g9B0G.s 			page 2
+  57 001c 05       		.byte	5
+ARM GAS  C:\Users\MECHAT~1\AppData\Local\Temp\cckDkNiZ.s 			page 2
 
 
-  58 001d 14       		.byte	20
+  58 001d 0B       		.byte	11
   59 001e 01       		.byte	1
   60 001f 40       		.byte	64
-  61 0020 21       		.byte	33
-  62 0021 15       		.byte	21
+  61 0020 4A       		.byte	74
+  62 0021 0C       		.byte	12
   63 0022 01       		.byte	1
   64 0023 40       		.byte	64
-  65 0024 2C       		.byte	44
-  66 0025 16       		.byte	22
+  65 0024 26       		.byte	38
+  66 0025 0D       		.byte	13
   67 0026 01       		.byte	1
   68 0027 40       		.byte	64
-  69 0028 38       		.byte	56
-  70 0029 17       		.byte	23
+  69 0028 4D       		.byte	77
+  70 0029 14       		.byte	20
   71 002a 01       		.byte	1
   72 002b 40       		.byte	64
-  73 002c 02       		.byte	2
-  74 002d 19       		.byte	25
+  73 002c 46       		.byte	70
+  74 002d 15       		.byte	21
   75 002e 01       		.byte	1
   76 002f 40       		.byte	64
-  77 0030 03       		.byte	3
-  78 0031 40       		.byte	64
+  77 0030 57       		.byte	87
+  78 0031 16       		.byte	22
   79 0032 01       		.byte	1
   80 0033 40       		.byte	64
-  81 0034 03       		.byte	3
-  82 0035 41       		.byte	65
+  81 0034 44       		.byte	68
+  82 0035 17       		.byte	23
   83 0036 01       		.byte	1
   84 0037 40       		.byte	64
-  85 0038 03       		.byte	3
-  86 0039 42       		.byte	66
+  85 0038 44       		.byte	68
+  86 0039 18       		.byte	24
   87 003a 01       		.byte	1
   88 003b 40       		.byte	64
-  89 003c 03       		.byte	3
-  90 003d 43       		.byte	67
+  89 003c 3C       		.byte	60
+  90 003d 19       		.byte	25
   91 003e 01       		.byte	1
   92 003f 40       		.byte	64
-  93 0040 04       		.byte	4
-  94 0041 47       		.byte	71
+  93 0040 54       		.byte	84
+  94 0041 1A       		.byte	26
   95 0042 01       		.byte	1
   96 0043 40       		.byte	64
-  97 0044 07       		.byte	7
-  98 0045 48       		.byte	72
+  97 0044 4F       		.byte	79
+  98 0045 1B       		.byte	27
   99 0046 01       		.byte	1
  100 0047 40       		.byte	64
- 101 0048 09       		.byte	9
- 102 0049 49       		.byte	73
+ 101 0048 03       		.byte	3
+ 102 0049 40       		.byte	64
  103 004a 01       		.byte	1
  104 004b 40       		.byte	64
- 105 004c 02       		.byte	2
- 106 004d 4C       		.byte	76
+ 105 004c 03       		.byte	3
+ 106 004d 41       		.byte	65
  107 004e 01       		.byte	1
  108 004f 40       		.byte	64
- 109 0050 04       		.byte	4
- 110 0051 50       		.byte	80
+ 109 0050 03       		.byte	3
+ 110 0051 42       		.byte	66
  111 0052 01       		.byte	1
  112 0053 40       		.byte	64
- 113 0054 01       		.byte	1
- 114 0055 51       		.byte	81
-ARM GAS  C:\Users\MECHAT~1\AppData\Local\Temp\cc2g9B0G.s 			page 3
+ 113 0054 03       		.byte	3
+ 114 0055 43       		.byte	67
+ARM GAS  C:\Users\MECHAT~1\AppData\Local\Temp\cckDkNiZ.s 			page 3
 
 
  115 0056 01       		.byte	1
  116 0057 40       		.byte	64
- 117 0058 7E       		.byte	126
- 118 0059 02       		.byte	2
- 119 005a 18       		.byte	24
- 120 005b 02       		.byte	2
- 121 005c 7C       		.byte	124
- 122 005d 40       		.byte	64
- 123 005e 85       		.byte	-123
- 124 005f 0D       		.byte	13
- 125 0060 86       		.byte	-122
- 126 0061 0F       		.byte	15
- 127 0062 87       		.byte	-121
- 128 0063 6F       		.byte	111
- 129 0064 00       		.byte	0
- 130 0065 80       		.byte	-128
- 131 0066 02       		.byte	2
- 132 0067 14       		.byte	20
- 133 0068 04       		.byte	4
- 134 0069 04       		.byte	4
- 135 006a 06       		.byte	6
- 136 006b F0       		.byte	-16
- 137 006c 08       		.byte	8
- 138 006d B4       		.byte	-76
- 139 006e 09       		.byte	9
- 140 006f FE       		.byte	-2
- 141 0070 0A       		.byte	10
- 142 0071 40       		.byte	64
- 143 0072 0B       		.byte	11
- 144 0073 01       		.byte	1
- 145 0074 12       		.byte	18
- 146 0075 03       		.byte	3
- 147 0076 13       		.byte	19
- 148 0077 01       		.byte	1
- 149 0078 14       		.byte	20
- 150 0079 C4       		.byte	-60
- 151 007a 15       		.byte	21
- 152 007b C5       		.byte	-59
- 153 007c 16       		.byte	22
- 154 007d 10       		.byte	16
- 155 007e 17       		.byte	23
- 156 007f 3A       		.byte	58
- 157 0080 18       		.byte	24
- 158 0081 01       		.byte	1
- 159 0082 19       		.byte	25
- 160 0083 0E       		.byte	14
- 161 0084 1B       		.byte	27
- 162 0085 F0       		.byte	-16
- 163 0086 1D       		.byte	29
- 164 0087 96       		.byte	-106
- 165 0088 1F       		.byte	31
- 166 0089 68       		.byte	104
- 167 008a 20       		.byte	32
- 168 008b 70       		.byte	112
- 169 008c 21       		.byte	33
- 170 008d 7F       		.byte	127
- 171 008e 24       		.byte	36
-ARM GAS  C:\Users\MECHAT~1\AppData\Local\Temp\cc2g9B0G.s 			page 4
+ 117 0058 02       		.byte	2
+ 118 0059 45       		.byte	69
+ 119 005a 01       		.byte	1
+ 120 005b 40       		.byte	64
+ 121 005c 02       		.byte	2
+ 122 005d 46       		.byte	70
+ 123 005e 01       		.byte	1
+ 124 005f 40       		.byte	64
+ 125 0060 04       		.byte	4
+ 126 0061 47       		.byte	71
+ 127 0062 01       		.byte	1
+ 128 0063 40       		.byte	64
+ 129 0064 05       		.byte	5
+ 130 0065 48       		.byte	72
+ 131 0066 01       		.byte	1
+ 132 0067 40       		.byte	64
+ 133 0068 0B       		.byte	11
+ 134 0069 49       		.byte	73
+ 135 006a 01       		.byte	1
+ 136 006b 40       		.byte	64
+ 137 006c 02       		.byte	2
+ 138 006d 4C       		.byte	76
+ 139 006e 01       		.byte	1
+ 140 006f 40       		.byte	64
+ 141 0070 08       		.byte	8
+ 142 0071 4D       		.byte	77
+ 143 0072 01       		.byte	1
+ 144 0073 40       		.byte	64
+ 145 0074 09       		.byte	9
+ 146 0075 50       		.byte	80
+ 147 0076 01       		.byte	1
+ 148 0077 40       		.byte	64
+ 149 0078 01       		.byte	1
+ 150 0079 51       		.byte	81
+ 151 007a 01       		.byte	1
+ 152 007b 40       		.byte	64
+ 153 007c 7E       		.byte	126
+ 154 007d 02       		.byte	2
+ 155 007e 10       		.byte	16
+ 156 007f 02       		.byte	2
+ 157 0080 7C       		.byte	124
+ 158 0081 40       		.byte	64
+ 159 0082 87       		.byte	-121
+ 160 0083 6F       		.byte	111
+ 161 0084 8C       		.byte	-116
+ 162 0085 38       		.byte	56
+ 163 0086 8D       		.byte	-115
+ 164 0087 0D       		.byte	13
+ 165 0088 84       		.byte	-124
+ 166 0089 0F       		.byte	15
+ 167 008a 87       		.byte	-121
+ 168 008b 0F       		.byte	15
+ 169 008c 8A       		.byte	-118
+ 170 008d 72       		.byte	114
+ 171 008e 00       		.byte	0
+ARM GAS  C:\Users\MECHAT~1\AppData\Local\Temp\cckDkNiZ.s 			page 4
 
 
- 172 008f C4       		.byte	-60
- 173 0090 26       		.byte	38
- 174 0091 20       		.byte	32
- 175 0092 29       		.byte	41
- 176 0093 A3       		.byte	-93
- 177 0094 2A       		.byte	42
- 178 0095 08       		.byte	8
- 179 0096 2B       		.byte	43
- 180 0097 5C       		.byte	92
- 181 0098 2E       		.byte	46
- 182 0099 01       		.byte	1
- 183 009a 30       		.byte	48
- 184 009b 0C       		.byte	12
- 185 009c 32       		.byte	50
- 186 009d F0       		.byte	-16
- 187 009e 33       		.byte	51
- 188 009f FF       		.byte	-1
- 189 00a0 34       		.byte	52
- 190 00a1 02       		.byte	2
- 191 00a2 36       		.byte	54
- 192 00a3 01       		.byte	1
- 193 00a4 3E       		.byte	62
- 194 00a5 40       		.byte	64
- 195 00a6 3F       		.byte	63
- 196 00a7 04       		.byte	4
- 197 00a8 52       		.byte	82
- 198 00a9 80       		.byte	-128
- 199 00aa 58       		.byte	88
- 200 00ab 04       		.byte	4
- 201 00ac 59       		.byte	89
- 202 00ad 04       		.byte	4
- 203 00ae 5B       		.byte	91
- 204 00af 04       		.byte	4
- 205 00b0 5F       		.byte	95
- 206 00b1 01       		.byte	1
- 207 00b2 80       		.byte	-128
- 208 00b3 77       		.byte	119
- 209 00b4 84       		.byte	-124
- 210 00b5 CC       		.byte	-52
- 211 00b6 86       		.byte	-122
- 212 00b7 31       		.byte	49
- 213 00b8 94       		.byte	-108
- 214 00b9 AC       		.byte	-84
- 215 00ba 96       		.byte	-106
- 216 00bb 52       		.byte	82
- 217 00bc 98       		.byte	-104
- 218 00bd FB       		.byte	-5
- 219 00be 9A       		.byte	-102
- 220 00bf 04       		.byte	4
- 221 00c0 A0       		.byte	-96
- 222 00c1 50       		.byte	80
- 223 00c2 A2       		.byte	-94
- 224 00c3 AF       		.byte	-81
- 225 00c4 A8       		.byte	-88
- 226 00c5 38       		.byte	56
- 227 00c6 AA       		.byte	-86
- 228 00c7 C1       		.byte	-63
-ARM GAS  C:\Users\MECHAT~1\AppData\Local\Temp\cc2g9B0G.s 			page 5
+ 172 008f 06       		.byte	6
+ 173 0090 08       		.byte	8
+ 174 0091 06       		.byte	6
+ 175 0092 09       		.byte	9
+ 176 0093 83       		.byte	-125
+ 177 0094 0B       		.byte	11
+ 178 0095 1C       		.byte	28
+ 179 0096 11       		.byte	17
+ 180 0097 77       		.byte	119
+ 181 0098 15       		.byte	21
+ 182 0099 BF       		.byte	-65
+ 183 009a 17       		.byte	23
+ 184 009b 40       		.byte	64
+ 185 009c 19       		.byte	25
+ 186 009d CA       		.byte	-54
+ 187 009e 1B       		.byte	27
+ 188 009f 25       		.byte	37
+ 189 00a0 1C       		.byte	28
+ 190 00a1 03       		.byte	3
+ 191 00a2 1D       		.byte	29
+ 192 00a3 CC       		.byte	-52
+ 193 00a4 1F       		.byte	31
+ 194 00a5 13       		.byte	19
+ 195 00a6 24       		.byte	36
+ 196 00a7 05       		.byte	5
+ 197 00a8 2D       		.byte	45
+ 198 00a9 05       		.byte	5
+ 199 00aa 2F       		.byte	47
+ 200 00ab FA       		.byte	-6
+ 201 00ac 33       		.byte	51
+ 202 00ad F0       		.byte	-16
+ 203 00ae 35       		.byte	53
+ 204 00af 0F       		.byte	15
+ 205 00b0 36       		.byte	54
+ 206 00b1 07       		.byte	7
+ 207 00b2 38       		.byte	56
+ 208 00b3 80       		.byte	-128
+ 209 00b4 40       		.byte	64
+ 210 00b5 15       		.byte	21
+ 211 00b6 41       		.byte	65
+ 212 00b7 03       		.byte	3
+ 213 00b8 49       		.byte	73
+ 214 00b9 FF       		.byte	-1
+ 215 00ba 4A       		.byte	74
+ 216 00bb FF       		.byte	-1
+ 217 00bc 4B       		.byte	75
+ 218 00bd FF       		.byte	-1
+ 219 00be 4D       		.byte	77
+ 220 00bf A0       		.byte	-96
+ 221 00c0 4F       		.byte	79
+ 222 00c1 01       		.byte	1
+ 223 00c2 50       		.byte	80
+ 224 00c3 18       		.byte	24
+ 225 00c4 58       		.byte	88
+ 226 00c5 04       		.byte	4
+ 227 00c6 59       		.byte	89
+ 228 00c7 04       		.byte	4
+ARM GAS  C:\Users\MECHAT~1\AppData\Local\Temp\cckDkNiZ.s 			page 5
 
 
- 229 00c8 B2       		.byte	-78
- 230 00c9 0F       		.byte	15
- 231 00ca B4       		.byte	-76
- 232 00cb F0       		.byte	-16
- 233 00cc D8       		.byte	-40
- 234 00cd 04       		.byte	4
- 235 00ce DF       		.byte	-33
- 236 00cf 01       		.byte	1
- 237 00d0 01       		.byte	1
- 238 00d1 10       		.byte	16
- 239 00d2 02       		.byte	2
- 240 00d3 C0       		.byte	-64
- 241 00d4 03       		.byte	3
- 242 00d5 20       		.byte	32
- 243 00d6 05       		.byte	5
- 244 00d7 02       		.byte	2
- 245 00d8 06       		.byte	6
- 246 00d9 10       		.byte	16
- 247 00da 09       		.byte	9
- 248 00db 08       		.byte	8
- 249 00dc 0A       		.byte	10
- 250 00dd 44       		.byte	68
- 251 00de 0D       		.byte	13
- 252 00df 08       		.byte	8
- 253 00e0 0E       		.byte	14
+ 229 00c8 5A       		.byte	90
+ 230 00c9 04       		.byte	4
+ 231 00ca 5F       		.byte	95
+ 232 00cb 01       		.byte	1
+ 233 00cc 60       		.byte	96
+ 234 00cd 40       		.byte	64
+ 235 00ce 62       		.byte	98
+ 236 00cf 80       		.byte	-128
+ 237 00d0 64       		.byte	100
+ 238 00d1 40       		.byte	64
+ 239 00d2 65       		.byte	101
+ 240 00d3 40       		.byte	64
+ 241 00d4 66       		.byte	102
+ 242 00d5 80       		.byte	-128
+ 243 00d6 68       		.byte	104
+ 244 00d7 40       		.byte	64
+ 245 00d8 6A       		.byte	106
+ 246 00d9 80       		.byte	-128
+ 247 00da 6C       		.byte	108
+ 248 00db 40       		.byte	64
+ 249 00dc 6D       		.byte	109
+ 250 00dd 20       		.byte	32
+ 251 00de 6E       		.byte	110
+ 252 00df 80       		.byte	-128
+ 253 00e0 82       		.byte	-126
  254 00e1 08       		.byte	8
- 255 00e2 10       		.byte	16
- 256 00e3 42       		.byte	66
- 257 00e4 12       		.byte	18
- 258 00e5 18       		.byte	24
- 259 00e6 16       		.byte	22
- 260 00e7 40       		.byte	64
- 261 00e8 17       		.byte	23
- 262 00e9 10       		.byte	16
- 263 00ea 19       		.byte	25
- 264 00eb 81       		.byte	-127
- 265 00ec 1A       		.byte	26
- 266 00ed 44       		.byte	68
- 267 00ee 1B       		.byte	27
- 268 00ef 44       		.byte	68
- 269 00f0 1D       		.byte	29
- 270 00f1 08       		.byte	8
- 271 00f2 1E       		.byte	30
- 272 00f3 08       		.byte	8
- 273 00f4 1F       		.byte	31
- 274 00f5 10       		.byte	16
- 275 00f6 22       		.byte	34
- 276 00f7 08       		.byte	8
- 277 00f8 28       		.byte	40
- 278 00f9 40       		.byte	64
- 279 00fa 29       		.byte	41
- 280 00fb 02       		.byte	2
- 281 00fc 2A       		.byte	42
- 282 00fd 10       		.byte	16
- 283 00fe 2B       		.byte	43
- 284 00ff 04       		.byte	4
- 285 0100 31       		.byte	49
-ARM GAS  C:\Users\MECHAT~1\AppData\Local\Temp\cc2g9B0G.s 			page 6
+ 255 00e2 90       		.byte	-112
+ 256 00e3 01       		.byte	1
+ 257 00e4 9B       		.byte	-101
+ 258 00e5 04       		.byte	4
+ 259 00e6 9C       		.byte	-100
+ 260 00e7 08       		.byte	8
+ 261 00e8 9F       		.byte	-97
+ 262 00e9 02       		.byte	2
+ 263 00ea A0       		.byte	-96
+ 264 00eb 01       		.byte	1
+ 265 00ec A2       		.byte	-94
+ 266 00ed 04       		.byte	4
+ 267 00ee A4       		.byte	-92
+ 268 00ef 01       		.byte	1
+ 269 00f0 A5       		.byte	-91
+ 270 00f1 04       		.byte	4
+ 271 00f2 A6       		.byte	-90
+ 272 00f3 02       		.byte	2
+ 273 00f4 A8       		.byte	-88
+ 274 00f5 04       		.byte	4
+ 275 00f6 AF       		.byte	-81
+ 276 00f7 01       		.byte	1
+ 277 00f8 B0       		.byte	-80
+ 278 00f9 08       		.byte	8
+ 279 00fa B1       		.byte	-79
+ 280 00fb 04       		.byte	4
+ 281 00fc B2       		.byte	-78
+ 282 00fd 02       		.byte	2
+ 283 00fe B3       		.byte	-77
+ 284 00ff 02       		.byte	2
+ 285 0100 B4       		.byte	-76
+ARM GAS  C:\Users\MECHAT~1\AppData\Local\Temp\cckDkNiZ.s 			page 6
 
 
- 286 0101 09       		.byte	9
- 287 0102 32       		.byte	50
- 288 0103 80       		.byte	-128
- 289 0104 33       		.byte	51
- 290 0105 30       		.byte	48
- 291 0106 39       		.byte	57
- 292 0107 10       		.byte	16
- 293 0108 3B       		.byte	59
- 294 0109 20       		.byte	32
- 295 010a 70       		.byte	112
- 296 010b 02       		.byte	2
+ 286 0101 04       		.byte	4
+ 287 0102 B6       		.byte	-74
+ 288 0103 01       		.byte	1
+ 289 0104 B7       		.byte	-73
+ 290 0105 01       		.byte	1
+ 291 0106 B8       		.byte	-72
+ 292 0107 80       		.byte	-128
+ 293 0108 BE       		.byte	-66
+ 294 0109 51       		.byte	81
+ 295 010a BF       		.byte	-65
+ 296 010b 01       		.byte	1
  297 010c C0       		.byte	-64
- 298 010d 3E       		.byte	62
- 299 010e C2       		.byte	-62
- 300 010f 6E       		.byte	110
- 301 0110 C4       		.byte	-60
- 302 0111 5F       		.byte	95
- 303 0112 CA       		.byte	-54
- 304 0113 05       		.byte	5
- 305 0114 CC       		.byte	-52
- 306 0115 0F       		.byte	15
- 307 0116 CE       		.byte	-50
- 308 0117 04       		.byte	4
- 309 0118 40       		.byte	64
- 310 0119 56       		.byte	86
- 311 011a 41       		.byte	65
- 312 011b 02       		.byte	2
- 313 011c 49       		.byte	73
+ 298 010d 15       		.byte	21
+ 299 010e C1       		.byte	-63
+ 300 010f 06       		.byte	6
+ 301 0110 C5       		.byte	-59
+ 302 0111 32       		.byte	50
+ 303 0112 C6       		.byte	-58
+ 304 0113 C4       		.byte	-60
+ 305 0114 C7       		.byte	-57
+ 306 0115 0E       		.byte	14
+ 307 0116 C8       		.byte	-56
+ 308 0117 1F       		.byte	31
+ 309 0118 C9       		.byte	-55
+ 310 0119 FF       		.byte	-1
+ 311 011a CA       		.byte	-54
+ 312 011b FF       		.byte	-1
+ 313 011c CB       		.byte	-53
  314 011d FF       		.byte	-1
- 315 011e 4A       		.byte	74
- 316 011f FF       		.byte	-1
- 317 0120 4B       		.byte	75
- 318 0121 FF       		.byte	-1
- 319 0122 4D       		.byte	77
- 320 0123 A0       		.byte	-96
- 321 0124 4F       		.byte	79
- 322 0125 01       		.byte	1
- 323 0126 50       		.byte	80
- 324 0127 18       		.byte	24
- 325 0128 5A       		.byte	90
+ 315 011e CD       		.byte	-51
+ 316 011f AF       		.byte	-81
+ 317 0120 CE       		.byte	-50
+ 318 0121 07       		.byte	7
+ 319 0122 CF       		.byte	-49
+ 320 0123 01       		.byte	1
+ 321 0124 D0       		.byte	-48
+ 322 0125 18       		.byte	24
+ 323 0126 D4       		.byte	-44
+ 324 0127 0F       		.byte	15
+ 325 0128 D8       		.byte	-40
  326 0129 04       		.byte	4
- 327 012a 5F       		.byte	95
- 328 012b 01       		.byte	1
- 329 012c 60       		.byte	96
- 330 012d 40       		.byte	64
- 331 012e 62       		.byte	98
- 332 012f 80       		.byte	-128
- 333 0130 64       		.byte	100
- 334 0131 40       		.byte	64
- 335 0132 65       		.byte	101
+ 327 012a D9       		.byte	-39
+ 328 012b 04       		.byte	4
+ 329 012c DA       		.byte	-38
+ 330 012d 04       		.byte	4
+ 331 012e DB       		.byte	-37
+ 332 012f 04       		.byte	4
+ 333 0130 DF       		.byte	-33
+ 334 0131 05       		.byte	5
+ 335 0132 E0       		.byte	-32
  336 0133 40       		.byte	64
- 337 0134 66       		.byte	102
+ 337 0134 E2       		.byte	-30
  338 0135 80       		.byte	-128
- 339 0136 68       		.byte	104
+ 339 0136 E4       		.byte	-28
  340 0137 40       		.byte	64
- 341 0138 6A       		.byte	106
- 342 0139 80       		.byte	-128
-ARM GAS  C:\Users\MECHAT~1\AppData\Local\Temp\cc2g9B0G.s 			page 7
+ 341 0138 E5       		.byte	-27
+ 342 0139 40       		.byte	64
+ARM GAS  C:\Users\MECHAT~1\AppData\Local\Temp\cckDkNiZ.s 			page 7
 
 
- 343 013a 6C       		.byte	108
- 344 013b 40       		.byte	64
- 345 013c 6D       		.byte	109
- 346 013d 20       		.byte	32
- 347 013e 6E       		.byte	110
+ 343 013a E6       		.byte	-26
+ 344 013b 80       		.byte	-128
+ 345 013c E8       		.byte	-24
+ 346 013d 40       		.byte	64
+ 347 013e EA       		.byte	-22
  348 013f 80       		.byte	-128
- 349 0140 80       		.byte	-128
+ 349 0140 EC       		.byte	-20
  350 0141 40       		.byte	64
- 351 0142 84       		.byte	-124
- 352 0143 10       		.byte	16
- 353 0144 86       		.byte	-122
- 354 0145 20       		.byte	32
- 355 0146 88       		.byte	-120
- 356 0147 1C       		.byte	28
- 357 0148 89       		.byte	-119
- 358 0149 FD       		.byte	-3
- 359 014a 8A       		.byte	-118
- 360 014b 20       		.byte	32
- 361 014c 8B       		.byte	-117
- 362 014d 02       		.byte	2
- 363 014e 8E       		.byte	-114
- 364 014f 80       		.byte	-128
- 365 0150 90       		.byte	-112
- 366 0151 77       		.byte	119
- 367 0152 94       		.byte	-108
- 368 0153 7A       		.byte	122
- 369 0154 95       		.byte	-107
- 370 0155 9E       		.byte	-98
- 371 0156 97       		.byte	-105
- 372 0157 60       		.byte	96
- 373 0158 99       		.byte	-103
- 374 0159 94       		.byte	-108
- 375 015a 9A       		.byte	-102
- 376 015b 70       		.byte	112
- 377 015c 9B       		.byte	-101
- 378 015d 60       		.byte	96
- 379 015e 9D       		.byte	-99
- 380 015f 30       		.byte	48
- 381 0160 9F       		.byte	-97
- 382 0161 C9       		.byte	-55
- 383 0162 A1       		.byte	-95
- 384 0163 73       		.byte	115
- 385 0164 A4       		.byte	-92
- 386 0165 0C       		.byte	12
- 387 0166 A6       		.byte	-90
- 388 0167 40       		.byte	64
- 389 0168 A7       		.byte	-89
- 390 0169 0F       		.byte	15
- 391 016a A8       		.byte	-88
- 392 016b 01       		.byte	1
- 393 016c A9       		.byte	-87
- 394 016d CF       		.byte	-49
- 395 016e AB       		.byte	-85
- 396 016f 30       		.byte	48
- 397 0170 AC       		.byte	-84
- 398 0171 01       		.byte	1
- 399 0172 B0       		.byte	-80
-ARM GAS  C:\Users\MECHAT~1\AppData\Local\Temp\cc2g9B0G.s 			page 8
+ 351 0142 ED       		.byte	-19
+ 352 0143 20       		.byte	32
+ 353 0144 EE       		.byte	-18
+ 354 0145 80       		.byte	-128
+ 355 0146 02       		.byte	2
+ 356 0147 40       		.byte	64
+ 357 0148 04       		.byte	4
+ 358 0149 20       		.byte	32
+ 359 014a 07       		.byte	7
+ 360 014b 40       		.byte	64
+ 361 014c 0B       		.byte	11
+ 362 014d 81       		.byte	-127
+ 363 014e 0E       		.byte	14
+ 364 014f 02       		.byte	2
+ 365 0150 10       		.byte	16
+ 366 0151 A0       		.byte	-96
+ 367 0152 13       		.byte	19
+ 368 0153 10       		.byte	16
+ 369 0154 17       		.byte	23
+ 370 0155 04       		.byte	4
+ 371 0156 19       		.byte	25
+ 372 0157 48       		.byte	72
+ 373 0158 1A       		.byte	26
+ 374 0159 84       		.byte	-124
+ 375 015a 1B       		.byte	27
+ 376 015b 40       		.byte	64
+ 377 015c 1E       		.byte	30
+ 378 015d 02       		.byte	2
+ 379 015e 1F       		.byte	31
+ 380 015f 40       		.byte	64
+ 381 0160 22       		.byte	34
+ 382 0161 81       		.byte	-127
+ 383 0162 23       		.byte	35
+ 384 0163 11       		.byte	17
+ 385 0164 24       		.byte	36
+ 386 0165 20       		.byte	32
+ 387 0166 25       		.byte	37
+ 388 0167 10       		.byte	16
+ 389 0168 26       		.byte	38
+ 390 0169 08       		.byte	8
+ 391 016a 27       		.byte	39
+ 392 016b 14       		.byte	20
+ 393 016c 29       		.byte	41
+ 394 016d 08       		.byte	8
+ 395 016e 2A       		.byte	42
+ 396 016f 40       		.byte	64
+ 397 0170 2E       		.byte	46
+ 398 0171 40       		.byte	64
+ 399 0172 30       		.byte	48
+ARM GAS  C:\Users\MECHAT~1\AppData\Local\Temp\cckDkNiZ.s 			page 8
 
 
- 400 0173 0E       		.byte	14
- 401 0174 B1       		.byte	-79
- 402 0175 FF       		.byte	-1
- 403 0176 B2       		.byte	-78
- 404 0177 F0       		.byte	-16
- 405 0178 B4       		.byte	-76
- 406 0179 01       		.byte	1
- 407 017a B8       		.byte	-72
- 408 017b 22       		.byte	34
- 409 017c BE       		.byte	-66
- 410 017d 10       		.byte	16
- 411 017e BF       		.byte	-65
- 412 017f 01       		.byte	1
- 413 0180 C0       		.byte	-64
- 414 0181 52       		.byte	82
- 415 0182 C1       		.byte	-63
- 416 0183 03       		.byte	3
- 417 0184 C5       		.byte	-59
- 418 0185 0E       		.byte	14
- 419 0186 C6       		.byte	-58
- 420 0187 C4       		.byte	-60
- 421 0188 C7       		.byte	-57
- 422 0189 23       		.byte	35
- 423 018a C8       		.byte	-56
- 424 018b 3D       		.byte	61
- 425 018c C9       		.byte	-55
- 426 018d FF       		.byte	-1
- 427 018e CA       		.byte	-54
- 428 018f FF       		.byte	-1
- 429 0190 CB       		.byte	-53
- 430 0191 FF       		.byte	-1
- 431 0192 CD       		.byte	-51
- 432 0193 AF       		.byte	-81
- 433 0194 CE       		.byte	-50
- 434 0195 07       		.byte	7
- 435 0196 CF       		.byte	-49
- 436 0197 01       		.byte	1
- 437 0198 D0       		.byte	-48
- 438 0199 18       		.byte	24
- 439 019a D8       		.byte	-40
- 440 019b 04       		.byte	4
- 441 019c D9       		.byte	-39
- 442 019d 04       		.byte	4
- 443 019e DA       		.byte	-38
- 444 019f 04       		.byte	4
- 445 01a0 DF       		.byte	-33
- 446 01a1 01       		.byte	1
- 447 01a2 E0       		.byte	-32
- 448 01a3 40       		.byte	64
- 449 01a4 E2       		.byte	-30
- 450 01a5 80       		.byte	-128
- 451 01a6 E4       		.byte	-28
- 452 01a7 40       		.byte	64
- 453 01a8 E5       		.byte	-27
- 454 01a9 40       		.byte	64
- 455 01aa E6       		.byte	-26
- 456 01ab 80       		.byte	-128
-ARM GAS  C:\Users\MECHAT~1\AppData\Local\Temp\cc2g9B0G.s 			page 9
+ 400 0173 B0       		.byte	-80
+ 401 0174 36       		.byte	54
+ 402 0175 01       		.byte	1
+ 403 0176 37       		.byte	55
+ 404 0177 54       		.byte	84
+ 405 0178 3E       		.byte	62
+ 406 0179 10       		.byte	16
+ 407 017a 41       		.byte	65
+ 408 017b 80       		.byte	-128
+ 409 017c 45       		.byte	69
+ 410 017d 84       		.byte	-124
+ 411 017e 48       		.byte	72
+ 412 017f A0       		.byte	-96
+ 413 0180 49       		.byte	73
+ 414 0181 40       		.byte	64
+ 415 0182 4A       		.byte	74
+ 416 0183 24       		.byte	36
+ 417 0184 4F       		.byte	79
+ 418 0185 80       		.byte	-128
+ 419 0186 51       		.byte	81
+ 420 0187 08       		.byte	8
+ 421 0188 52       		.byte	82
+ 422 0189 50       		.byte	80
+ 423 018a 58       		.byte	88
+ 424 018b 10       		.byte	16
+ 425 018c 5A       		.byte	90
+ 426 018d 86       		.byte	-122
+ 427 018e 61       		.byte	97
+ 428 018f 08       		.byte	8
+ 429 0190 62       		.byte	98
+ 430 0191 10       		.byte	16
+ 431 0192 7A       		.byte	122
+ 432 0193 01       		.byte	1
+ 433 0194 C0       		.byte	-64
+ 434 0195 58       		.byte	88
+ 435 0196 C2       		.byte	-62
+ 436 0197 89       		.byte	-119
+ 437 0198 C4       		.byte	-60
+ 438 0199 2E       		.byte	46
+ 439 019a CA       		.byte	-54
+ 440 019b 1A       		.byte	26
+ 441 019c CC       		.byte	-52
+ 442 019d FC       		.byte	-4
+ 443 019e CE       		.byte	-50
+ 444 019f 20       		.byte	32
+ 445 01a0 D0       		.byte	-48
+ 446 01a1 58       		.byte	88
+ 447 01a2 D2       		.byte	-46
+ 448 01a3 1C       		.byte	28
+ 449 01a4 D6       		.byte	-42
+ 450 01a5 0F       		.byte	15
+ 451 01a6 D8       		.byte	-40
+ 452 01a7 06       		.byte	6
+ 453 01a8 DE       		.byte	-34
+ 454 01a9 08       		.byte	8
+ 455 01aa 97       		.byte	-105
+ 456 01ab 01       		.byte	1
+ARM GAS  C:\Users\MECHAT~1\AppData\Local\Temp\cckDkNiZ.s 			page 9
 
 
- 457 01ac E8       		.byte	-24
+ 457 01ac 9E       		.byte	-98
  458 01ad 40       		.byte	64
- 459 01ae EA       		.byte	-22
- 460 01af 80       		.byte	-128
- 461 01b0 EC       		.byte	-20
+ 459 01ae A4       		.byte	-92
+ 460 01af 04       		.byte	4
+ 461 01b0 A6       		.byte	-90
  462 01b1 40       		.byte	64
- 463 01b2 ED       		.byte	-19
- 464 01b3 20       		.byte	32
- 465 01b4 EE       		.byte	-18
- 466 01b5 80       		.byte	-128
- 467 01b6 00       		.byte	0
- 468 01b7 80       		.byte	-128
- 469 01b8 02       		.byte	2
- 470 01b9 88       		.byte	-120
- 471 01ba 03       		.byte	3
- 472 01bb 20       		.byte	32
- 473 01bc 08       		.byte	8
- 474 01bd 10       		.byte	16
- 475 01be 0A       		.byte	10
- 476 01bf 40       		.byte	64
- 477 01c0 0B       		.byte	11
- 478 01c1 20       		.byte	32
- 479 01c2 10       		.byte	16
- 480 01c3 0A       		.byte	10
- 481 01c4 12       		.byte	18
- 482 01c5 10       		.byte	16
- 483 01c6 18       		.byte	24
+ 463 01b2 97       		.byte	-105
+ 464 01b3 01       		.byte	1
+ 465 01b4 9E       		.byte	-98
+ 466 01b5 40       		.byte	64
+ 467 01b6 A4       		.byte	-92
+ 468 01b7 04       		.byte	4
+ 469 01b8 A6       		.byte	-90
+ 470 01b9 40       		.byte	64
+ 471 01ba B4       		.byte	-76
+ 472 01bb 40       		.byte	64
+ 473 01bc 07       		.byte	7
+ 474 01bd 01       		.byte	1
+ 475 01be 16       		.byte	22
+ 476 01bf 01       		.byte	1
+ 477 01c0 1F       		.byte	31
+ 478 01c1 01       		.byte	1
+ 479 01c2 33       		.byte	51
+ 480 01c3 01       		.byte	1
+ 481 01c4 36       		.byte	54
+ 482 01c5 01       		.byte	1
+ 483 01c6 3F       		.byte	63
  484 01c7 04       		.byte	4
- 485 01c8 19       		.byte	25
- 486 01c9 0A       		.byte	10
- 487 01ca 1A       		.byte	26
- 488 01cb 50       		.byte	80
- 489 01cc 1B       		.byte	27
- 490 01cd 10       		.byte	16
- 491 01ce 20       		.byte	32
- 492 01cf 80       		.byte	-128
- 493 01d0 28       		.byte	40
- 494 01d1 10       		.byte	16
- 495 01d2 29       		.byte	41
- 496 01d3 0A       		.byte	10
- 497 01d4 2A       		.byte	42
- 498 01d5 18       		.byte	24
- 499 01d6 2B       		.byte	43
- 500 01d7 04       		.byte	4
- 501 01d8 31       		.byte	49
- 502 01d9 08       		.byte	8
- 503 01da 32       		.byte	50
- 504 01db 88       		.byte	-120
- 505 01dc 33       		.byte	51
- 506 01dd 20       		.byte	32
- 507 01de 3B       		.byte	59
- 508 01df 20       		.byte	32
- 509 01e0 40       		.byte	64
+ 485 01c8 40       		.byte	64
+ 486 01c9 60       		.byte	96
+ 487 01ca 41       		.byte	65
+ 488 01cb 02       		.byte	2
+ 489 01cc 49       		.byte	73
+ 490 01cd FF       		.byte	-1
+ 491 01ce 4A       		.byte	74
+ 492 01cf FF       		.byte	-1
+ 493 01d0 4B       		.byte	75
+ 494 01d1 FF       		.byte	-1
+ 495 01d2 4D       		.byte	77
+ 496 01d3 A0       		.byte	-96
+ 497 01d4 4F       		.byte	79
+ 498 01d5 04       		.byte	4
+ 499 01d6 50       		.byte	80
+ 500 01d7 18       		.byte	24
+ 501 01d8 54       		.byte	84
+ 502 01d9 18       		.byte	24
+ 503 01da 58       		.byte	88
+ 504 01db 04       		.byte	4
+ 505 01dc 59       		.byte	89
+ 506 01dd 04       		.byte	4
+ 507 01de 5A       		.byte	90
+ 508 01df 04       		.byte	4
+ 509 01e0 5B       		.byte	91
  510 01e1 04       		.byte	4
- 511 01e2 42       		.byte	66
- 512 01e3 10       		.byte	16
- 513 01e4 46       		.byte	70
-ARM GAS  C:\Users\MECHAT~1\AppData\Local\Temp\cc2g9B0G.s 			page 10
+ 511 01e2 5C       		.byte	92
+ 512 01e3 02       		.byte	2
+ 513 01e4 5D       		.byte	93
+ARM GAS  C:\Users\MECHAT~1\AppData\Local\Temp\cckDkNiZ.s 			page 10
 
 
- 514 01e5 08       		.byte	8
- 515 01e6 49       		.byte	73
- 516 01e7 84       		.byte	-124
- 517 01e8 4F       		.byte	79
- 518 01e9 A0       		.byte	-96
- 519 01ea 50       		.byte	80
- 520 01eb CA       		.byte	-54
- 521 01ec 52       		.byte	82
- 522 01ed 21       		.byte	33
- 523 01ee 53       		.byte	83
- 524 01ef 01       		.byte	1
- 525 01f0 87       		.byte	-121
- 526 01f1 12       		.byte	18
- 527 01f2 93       		.byte	-109
- 528 01f3 20       		.byte	32
- 529 01f4 99       		.byte	-103
- 530 01f5 80       		.byte	-128
- 531 01f6 9D       		.byte	-99
- 532 01f7 02       		.byte	2
- 533 01f8 A1       		.byte	-95
- 534 01f9 08       		.byte	8
- 535 01fa A3       		.byte	-93
- 536 01fb 44       		.byte	68
- 537 01fc A6       		.byte	-90
- 538 01fd 80       		.byte	-128
- 539 01fe A7       		.byte	-89
- 540 01ff 20       		.byte	32
- 541 0200 C0       		.byte	-64
- 542 0201 0F       		.byte	15
- 543 0202 C2       		.byte	-62
- 544 0203 0E       		.byte	14
- 545 0204 C4       		.byte	-60
- 546 0205 07       		.byte	7
- 547 0206 CA       		.byte	-54
- 548 0207 07       		.byte	7
- 549 0208 CC       		.byte	-52
- 550 0209 0E       		.byte	14
- 551 020a CE       		.byte	-50
- 552 020b 04       		.byte	4
- 553 020c D0       		.byte	-48
- 554 020d 26       		.byte	38
- 555 020e D2       		.byte	-46
- 556 020f 38       		.byte	56
- 557 0210 40       		.byte	64
- 558 0211 30       		.byte	48
- 559 0212 41       		.byte	65
- 560 0213 02       		.byte	2
- 561 0214 49       		.byte	73
- 562 0215 FF       		.byte	-1
- 563 0216 4A       		.byte	74
- 564 0217 FF       		.byte	-1
- 565 0218 4B       		.byte	75
- 566 0219 FF       		.byte	-1
- 567 021a 4D       		.byte	77
- 568 021b A0       		.byte	-96
- 569 021c 4F       		.byte	79
- 570 021d 04       		.byte	4
-ARM GAS  C:\Users\MECHAT~1\AppData\Local\Temp\cc2g9B0G.s 			page 11
+ 514 01e5 12       		.byte	18
+ 515 01e6 5F       		.byte	95
+ 516 01e7 01       		.byte	1
+ 517 01e8 60       		.byte	96
+ 518 01e9 40       		.byte	64
+ 519 01ea 62       		.byte	98
+ 520 01eb C0       		.byte	-64
+ 521 01ec 64       		.byte	100
+ 522 01ed 40       		.byte	64
+ 523 01ee 65       		.byte	101
+ 524 01ef 40       		.byte	64
+ 525 01f0 66       		.byte	102
+ 526 01f1 C0       		.byte	-64
+ 527 01f2 68       		.byte	104
+ 528 01f3 C0       		.byte	-64
+ 529 01f4 6A       		.byte	106
+ 530 01f5 C0       		.byte	-64
+ 531 01f6 6C       		.byte	108
+ 532 01f7 C0       		.byte	-64
+ 533 01f8 6E       		.byte	110
+ 534 01f9 C0       		.byte	-64
+ 535 01fa 92       		.byte	-110
+ 536 01fb 01       		.byte	1
+ 537 01fc 97       		.byte	-105
+ 538 01fd 01       		.byte	1
+ 539 01fe 9A       		.byte	-102
+ 540 01ff 02       		.byte	2
+ 541 0200 9B       		.byte	-101
+ 542 0201 02       		.byte	2
+ 543 0202 A7       		.byte	-89
+ 544 0203 02       		.byte	2
+ 545 0204 AA       		.byte	-86
+ 546 0205 02       		.byte	2
+ 547 0206 AD       		.byte	-83
+ 548 0207 01       		.byte	1
+ 549 0208 B0       		.byte	-80
+ 550 0209 02       		.byte	2
+ 551 020a B3       		.byte	-77
+ 552 020b 02       		.byte	2
+ 553 020c B4       		.byte	-76
+ 554 020d 01       		.byte	1
+ 555 020e B7       		.byte	-73
+ 556 020f 01       		.byte	1
+ 557 0210 BF       		.byte	-65
+ 558 0211 04       		.byte	4
+ 559 0212 C0       		.byte	-64
+ 560 0213 60       		.byte	96
+ 561 0214 C1       		.byte	-63
+ 562 0215 02       		.byte	2
+ 563 0216 C5       		.byte	-59
+ 564 0217 D0       		.byte	-48
+ 565 0218 C6       		.byte	-58
+ 566 0219 20       		.byte	32
+ 567 021a C7       		.byte	-57
+ 568 021b 01       		.byte	1
+ 569 021c C8       		.byte	-56
+ 570 021d 1A       		.byte	26
+ARM GAS  C:\Users\MECHAT~1\AppData\Local\Temp\cckDkNiZ.s 			page 11
 
 
- 571 021e 50       		.byte	80
- 572 021f 18       		.byte	24
- 573 0220 5A       		.byte	90
- 574 0221 04       		.byte	4
- 575 0222 5D       		.byte	93
- 576 0223 01       		.byte	1
- 577 0224 5F       		.byte	95
- 578 0225 01       		.byte	1
- 579 0226 60       		.byte	96
- 580 0227 40       		.byte	64
- 581 0228 62       		.byte	98
- 582 0229 C0       		.byte	-64
- 583 022a 64       		.byte	100
- 584 022b 40       		.byte	64
- 585 022c 65       		.byte	101
- 586 022d 40       		.byte	64
- 587 022e 66       		.byte	102
- 588 022f C0       		.byte	-64
- 589 0230 68       		.byte	104
- 590 0231 C0       		.byte	-64
- 591 0232 6A       		.byte	106
- 592 0233 C0       		.byte	-64
- 593 0234 6C       		.byte	108
- 594 0235 C0       		.byte	-64
- 595 0236 6E       		.byte	110
- 596 0237 C0       		.byte	-64
- 597 0238 87       		.byte	-121
- 598 0239 01       		.byte	1
- 599 023a 8B       		.byte	-117
- 600 023b 02       		.byte	2
- 601 023c 96       		.byte	-106
- 602 023d 02       		.byte	2
- 603 023e 9A       		.byte	-102
- 604 023f 06       		.byte	6
- 605 0240 A5       		.byte	-91
- 606 0241 01       		.byte	1
- 607 0242 AB       		.byte	-85
- 608 0243 02       		.byte	2
- 609 0244 AE       		.byte	-82
- 610 0245 01       		.byte	1
- 611 0246 B0       		.byte	-80
- 612 0247 02       		.byte	2
- 613 0248 B2       		.byte	-78
- 614 0249 01       		.byte	1
- 615 024a B4       		.byte	-76
- 616 024b 04       		.byte	4
- 617 024c B5       		.byte	-75
- 618 024d 02       		.byte	2
- 619 024e B7       		.byte	-73
- 620 024f 01       		.byte	1
- 621 0250 BF       		.byte	-65
- 622 0251 10       		.byte	16
- 623 0252 C0       		.byte	-64
- 624 0253 30       		.byte	48
- 625 0254 C1       		.byte	-63
- 626 0255 06       		.byte	6
- 627 0256 C5       		.byte	-59
-ARM GAS  C:\Users\MECHAT~1\AppData\Local\Temp\cc2g9B0G.s 			page 12
+ 571 021e C9       		.byte	-55
+ 572 021f FF       		.byte	-1
+ 573 0220 CA       		.byte	-54
+ 574 0221 FF       		.byte	-1
+ 575 0222 CB       		.byte	-53
+ 576 0223 FF       		.byte	-1
+ 577 0224 CD       		.byte	-51
+ 578 0225 AF       		.byte	-81
+ 579 0226 CE       		.byte	-50
+ 580 0227 0F       		.byte	15
+ 581 0228 CF       		.byte	-49
+ 582 0229 04       		.byte	4
+ 583 022a D0       		.byte	-48
+ 584 022b 18       		.byte	24
+ 585 022c D2       		.byte	-46
+ 586 022d 80       		.byte	-128
+ 587 022e D4       		.byte	-44
+ 588 022f 05       		.byte	5
+ 589 0230 D8       		.byte	-40
+ 590 0231 04       		.byte	4
+ 591 0232 D9       		.byte	-39
+ 592 0233 04       		.byte	4
+ 593 0234 DA       		.byte	-38
+ 594 0235 04       		.byte	4
+ 595 0236 DB       		.byte	-37
+ 596 0237 04       		.byte	4
+ 597 0238 DC       		.byte	-36
+ 598 0239 22       		.byte	34
+ 599 023a DD       		.byte	-35
+ 600 023b 22       		.byte	34
+ 601 023c DF       		.byte	-33
+ 602 023d 01       		.byte	1
+ 603 023e E0       		.byte	-32
+ 604 023f 40       		.byte	64
+ 605 0240 E2       		.byte	-30
+ 606 0241 C0       		.byte	-64
+ 607 0242 E4       		.byte	-28
+ 608 0243 40       		.byte	64
+ 609 0244 E5       		.byte	-27
+ 610 0245 40       		.byte	64
+ 611 0246 E6       		.byte	-26
+ 612 0247 C0       		.byte	-64
+ 613 0248 E8       		.byte	-24
+ 614 0249 C0       		.byte	-64
+ 615 024a EA       		.byte	-22
+ 616 024b C0       		.byte	-64
+ 617 024c EC       		.byte	-20
+ 618 024d C0       		.byte	-64
+ 619 024e EE       		.byte	-18
+ 620 024f C0       		.byte	-64
+ 621 0250 09       		.byte	9
+ 622 0251 02       		.byte	2
+ 623 0252 0A       		.byte	10
+ 624 0253 04       		.byte	4
+ 625 0254 0C       		.byte	12
+ 626 0255 08       		.byte	8
+ 627 0256 10       		.byte	16
+ARM GAS  C:\Users\MECHAT~1\AppData\Local\Temp\cckDkNiZ.s 			page 12
 
 
- 628 0257 D1       		.byte	-47
- 629 0258 C6       		.byte	-58
- 630 0259 20       		.byte	32
- 631 025a C8       		.byte	-56
- 632 025b 0B       		.byte	11
- 633 025c C9       		.byte	-55
- 634 025d FF       		.byte	-1
- 635 025e CA       		.byte	-54
- 636 025f FF       		.byte	-1
- 637 0260 CB       		.byte	-53
- 638 0261 FF       		.byte	-1
- 639 0262 CD       		.byte	-51
- 640 0263 AF       		.byte	-81
- 641 0264 CE       		.byte	-50
- 642 0265 0F       		.byte	15
- 643 0266 CF       		.byte	-49
- 644 0267 04       		.byte	4
- 645 0268 D0       		.byte	-48
- 646 0269 18       		.byte	24
- 647 026a D2       		.byte	-46
- 648 026b 80       		.byte	-128
- 649 026c D4       		.byte	-44
- 650 026d 05       		.byte	5
- 651 026e D8       		.byte	-40
- 652 026f 04       		.byte	4
- 653 0270 D9       		.byte	-39
- 654 0271 04       		.byte	4
- 655 0272 DA       		.byte	-38
- 656 0273 04       		.byte	4
- 657 0274 DB       		.byte	-37
- 658 0275 04       		.byte	4
- 659 0276 DC       		.byte	-36
- 660 0277 11       		.byte	17
- 661 0278 DD       		.byte	-35
+ 628 0257 08       		.byte	8
+ 629 0258 18       		.byte	24
+ 630 0259 40       		.byte	64
+ 631 025a 19       		.byte	25
+ 632 025b 10       		.byte	16
+ 633 025c 1A       		.byte	26
+ 634 025d 04       		.byte	4
+ 635 025e 1B       		.byte	27
+ 636 025f 10       		.byte	16
+ 637 0260 1D       		.byte	29
+ 638 0261 40       		.byte	64
+ 639 0262 22       		.byte	34
+ 640 0263 44       		.byte	68
+ 641 0264 25       		.byte	37
+ 642 0265 08       		.byte	8
+ 643 0266 29       		.byte	41
+ 644 0267 40       		.byte	64
+ 645 0268 2B       		.byte	43
+ 646 0269 10       		.byte	16
+ 647 026a 30       		.byte	48
+ 648 026b 08       		.byte	8
+ 649 026c 31       		.byte	49
+ 650 026d 20       		.byte	32
+ 651 026e 36       		.byte	54
+ 652 026f 40       		.byte	64
+ 653 0270 3C       		.byte	60
+ 654 0271 08       		.byte	8
+ 655 0272 41       		.byte	65
+ 656 0273 20       		.byte	32
+ 657 0274 45       		.byte	69
+ 658 0275 28       		.byte	40
+ 659 0276 46       		.byte	70
+ 660 0277 20       		.byte	32
+ 661 0278 49       		.byte	73
  662 0279 11       		.byte	17
- 663 027a DF       		.byte	-33
- 664 027b 01       		.byte	1
- 665 027c E0       		.byte	-32
- 666 027d 40       		.byte	64
- 667 027e E2       		.byte	-30
- 668 027f C0       		.byte	-64
- 669 0280 E4       		.byte	-28
- 670 0281 40       		.byte	64
- 671 0282 E5       		.byte	-27
- 672 0283 40       		.byte	64
- 673 0284 E6       		.byte	-26
- 674 0285 C0       		.byte	-64
- 675 0286 E8       		.byte	-24
- 676 0287 C0       		.byte	-64
- 677 0288 EA       		.byte	-22
- 678 0289 C0       		.byte	-64
- 679 028a EC       		.byte	-20
- 680 028b C0       		.byte	-64
- 681 028c EE       		.byte	-18
- 682 028d C0       		.byte	-64
- 683 028e 0D       		.byte	13
- 684 028f 08       		.byte	8
-ARM GAS  C:\Users\MECHAT~1\AppData\Local\Temp\cc2g9B0G.s 			page 13
+ 663 027a 4F       		.byte	79
+ 664 027b 20       		.byte	32
+ 665 027c 50       		.byte	80
+ 666 027d 08       		.byte	8
+ 667 027e 51       		.byte	81
+ 668 027f 20       		.byte	32
+ 669 0280 59       		.byte	89
+ 670 0281 01       		.byte	1
+ 671 0282 5A       		.byte	90
+ 672 0283 88       		.byte	-120
+ 673 0284 5F       		.byte	95
+ 674 0285 01       		.byte	1
+ 675 0286 66       		.byte	102
+ 676 0287 60       		.byte	96
+ 677 0288 71       		.byte	113
+ 678 0289 02       		.byte	2
+ 679 028a C2       		.byte	-62
+ 680 028b 2A       		.byte	42
+ 681 028c C4       		.byte	-60
+ 682 028d 02       		.byte	2
+ 683 028e CA       		.byte	-54
+ 684 028f 0A       		.byte	10
+ARM GAS  C:\Users\MECHAT~1\AppData\Local\Temp\cckDkNiZ.s 			page 13
 
 
- 685 0290 0F       		.byte	15
- 686 0291 04       		.byte	4
- 687 0292 17       		.byte	23
+ 685 0290 CC       		.byte	-52
+ 686 0291 16       		.byte	22
+ 687 0292 CE       		.byte	-50
  688 0293 40       		.byte	64
- 689 0294 1C       		.byte	28
- 690 0295 10       		.byte	16
- 691 0296 1D       		.byte	29
- 692 0297 09       		.byte	9
- 693 0298 1F       		.byte	31
- 694 0299 24       		.byte	36
- 695 029a 26       		.byte	38
- 696 029b 40       		.byte	64
- 697 029c 27       		.byte	39
- 698 029d 08       		.byte	8
- 699 029e 2F       		.byte	47
- 700 029f 24       		.byte	36
- 701 02a0 3F       		.byte	63
- 702 02a1 24       		.byte	36
- 703 02a2 40       		.byte	64
- 704 02a3 10       		.byte	16
- 705 02a4 41       		.byte	65
- 706 02a5 20       		.byte	32
- 707 02a6 45       		.byte	69
- 708 02a7 08       		.byte	8
- 709 02a8 4F       		.byte	79
- 710 02a9 25       		.byte	37
- 711 02aa 55       		.byte	85
- 712 02ab 20       		.byte	32
- 713 02ac 57       		.byte	87
- 714 02ad 10       		.byte	16
- 715 02ae 5E       		.byte	94
- 716 02af 80       		.byte	-128
- 717 02b0 5F       		.byte	95
- 718 02b1 09       		.byte	9
- 719 02b2 77       		.byte	119
- 720 02b3 40       		.byte	64
- 721 02b4 87       		.byte	-121
- 722 02b5 10       		.byte	16
- 723 02b6 8C       		.byte	-116
+ 689 0294 D0       		.byte	-48
+ 690 0295 24       		.byte	36
+ 691 0296 D2       		.byte	-46
+ 692 0297 24       		.byte	36
+ 693 0298 D6       		.byte	-42
+ 694 0299 8B       		.byte	-117
+ 695 029a D8       		.byte	-40
+ 696 029b 30       		.byte	48
+ 697 029c 00       		.byte	0
+ 698 029d 40       		.byte	64
+ 699 029e 02       		.byte	2
+ 700 029f 03       		.byte	3
+ 701 02a0 04       		.byte	4
+ 702 02a1 10       		.byte	16
+ 703 02a2 08       		.byte	8
+ 704 02a3 20       		.byte	32
+ 705 02a4 09       		.byte	9
+ 706 02a5 01       		.byte	1
+ 707 02a6 0C       		.byte	12
+ 708 02a7 1C       		.byte	28
+ 709 02a8 0E       		.byte	14
+ 710 02a9 02       		.byte	2
+ 711 02aa 0F       		.byte	15
+ 712 02ab 01       		.byte	1
+ 713 02ac 10       		.byte	16
+ 714 02ad 0C       		.byte	12
+ 715 02ae 12       		.byte	18
+ 716 02af 11       		.byte	17
+ 717 02b0 14       		.byte	20
+ 718 02b1 10       		.byte	16
+ 719 02b2 16       		.byte	22
+ 720 02b3 0C       		.byte	12
+ 721 02b4 17       		.byte	23
+ 722 02b5 01       		.byte	1
+ 723 02b6 1B       		.byte	27
  724 02b7 02       		.byte	2
- 725 02b8 8D       		.byte	-115
- 726 02b9 01       		.byte	1
- 727 02ba 97       		.byte	-105
- 728 02bb 20       		.byte	32
- 729 02bc 9C       		.byte	-100
- 730 02bd 02       		.byte	2
- 731 02be C2       		.byte	-62
- 732 02bf 60       		.byte	96
- 733 02c0 C4       		.byte	-60
- 734 02c1 80       		.byte	-128
- 735 02c2 CA       		.byte	-54
- 736 02c3 60       		.byte	96
- 737 02c4 CE       		.byte	-50
- 738 02c5 60       		.byte	96
- 739 02c6 D0       		.byte	-48
- 740 02c7 46       		.byte	70
- 741 02c8 D2       		.byte	-46
-ARM GAS  C:\Users\MECHAT~1\AppData\Local\Temp\cc2g9B0G.s 			page 14
+ 725 02b8 1C       		.byte	28
+ 726 02b9 14       		.byte	20
+ 727 02ba 21       		.byte	33
+ 728 02bb 01       		.byte	1
+ 729 02bc 24       		.byte	36
+ 730 02bd 09       		.byte	9
+ 731 02be 26       		.byte	38
+ 732 02bf 10       		.byte	16
+ 733 02c0 27       		.byte	39
+ 734 02c1 01       		.byte	1
+ 735 02c2 30       		.byte	48
+ 736 02c3 40       		.byte	64
+ 737 02c4 31       		.byte	49
+ 738 02c5 02       		.byte	2
+ 739 02c6 32       		.byte	50
+ 740 02c7 20       		.byte	32
+ 741 02c8 36       		.byte	54
+ARM GAS  C:\Users\MECHAT~1\AppData\Local\Temp\cckDkNiZ.s 			page 14
 
 
- 742 02c9 20       		.byte	32
- 743 02ca D6       		.byte	-42
- 744 02cb D0       		.byte	-48
- 745 02cc E0       		.byte	-32
- 746 02cd 10       		.byte	16
- 747 02ce E6       		.byte	-26
+ 742 02c9 1F       		.byte	31
+ 743 02ca 37       		.byte	55
+ 744 02cb 01       		.byte	1
+ 745 02cc 3E       		.byte	62
+ 746 02cd 05       		.byte	5
+ 747 02ce 3F       		.byte	63
  748 02cf 40       		.byte	64
- 749 02d0 05       		.byte	5
- 750 02d1 02       		.byte	2
- 751 02d2 0A       		.byte	10
- 752 02d3 02       		.byte	2
- 753 02d4 0B       		.byte	11
- 754 02d5 02       		.byte	2
- 755 02d6 14       		.byte	20
- 756 02d7 02       		.byte	2
- 757 02d8 18       		.byte	24
- 758 02d9 02       		.byte	2
- 759 02da 27       		.byte	39
- 760 02db 01       		.byte	1
- 761 02dc 2B       		.byte	43
- 762 02dd 02       		.byte	2
- 763 02de 2E       		.byte	46
- 764 02df 01       		.byte	1
- 765 02e0 31       		.byte	49
- 766 02e1 02       		.byte	2
- 767 02e2 32       		.byte	50
- 768 02e3 02       		.byte	2
- 769 02e4 34       		.byte	52
- 770 02e5 01       		.byte	1
- 771 02e6 37       		.byte	55
- 772 02e7 01       		.byte	1
- 773 02e8 3E       		.byte	62
- 774 02e9 04       		.byte	4
- 775 02ea 3F       		.byte	63
- 776 02eb 01       		.byte	1
- 777 02ec 54       		.byte	84
- 778 02ed 0F       		.byte	15
- 779 02ee 58       		.byte	88
+ 749 02d0 40       		.byte	64
+ 750 02d1 23       		.byte	35
+ 751 02d2 41       		.byte	65
+ 752 02d3 05       		.byte	5
+ 753 02d4 45       		.byte	69
+ 754 02d5 EC       		.byte	-20
+ 755 02d6 46       		.byte	70
+ 756 02d7 0B       		.byte	11
+ 757 02d8 47       		.byte	71
+ 758 02d9 0E       		.byte	14
+ 759 02da 48       		.byte	72
+ 760 02db 17       		.byte	23
+ 761 02dc 49       		.byte	73
+ 762 02dd FF       		.byte	-1
+ 763 02de 4A       		.byte	74
+ 764 02df FF       		.byte	-1
+ 765 02e0 4B       		.byte	75
+ 766 02e1 FF       		.byte	-1
+ 767 02e2 4E       		.byte	78
+ 768 02e3 F0       		.byte	-16
+ 769 02e4 4F       		.byte	79
+ 770 02e5 44       		.byte	68
+ 771 02e6 50       		.byte	80
+ 772 02e7 0C       		.byte	12
+ 773 02e8 54       		.byte	84
+ 774 02e9 01       		.byte	1
+ 775 02ea 58       		.byte	88
+ 776 02eb 04       		.byte	4
+ 777 02ec 59       		.byte	89
+ 778 02ed 04       		.byte	4
+ 779 02ee 5A       		.byte	90
  780 02ef 04       		.byte	4
- 781 02f0 59       		.byte	89
+ 781 02f0 5B       		.byte	91
  782 02f1 04       		.byte	4
- 783 02f2 5B       		.byte	91
- 784 02f3 04       		.byte	4
- 785 02f4 5F       		.byte	95
- 786 02f5 01       		.byte	1
- 787 02f6 8F       		.byte	-113
+ 783 02f2 5C       		.byte	92
+ 784 02f3 01       		.byte	1
+ 785 02f4 5D       		.byte	93
+ 786 02f5 11       		.byte	17
+ 787 02f6 5F       		.byte	95
  788 02f7 01       		.byte	1
- 789 02f8 91       		.byte	-111
- 790 02f9 04       		.byte	4
- 791 02fa 97       		.byte	-105
- 792 02fb 06       		.byte	6
- 793 02fc 9C       		.byte	-100
+ 789 02f8 66       		.byte	102
+ 790 02f9 C0       		.byte	-64
+ 791 02fa 6A       		.byte	106
+ 792 02fb 40       		.byte	64
+ 793 02fc 6B       		.byte	107
  794 02fd 02       		.byte	2
- 795 02fe 9E       		.byte	-98
+ 795 02fe 80       		.byte	-128
  796 02ff 04       		.byte	4
- 797 0300 A2       		.byte	-94
- 798 0301 01       		.byte	1
-ARM GAS  C:\Users\MECHAT~1\AppData\Local\Temp\cc2g9B0G.s 			page 15
+ 797 0300 84       		.byte	-124
+ 798 0301 04       		.byte	4
+ARM GAS  C:\Users\MECHAT~1\AppData\Local\Temp\cckDkNiZ.s 			page 15
 
 
- 799 0302 A3       		.byte	-93
- 800 0303 08       		.byte	8
- 801 0304 A4       		.byte	-92
+ 799 0302 87       		.byte	-121
+ 800 0303 01       		.byte	1
+ 801 0304 88       		.byte	-120
  802 0305 04       		.byte	4
- 803 0306 A8       		.byte	-88
- 804 0307 02       		.byte	2
- 805 0308 A9       		.byte	-87
+ 803 0306 89       		.byte	-119
+ 804 0307 FE       		.byte	-2
+ 805 0308 8B       		.byte	-117
  806 0309 01       		.byte	1
- 807 030a B0       		.byte	-80
- 808 030b 04       		.byte	4
- 809 030c B1       		.byte	-79
- 810 030d 02       		.byte	2
- 811 030e B2       		.byte	-78
- 812 030f 02       		.byte	2
- 813 0310 B3       		.byte	-77
- 814 0311 04       		.byte	4
- 815 0312 B4       		.byte	-76
- 816 0313 01       		.byte	1
- 817 0314 B5       		.byte	-75
- 818 0315 08       		.byte	8
- 819 0316 B7       		.byte	-73
- 820 0317 01       		.byte	1
- 821 0318 B8       		.byte	-72
- 822 0319 08       		.byte	8
- 823 031a BE       		.byte	-66
- 824 031b 01       		.byte	1
- 825 031c BF       		.byte	-65
- 826 031d 44       		.byte	68
- 827 031e D4       		.byte	-44
- 828 031f 0F       		.byte	15
- 829 0320 D8       		.byte	-40
- 830 0321 04       		.byte	4
- 831 0322 D9       		.byte	-39
- 832 0323 04       		.byte	4
- 833 0324 DB       		.byte	-37
- 834 0325 04       		.byte	4
- 835 0326 DF       		.byte	-33
- 836 0327 05       		.byte	5
- 837 0328 04       		.byte	4
- 838 0329 20       		.byte	32
- 839 032a 0B       		.byte	11
- 840 032b 02       		.byte	2
- 841 032c 0E       		.byte	14
- 842 032d 14       		.byte	20
- 843 032e 10       		.byte	16
- 844 032f 88       		.byte	-120
- 845 0330 13       		.byte	19
+ 807 030a 8E       		.byte	-114
+ 808 030b 01       		.byte	1
+ 809 030c 92       		.byte	-110
+ 810 030d 04       		.byte	4
+ 811 030e 95       		.byte	-107
+ 812 030f C5       		.byte	-59
+ 813 0310 96       		.byte	-106
+ 814 0311 08       		.byte	8
+ 815 0312 97       		.byte	-105
+ 816 0313 3A       		.byte	58
+ 817 0314 9A       		.byte	-102
+ 818 0315 02       		.byte	2
+ 819 0316 9D       		.byte	-99
+ 820 0317 A3       		.byte	-93
+ 821 0318 9F       		.byte	-97
+ 822 0319 5C       		.byte	92
+ 823 031a A1       		.byte	-95
+ 824 031b 7F       		.byte	127
+ 825 031c A4       		.byte	-92
+ 826 031d 04       		.byte	4
+ 827 031e A9       		.byte	-87
+ 828 031f 0E       		.byte	14
+ 829 0320 AB       		.byte	-85
+ 830 0321 F0       		.byte	-16
+ 831 0322 AD       		.byte	-83
+ 832 0323 96       		.byte	-106
+ 833 0324 AF       		.byte	-81
+ 834 0325 68       		.byte	104
+ 835 0326 B0       		.byte	-80
+ 836 0327 01       		.byte	1
+ 837 0328 B2       		.byte	-78
+ 838 0329 02       		.byte	2
+ 839 032a B4       		.byte	-76
+ 840 032b 0C       		.byte	12
+ 841 032c B5       		.byte	-75
+ 842 032d FF       		.byte	-1
+ 843 032e BF       		.byte	-65
+ 844 032f 10       		.byte	16
+ 845 0330 D8       		.byte	-40
  846 0331 04       		.byte	4
- 847 0332 14       		.byte	20
- 848 0333 02       		.byte	2
- 849 0334 18       		.byte	24
- 850 0335 20       		.byte	32
- 851 0336 19       		.byte	25
- 852 0337 21       		.byte	33
- 853 0338 1A       		.byte	26
- 854 0339 04       		.byte	4
- 855 033a 1B       		.byte	27
-ARM GAS  C:\Users\MECHAT~1\AppData\Local\Temp\cc2g9B0G.s 			page 16
+ 847 0332 D9       		.byte	-39
+ 848 0333 04       		.byte	4
+ 849 0334 DF       		.byte	-33
+ 850 0335 01       		.byte	1
+ 851 0336 00       		.byte	0
+ 852 0337 41       		.byte	65
+ 853 0338 02       		.byte	2
+ 854 0339 14       		.byte	20
+ 855 033a 04       		.byte	4
+ARM GAS  C:\Users\MECHAT~1\AppData\Local\Temp\cckDkNiZ.s 			page 16
 
 
- 856 033b 08       		.byte	8
- 857 033c 1E       		.byte	30
- 858 033d 20       		.byte	32
- 859 033e 1F       		.byte	31
- 860 033f 20       		.byte	32
- 861 0340 21       		.byte	33
- 862 0341 02       		.byte	2
- 863 0342 22       		.byte	34
- 864 0343 44       		.byte	68
- 865 0344 23       		.byte	35
- 866 0345 04       		.byte	4
- 867 0346 26       		.byte	38
- 868 0347 80       		.byte	-128
- 869 0348 27       		.byte	39
- 870 0349 80       		.byte	-128
- 871 034a 29       		.byte	41
- 872 034b 20       		.byte	32
- 873 034c 2A       		.byte	42
+ 856 033b 20       		.byte	32
+ 857 033c 06       		.byte	6
+ 858 033d 22       		.byte	34
+ 859 033e 07       		.byte	7
+ 860 033f 40       		.byte	64
+ 861 0340 08       		.byte	8
+ 862 0341 08       		.byte	8
+ 863 0342 09       		.byte	9
+ 864 0343 80       		.byte	-128
+ 865 0344 0B       		.byte	11
+ 866 0345 40       		.byte	64
+ 867 0346 0E       		.byte	14
+ 868 0347 68       		.byte	104
+ 869 0348 13       		.byte	19
+ 870 0349 04       		.byte	4
+ 871 034a 17       		.byte	23
+ 872 034b 04       		.byte	4
+ 873 034c 18       		.byte	24
  874 034d 01       		.byte	1
- 875 034e 2F       		.byte	47
- 876 034f 18       		.byte	24
- 877 0350 30       		.byte	48
- 878 0351 08       		.byte	8
- 879 0352 31       		.byte	49
- 880 0353 02       		.byte	2
- 881 0354 38       		.byte	56
- 882 0355 80       		.byte	-128
- 883 0356 3E       		.byte	62
- 884 0357 14       		.byte	20
- 885 0358 59       		.byte	89
- 886 0359 11       		.byte	17
- 887 035a 5A       		.byte	90
- 888 035b 88       		.byte	-120
- 889 035c 5E       		.byte	94
- 890 035d 28       		.byte	40
- 891 035e 5F       		.byte	95
- 892 035f 82       		.byte	-126
- 893 0360 61       		.byte	97
- 894 0361 04       		.byte	4
- 895 0362 62       		.byte	98
- 896 0363 20       		.byte	32
- 897 0364 7A       		.byte	122
- 898 0365 04       		.byte	4
- 899 0366 81       		.byte	-127
- 900 0367 10       		.byte	16
- 901 0368 83       		.byte	-125
- 902 0369 01       		.byte	1
- 903 036a 90       		.byte	-112
- 904 036b 80       		.byte	-128
- 905 036c 92       		.byte	-110
- 906 036d 10       		.byte	16
- 907 036e 93       		.byte	-109
- 908 036f 02       		.byte	2
- 909 0370 99       		.byte	-103
- 910 0371 04       		.byte	4
- 911 0372 9A       		.byte	-102
- 912 0373 01       		.byte	1
-ARM GAS  C:\Users\MECHAT~1\AppData\Local\Temp\cc2g9B0G.s 			page 17
+ 875 034e 19       		.byte	25
+ 876 034f 04       		.byte	4
+ 877 0350 1B       		.byte	27
+ 878 0351 02       		.byte	2
+ 879 0352 1D       		.byte	29
+ 880 0353 10       		.byte	16
+ 881 0354 1E       		.byte	30
+ 882 0355 54       		.byte	84
+ 883 0356 22       		.byte	34
+ 884 0357 41       		.byte	65
+ 885 0358 26       		.byte	38
+ 886 0359 10       		.byte	16
+ 887 035a 28       		.byte	40
+ 888 035b 50       		.byte	80
+ 889 035c 29       		.byte	41
+ 890 035d 08       		.byte	8
+ 891 035e 2E       		.byte	46
+ 892 035f 70       		.byte	112
+ 893 0360 2F       		.byte	47
+ 894 0361 40       		.byte	64
+ 895 0362 31       		.byte	49
+ 896 0363 10       		.byte	16
+ 897 0364 33       		.byte	51
+ 898 0365 08       		.byte	8
+ 899 0366 36       		.byte	54
+ 900 0367 08       		.byte	8
+ 901 0368 37       		.byte	55
+ 902 0369 40       		.byte	64
+ 903 036a 38       		.byte	56
+ 904 036b 50       		.byte	80
+ 905 036c 3D       		.byte	61
+ 906 036d 20       		.byte	32
+ 907 036e 3E       		.byte	62
+ 908 036f 04       		.byte	4
+ 909 0370 40       		.byte	64
+ 910 0371 08       		.byte	8
+ 911 0372 43       		.byte	67
+ 912 0373 08       		.byte	8
+ARM GAS  C:\Users\MECHAT~1\AppData\Local\Temp\cckDkNiZ.s 			page 17
 
 
- 913 0374 9B       		.byte	-101
- 914 0375 02       		.byte	2
- 915 0376 A0       		.byte	-96
- 916 0377 88       		.byte	-120
- 917 0378 A2       		.byte	-94
- 918 0379 24       		.byte	36
- 919 037a A6       		.byte	-90
- 920 037b 80       		.byte	-128
- 921 037c A7       		.byte	-89
- 922 037d 20       		.byte	32
- 923 037e A9       		.byte	-87
- 924 037f 02       		.byte	2
- 925 0380 AA       		.byte	-86
- 926 0381 04       		.byte	4
- 927 0382 C0       		.byte	-64
- 928 0383 40       		.byte	64
- 929 0384 C2       		.byte	-62
- 930 0385 61       		.byte	97
- 931 0386 C4       		.byte	-60
- 932 0387 8E       		.byte	-114
- 933 0388 CA       		.byte	-54
- 934 0389 65       		.byte	101
- 935 038a CC       		.byte	-52
- 936 038b 03       		.byte	3
- 937 038c CE       		.byte	-50
- 938 038d 68       		.byte	104
- 939 038e D6       		.byte	-42
- 940 038f FF       		.byte	-1
- 941 0390 D8       		.byte	-40
- 942 0391 06       		.byte	6
- 943 0392 DE       		.byte	-34
- 944 0393 04       		.byte	4
- 945 0394 EA       		.byte	-22
- 946 0395 02       		.byte	2
- 947 0396 EE       		.byte	-18
- 948 0397 0A       		.byte	10
- 949 0398 EA       		.byte	-22
- 950 0399 02       		.byte	2
- 951 039a EE       		.byte	-18
- 952 039b 0A       		.byte	10
- 953 039c 33       		.byte	51
- 954 039d 81       		.byte	-127
- 955 039e 36       		.byte	54
- 956 039f 48       		.byte	72
- 957 03a0 CC       		.byte	-52
- 958 03a1 F0       		.byte	-16
- 959 03a2 9F       		.byte	-97
- 960 03a3 01       		.byte	1
- 961 03a4 A6       		.byte	-90
- 962 03a5 48       		.byte	72
+ 913 0374 48       		.byte	72
+ 914 0375 10       		.byte	16
+ 915 0376 49       		.byte	73
+ 916 0377 09       		.byte	9
+ 917 0378 4A       		.byte	74
+ 918 0379 01       		.byte	1
+ 919 037a 4B       		.byte	75
+ 920 037b 40       		.byte	64
+ 921 037c 51       		.byte	81
+ 922 037d 80       		.byte	-128
+ 923 037e 52       		.byte	82
+ 924 037f 04       		.byte	4
+ 925 0380 58       		.byte	88
+ 926 0381 10       		.byte	16
+ 927 0382 59       		.byte	89
+ 928 0383 05       		.byte	5
+ 929 0384 5A       		.byte	90
+ 930 0385 80       		.byte	-128
+ 931 0386 84       		.byte	-124
+ 932 0387 10       		.byte	16
+ 933 0388 86       		.byte	-122
+ 934 0389 02       		.byte	2
+ 935 038a 88       		.byte	-120
+ 936 038b 48       		.byte	72
+ 937 038c 8B       		.byte	-117
+ 938 038d 01       		.byte	1
+ 939 038e 8C       		.byte	-116
+ 940 038f 10       		.byte	16
+ 941 0390 8E       		.byte	-114
+ 942 0391 05       		.byte	5
+ 943 0392 8F       		.byte	-113
+ 944 0393 02       		.byte	2
+ 945 0394 90       		.byte	-112
+ 946 0395 60       		.byte	96
+ 947 0396 93       		.byte	-109
+ 948 0397 84       		.byte	-124
+ 949 0398 96       		.byte	-106
+ 950 0399 56       		.byte	86
+ 951 039a 97       		.byte	-105
+ 952 039b 40       		.byte	64
+ 953 039c 9A       		.byte	-102
+ 954 039d 10       		.byte	16
+ 955 039e 9B       		.byte	-101
+ 956 039f 44       		.byte	68
+ 957 03a0 A1       		.byte	-95
+ 958 03a1 10       		.byte	16
+ 959 03a2 A2       		.byte	-94
+ 960 03a3 08       		.byte	8
+ 961 03a4 A3       		.byte	-93
+ 962 03a5 08       		.byte	8
  963 03a6 A7       		.byte	-89
- 964 03a7 80       		.byte	-128
- 965 03a8 9F       		.byte	-97
- 966 03a9 01       		.byte	1
- 967 03aa A6       		.byte	-90
- 968 03ab 48       		.byte	72
- 969 03ac A7       		.byte	-89
-ARM GAS  C:\Users\MECHAT~1\AppData\Local\Temp\cc2g9B0G.s 			page 18
+ 964 03a7 01       		.byte	1
+ 965 03a8 AC       		.byte	-84
+ 966 03a9 04       		.byte	4
+ 967 03aa B4       		.byte	-76
+ 968 03ab 44       		.byte	68
+ 969 03ac C0       		.byte	-64
+ARM GAS  C:\Users\MECHAT~1\AppData\Local\Temp\cckDkNiZ.s 			page 18
 
 
- 970 03ad 80       		.byte	-128
- 971 03ae 9F       		.byte	-97
- 972 03af 01       		.byte	1
- 973 03b0 A6       		.byte	-90
- 974 03b1 48       		.byte	72
- 975 03b2 A7       		.byte	-89
- 976 03b3 80       		.byte	-128
- 977 03b4 08       		.byte	8
- 978 03b5 08       		.byte	8
- 979 03b6 0B       		.byte	11
- 980 03b7 04       		.byte	4
- 981 03b8 0F       		.byte	15
- 982 03b9 40       		.byte	64
- 983 03ba C2       		.byte	-62
- 984 03bb 0E       		.byte	14
- 985 03bc 26       		.byte	38
- 986 03bd 08       		.byte	8
- 987 03be A6       		.byte	-90
- 988 03bf 08       		.byte	8
- 989 03c0 AE       		.byte	-82
- 990 03c1 40       		.byte	64
- 991 03c2 AF       		.byte	-81
- 992 03c3 81       		.byte	-127
- 993 03c4 C8       		.byte	-56
- 994 03c5 80       		.byte	-128
- 995 03c6 EA       		.byte	-22
- 996 03c7 40       		.byte	64
- 997 03c8 EE       		.byte	-18
- 998 03c9 50       		.byte	80
- 999 03ca 08       		.byte	8
- 1000 03cb 80       		.byte	-128
- 1001 03cc 0D       		.byte	13
- 1002 03cd 80       		.byte	-128
- 1003 03ce 56       		.byte	86
- 1004 03cf 20       		.byte	32
- 1005 03d0 85       		.byte	-123
- 1006 03d1 80       		.byte	-128
- 1007 03d2 8C       		.byte	-116
- 1008 03d3 80       		.byte	-128
- 1009 03d4 8E       		.byte	-114
- 1010 03d5 20       		.byte	32
- 1011 03d6 C2       		.byte	-62
- 1012 03d7 C0       		.byte	-64
- 1013 03d8 D4       		.byte	-44
- 1014 03d9 40       		.byte	64
- 1015 03da E4       		.byte	-28
- 1016 03db 40       		.byte	64
- 1017 03dc AC       		.byte	-84
- 1018 03dd 08       		.byte	8
- 1019 03de AF       		.byte	-81
- 1020 03df 44       		.byte	68
- 1021 03e0 00       		.byte	0
- 1022 03e1 01       		.byte	1
- 1023 03e2 0A       		.byte	10
- 1024 03e3 01       		.byte	1
- 1025 03e4 10       		.byte	16
- 1026 03e5 03       		.byte	3
-ARM GAS  C:\Users\MECHAT~1\AppData\Local\Temp\cc2g9B0G.s 			page 19
+ 970 03ad FF       		.byte	-1
+ 971 03ae C2       		.byte	-62
+ 972 03af 7D       		.byte	125
+ 973 03b0 C4       		.byte	-60
+ 974 03b1 24       		.byte	36
+ 975 03b2 CA       		.byte	-54
+ 976 03b3 B3       		.byte	-77
+ 977 03b4 CC       		.byte	-52
+ 978 03b5 56       		.byte	86
+ 979 03b6 CE       		.byte	-50
+ 980 03b7 6C       		.byte	108
+ 981 03b8 D0       		.byte	-48
+ 982 03b9 06       		.byte	6
+ 983 03ba D2       		.byte	-46
+ 984 03bb 08       		.byte	8
+ 985 03bc D6       		.byte	-42
+ 986 03bd 0F       		.byte	15
+ 987 03be E0       		.byte	-32
+ 988 03bf 48       		.byte	72
+ 989 03c0 EE       		.byte	-18
+ 990 03c1 02       		.byte	2
+ 991 03c2 00       		.byte	0
+ 992 03c3 CF       		.byte	-49
+ 993 03c4 02       		.byte	2
+ 994 03c5 30       		.byte	48
+ 995 03c6 08       		.byte	8
+ 996 03c7 9E       		.byte	-98
+ 997 03c8 09       		.byte	9
+ 998 03c9 B7       		.byte	-73
+ 999 03ca 0A       		.byte	10
+ 1000 03cb 60       		.byte	96
+ 1001 03cc 0B       		.byte	11
+ 1002 03cd 40       		.byte	64
+ 1003 03ce 10       		.byte	16
+ 1004 03cf 30       		.byte	48
+ 1005 03d0 11       		.byte	17
+ 1006 03d1 77       		.byte	119
+ 1007 03d2 12       		.byte	18
+ 1008 03d3 C9       		.byte	-55
+ 1009 03d4 14       		.byte	20
+ 1010 03d5 94       		.byte	-108
+ 1011 03d6 15       		.byte	21
+ 1012 03d7 C1       		.byte	-63
+ 1013 03d8 16       		.byte	22
+ 1014 03d9 60       		.byte	96
+ 1015 03da 17       		.byte	23
+ 1016 03db 12       		.byte	18
+ 1017 03dc 1B       		.byte	27
+ 1018 03dd 07       		.byte	7
+ 1019 03de 1C       		.byte	28
+ 1020 03df 73       		.byte	115
+ 1021 03e0 1D       		.byte	29
+ 1022 03e1 C0       		.byte	-64
+ 1023 03e2 1F       		.byte	31
+ 1024 03e3 24       		.byte	36
+ 1025 03e4 24       		.byte	36
+ 1026 03e5 FD       		.byte	-3
+ARM GAS  C:\Users\MECHAT~1\AppData\Local\Temp\cckDkNiZ.s 			page 19
 
 
- 1027 03e6 1A       		.byte	26
- 1028 03e7 03       		.byte	3
- 1029 03e8 00       		.byte	0
- 1030 03e9 EA       		.byte	-22
- 1031 03ea 00       		.byte	0
- 1032 03eb 00       		.byte	0
- 1033 03ec 40       		.byte	64
- 1034 03ed 00       		.byte	0
- 1035 03ee 00       		.byte	0
- 1036 03ef 00       		.byte	0
- 1037 03f0 00       		.byte	0
- 1038 03f1 00       		.byte	0
- 1039 03f2 00       		.byte	0
- 1040 03f3 00       		.byte	0
- 1041 03f4 C0       		.byte	-64
- 1042 03f5 00       		.byte	0
- 1043 03f6 00       		.byte	0
- 1044 03f7 00       		.byte	0
- 1045 03f8 00       		.byte	0
- 1046 03f9 0B       		.byte	11
- 1047 03fa 0B       		.byte	11
- 1048 03fb 00       		.byte	0
- 1049 03fc 00       		.byte	0
- 1050 03fd 00       		.byte	0
- 1051 03fe 00       		.byte	0
- 1052 03ff 00       		.byte	0
- 1053 0400 00       		.byte	0
- 1054 0401 7F       		.byte	127
- 1055 0402 7F       		.byte	127
- 1056 0403 00       		.byte	0
- 1057 0404 00       		.byte	0
- 1058 0405 00       		.byte	0
- 1059 0406 00       		.byte	0
- 1060 0407 00       		.byte	0
- 1061 0408 C0       		.byte	-64
+ 1027 03e6 26       		.byte	38
+ 1028 03e7 02       		.byte	2
+ 1029 03e8 27       		.byte	39
+ 1030 03e9 08       		.byte	8
+ 1031 03ea 29       		.byte	41
+ 1032 03eb 01       		.byte	1
+ 1033 03ec 2A       		.byte	42
+ 1034 03ed 0F       		.byte	15
+ 1035 03ee 2B       		.byte	43
+ 1036 03ef F2       		.byte	-14
+ 1037 03f0 2D       		.byte	45
+ 1038 03f1 84       		.byte	-124
+ 1039 03f2 2F       		.byte	47
+ 1040 03f3 10       		.byte	16
+ 1041 03f4 31       		.byte	49
+ 1042 03f5 F0       		.byte	-16
+ 1043 03f6 33       		.byte	51
+ 1044 03f7 0F       		.byte	15
+ 1045 03f8 34       		.byte	52
+ 1046 03f9 FF       		.byte	-1
+ 1047 03fa 3E       		.byte	62
+ 1048 03fb 10       		.byte	16
+ 1049 03fc 58       		.byte	88
+ 1050 03fd 04       		.byte	4
+ 1051 03fe 59       		.byte	89
+ 1052 03ff 04       		.byte	4
+ 1053 0400 5F       		.byte	95
+ 1054 0401 01       		.byte	1
+ 1055 0402 80       		.byte	-128
+ 1056 0403 02       		.byte	2
+ 1057 0404 81       		.byte	-127
+ 1058 0405 30       		.byte	48
+ 1059 0406 83       		.byte	-125
+ 1060 0407 0D       		.byte	13
+ 1061 0408 85       		.byte	-123
  1062 0409 02       		.byte	2
- 1063 040a 02       		.byte	2
- 1064 040b 00       		.byte	0
- 1065 040c 02       		.byte	2
- 1066 040d 00       		.byte	0
- 1067 040e 00       		.byte	0
- 1068 040f 00       		.byte	0
- 1069              		.section	.cywolatch,"a",%progbits
- 1070              		.align	2
- 1071              		.type	cy_meta_wonvl, %object
- 1072              		.size	cy_meta_wonvl, 4
- 1073              	cy_meta_wonvl:
- 1074 0000 BC       		.byte	-68
- 1075 0001 90       		.byte	-112
- 1076 0002 AC       		.byte	-84
- 1077 0003 AF       		.byte	-81
- 1078              		.section	.cycustnvl,"a",%progbits
- 1079              		.align	2
- 1080              		.type	cy_meta_custnvl, %object
- 1081              		.size	cy_meta_custnvl, 4
- 1082              	cy_meta_custnvl:
- 1083 0000 00       		.byte	0
-ARM GAS  C:\Users\MECHAT~1\AppData\Local\Temp\cc2g9B0G.s 			page 20
+ 1063 040a 87       		.byte	-121
+ 1064 040b 0C       		.byte	12
+ 1065 040c 8A       		.byte	-118
+ 1066 040d 02       		.byte	2
+ 1067 040e 8B       		.byte	-117
+ 1068 040f 20       		.byte	32
+ 1069 0410 8D       		.byte	-115
+ 1070 0411 05       		.byte	5
+ 1071 0412 8F       		.byte	-113
+ 1072 0413 38       		.byte	56
+ 1073 0414 91       		.byte	-111
+ 1074 0415 40       		.byte	64
+ 1075 0416 94       		.byte	-108
+ 1076 0417 02       		.byte	2
+ 1077 0418 97       		.byte	-105
+ 1078 0419 40       		.byte	64
+ 1079 041a 9B       		.byte	-101
+ 1080 041b 30       		.byte	48
+ 1081 041c 9D       		.byte	-99
+ 1082 041d 80       		.byte	-128
+ 1083 041e A0       		.byte	-96
+ARM GAS  C:\Users\MECHAT~1\AppData\Local\Temp\cckDkNiZ.s 			page 20
 
 
- 1084 0001 00       		.byte	0
- 1085 0002 40       		.byte	64
- 1086 0003 05       		.byte	5
- 1087              		.section	.cymeta,"a",%progbits
- 1088              		.align	2
- 1089              		.type	cy_metadata, %object
- 1090              		.size	cy_metadata, 12
- 1091              	cy_metadata:
- 1092 0000 00       		.byte	0
- 1093 0001 01       		.byte	1
- 1094 0002 2E       		.byte	46
- 1095 0003 12       		.byte	18
- 1096 0004 30       		.byte	48
- 1097 0005 69       		.byte	105
- 1098 0006 00       		.byte	0
- 1099 0007 01       		.byte	1
- 1100 0008 00       		.byte	0
- 1101 0009 00       		.byte	0
- 1102 000a 00       		.byte	0
- 1103 000b 00       		.byte	0
- 1104              		.section	.cyflashprotect,"a",%progbits
- 1105              		.align	2
- 1106              		.type	cy_meta_flashprotect, %object
- 1107              		.size	cy_meta_flashprotect, 256
- 1108              	cy_meta_flashprotect:
- 1109 0000 00000000 		.space	256
- 1109      00000000 
- 1109      00000000 
- 1109      00000000 
- 1109      00000000 
- 1110              		.text
- 1111              	.Letext0:
- 1112              		.file 1 "c:\\program files (x86)\\cypress\\psoc creator\\4.1\\psoc creator\\import\\gnu\\arm\\5.4.
- 1113              		.file 2 "c:\\program files (x86)\\cypress\\psoc creator\\4.1\\psoc creator\\import\\gnu\\arm\\5.4.
- 1114              		.file 3 "Generated_Source\\PSoC5\\cymetadata.c"
- 1115              		.section	.debug_info,"",%progbits
- 1116              	.Ldebug_info0:
- 1117 0000 31010000 		.4byte	0x131
- 1118 0004 0400     		.2byte	0x4
- 1119 0006 00000000 		.4byte	.Ldebug_abbrev0
- 1120 000a 04       		.byte	0x4
- 1121 000b 01       		.uleb128 0x1
- 1122 000c 24000000 		.4byte	.LASF17
- 1123 0010 0C       		.byte	0xc
- 1124 0011 CE010000 		.4byte	.LASF18
- 1125 0015 7E010000 		.4byte	.LASF19
- 1126 0019 00000000 		.4byte	.Ldebug_line0
- 1127 001d 02       		.uleb128 0x2
- 1128 001e 01       		.byte	0x1
- 1129 001f 06       		.byte	0x6
- 1130 0020 72010000 		.4byte	.LASF0
- 1131 0024 03       		.uleb128 0x3
- 1132 0025 00000000 		.4byte	.LASF9
- 1133 0029 01       		.byte	0x1
- 1134 002a 1D       		.byte	0x1d
- 1135 002b 2F000000 		.4byte	0x2f
- 1136 002f 02       		.uleb128 0x2
-ARM GAS  C:\Users\MECHAT~1\AppData\Local\Temp\cc2g9B0G.s 			page 21
+ 1084 041f 01       		.byte	1
+ 1085 0420 A3       		.byte	-93
+ 1086 0421 40       		.byte	64
+ 1087 0422 A4       		.byte	-92
+ 1088 0423 01       		.byte	1
+ 1089 0424 A7       		.byte	-89
+ 1090 0425 80       		.byte	-128
+ 1091 0426 AB       		.byte	-85
+ 1092 0427 80       		.byte	-128
+ 1093 0428 AD       		.byte	-83
+ 1094 0429 05       		.byte	5
+ 1095 042a AF       		.byte	-81
+ 1096 042b 18       		.byte	24
+ 1097 042c B1       		.byte	-79
+ 1098 042d 3C       		.byte	60
+ 1099 042e B2       		.byte	-78
+ 1100 042f 01       		.byte	1
+ 1101 0430 B3       		.byte	-77
+ 1102 0431 80       		.byte	-128
+ 1103 0432 B4       		.byte	-76
+ 1104 0433 02       		.byte	2
+ 1105 0434 B5       		.byte	-75
+ 1106 0435 03       		.byte	3
+ 1107 0436 B7       		.byte	-73
+ 1108 0437 40       		.byte	64
+ 1109 0438 B8       		.byte	-72
+ 1110 0439 08       		.byte	8
+ 1111 043a B9       		.byte	-71
+ 1112 043b 20       		.byte	32
+ 1113 043c BB       		.byte	-69
+ 1114 043d 02       		.byte	2
+ 1115 043e BE       		.byte	-66
+ 1116 043f 10       		.byte	16
+ 1117 0440 BF       		.byte	-65
+ 1118 0441 44       		.byte	68
+ 1119 0442 C0       		.byte	-64
+ 1120 0443 06       		.byte	6
+ 1121 0444 C6       		.byte	-58
+ 1122 0445 40       		.byte	64
+ 1123 0446 C9       		.byte	-55
+ 1124 0447 FF       		.byte	-1
+ 1125 0448 CA       		.byte	-54
+ 1126 0449 07       		.byte	7
+ 1127 044a CB       		.byte	-53
+ 1128 044b FF       		.byte	-1
+ 1129 044c CC       		.byte	-52
+ 1130 044d 40       		.byte	64
+ 1131 044e CD       		.byte	-51
+ 1132 044f 20       		.byte	32
+ 1133 0450 CE       		.byte	-50
+ 1134 0451 F0       		.byte	-16
+ 1135 0452 CF       		.byte	-49
+ 1136 0453 05       		.byte	5
+ 1137 0454 D0       		.byte	-48
+ 1138 0455 08       		.byte	8
+ 1139 0456 D2       		.byte	-46
+ 1140 0457 80       		.byte	-128
+ARM GAS  C:\Users\MECHAT~1\AppData\Local\Temp\cckDkNiZ.s 			page 21
 
 
- 1137 0030 01       		.byte	0x1
- 1138 0031 08       		.byte	0x8
- 1139 0032 16000000 		.4byte	.LASF1
- 1140 0036 02       		.uleb128 0x2
- 1141 0037 02       		.byte	0x2
- 1142 0038 05       		.byte	0x5
- 1143 0039 5F010000 		.4byte	.LASF2
- 1144 003d 02       		.uleb128 0x2
- 1145 003e 02       		.byte	0x2
- 1146 003f 07       		.byte	0x7
- 1147 0040 C4000000 		.4byte	.LASF3
- 1148 0044 02       		.uleb128 0x2
- 1149 0045 04       		.byte	0x4
- 1150 0046 05       		.byte	0x5
- 1151 0047 69010000 		.4byte	.LASF4
- 1152 004b 02       		.uleb128 0x2
- 1153 004c 04       		.byte	0x4
- 1154 004d 07       		.byte	0x7
- 1155 004e B2000000 		.4byte	.LASF5
- 1156 0052 02       		.uleb128 0x2
- 1157 0053 08       		.byte	0x8
- 1158 0054 05       		.byte	0x5
- 1159 0055 51010000 		.4byte	.LASF6
- 1160 0059 02       		.uleb128 0x2
- 1161 005a 08       		.byte	0x8
- 1162 005b 07       		.byte	0x7
- 1163 005c 06010000 		.4byte	.LASF7
- 1164 0060 04       		.uleb128 0x4
- 1165 0061 04       		.byte	0x4
- 1166 0062 05       		.byte	0x5
- 1167 0063 696E7400 		.ascii	"int\000"
- 1168 0067 02       		.uleb128 0x2
- 1169 0068 04       		.byte	0x4
- 1170 0069 07       		.byte	0x7
- 1171 006a F9000000 		.4byte	.LASF8
- 1172 006e 03       		.uleb128 0x3
- 1173 006f 1D010000 		.4byte	.LASF10
- 1174 0073 02       		.byte	0x2
- 1175 0074 18       		.byte	0x18
- 1176 0075 24000000 		.4byte	0x24
- 1177 0079 05       		.uleb128 0x5
- 1178 007a 91000000 		.4byte	0x91
- 1179 007e 8A000000 		.4byte	0x8a
- 1180 0082 06       		.uleb128 0x6
- 1181 0083 8A000000 		.4byte	0x8a
- 1182 0087 0F04     		.2byte	0x40f
- 1183 0089 00       		.byte	0
- 1184 008a 02       		.uleb128 0x2
- 1185 008b 04       		.byte	0x4
- 1186 008c 07       		.byte	0x7
- 1187 008d 48010000 		.4byte	.LASF11
- 1188 0091 07       		.uleb128 0x7
- 1189 0092 6E000000 		.4byte	0x6e
- 1190 0096 08       		.uleb128 0x8
- 1191 0097 E7000000 		.4byte	.LASF12
- 1192 009b 03       		.byte	0x3
- 1193 009c 1F       		.byte	0x1f
-ARM GAS  C:\Users\MECHAT~1\AppData\Local\Temp\cc2g9B0G.s 			page 22
+ 1141 0458 D4       		.byte	-44
+ 1142 0459 0F       		.byte	15
+ 1143 045a D8       		.byte	-40
+ 1144 045b 04       		.byte	4
+ 1145 045c D9       		.byte	-39
+ 1146 045d 04       		.byte	4
+ 1147 045e DA       		.byte	-38
+ 1148 045f 04       		.byte	4
+ 1149 0460 DB       		.byte	-37
+ 1150 0461 04       		.byte	4
+ 1151 0462 DC       		.byte	-36
+ 1152 0463 10       		.byte	16
+ 1153 0464 DD       		.byte	-35
+ 1154 0465 01       		.byte	1
+ 1155 0466 DF       		.byte	-33
+ 1156 0467 01       		.byte	1
+ 1157 0468 E0       		.byte	-32
+ 1158 0469 40       		.byte	64
+ 1159 046a E1       		.byte	-31
+ 1160 046b A8       		.byte	-88
+ 1161 046c E2       		.byte	-30
+ 1162 046d 40       		.byte	64
+ 1163 046e E3       		.byte	-29
+ 1164 046f 20       		.byte	32
+ 1165 0470 00       		.byte	0
+ 1166 0471 10       		.byte	16
+ 1167 0472 02       		.byte	2
+ 1168 0473 80       		.byte	-128
+ 1169 0474 04       		.byte	4
+ 1170 0475 20       		.byte	32
+ 1171 0476 07       		.byte	7
+ 1172 0477 40       		.byte	64
+ 1173 0478 09       		.byte	9
+ 1174 0479 04       		.byte	4
+ 1175 047a 0A       		.byte	10
+ 1176 047b 0C       		.byte	12
+ 1177 047c 0E       		.byte	14
+ 1178 047d 52       		.byte	82
+ 1179 047e 10       		.byte	16
+ 1180 047f 80       		.byte	-128
+ 1181 0480 12       		.byte	18
+ 1182 0481 20       		.byte	32
+ 1183 0482 14       		.byte	20
+ 1184 0483 08       		.byte	8
+ 1185 0484 17       		.byte	23
+ 1186 0485 14       		.byte	20
+ 1187 0486 18       		.byte	24
+ 1188 0487 10       		.byte	16
+ 1189 0488 19       		.byte	25
+ 1190 0489 18       		.byte	24
+ 1191 048a 1F       		.byte	31
+ 1192 048b 20       		.byte	32
+ 1193 048c 20       		.byte	32
+ 1194 048d 44       		.byte	68
+ 1195 048e 21       		.byte	33
+ 1196 048f 89       		.byte	-119
+ 1197 0490 22       		.byte	34
+ARM GAS  C:\Users\MECHAT~1\AppData\Local\Temp\cckDkNiZ.s 			page 22
 
 
- 1194 009d A7000000 		.4byte	0xa7
- 1195 00a1 05       		.uleb128 0x5
- 1196 00a2 03       		.byte	0x3
- 1197 00a3 00000000 		.4byte	cy_meta_configecc
- 1198 00a7 07       		.uleb128 0x7
- 1199 00a8 79000000 		.4byte	0x79
- 1200 00ac 05       		.uleb128 0x5
- 1201 00ad 91000000 		.4byte	0x91
- 1202 00b1 BC000000 		.4byte	0xbc
- 1203 00b5 09       		.uleb128 0x9
- 1204 00b6 8A000000 		.4byte	0x8a
- 1205 00ba 03       		.byte	0x3
- 1206 00bb 00       		.byte	0
- 1207 00bc 08       		.uleb128 0x8
- 1208 00bd D7000000 		.4byte	.LASF13
- 1209 00c1 03       		.byte	0x3
- 1210 00c2 AE       		.byte	0xae
- 1211 00c3 CD000000 		.4byte	0xcd
- 1212 00c7 05       		.uleb128 0x5
- 1213 00c8 03       		.byte	0x3
- 1214 00c9 00000000 		.4byte	cy_meta_custnvl
- 1215 00cd 07       		.uleb128 0x7
- 1216 00ce AC000000 		.4byte	0xac
- 1217 00d2 08       		.uleb128 0x8
- 1218 00d3 3A010000 		.4byte	.LASF14
- 1219 00d7 03       		.byte	0x3
- 1220 00d8 BC       		.byte	0xbc
- 1221 00d9 E3000000 		.4byte	0xe3
- 1222 00dd 05       		.uleb128 0x5
- 1223 00de 03       		.byte	0x3
- 1224 00df 00000000 		.4byte	cy_meta_wonvl
- 1225 00e3 07       		.uleb128 0x7
- 1226 00e4 AC000000 		.4byte	0xac
- 1227 00e8 05       		.uleb128 0x5
- 1228 00e9 91000000 		.4byte	0x91
- 1229 00ed F8000000 		.4byte	0xf8
- 1230 00f1 09       		.uleb128 0x9
- 1231 00f2 8A000000 		.4byte	0x8a
- 1232 00f6 FF       		.byte	0xff
- 1233 00f7 00       		.byte	0
- 1234 00f8 08       		.uleb128 0x8
- 1235 00f9 25010000 		.4byte	.LASF15
- 1236 00fd 03       		.byte	0x3
- 1237 00fe CA       		.byte	0xca
- 1238 00ff 09010000 		.4byte	0x109
- 1239 0103 05       		.uleb128 0x5
- 1240 0104 03       		.byte	0x3
- 1241 0105 00000000 		.4byte	cy_meta_flashprotect
- 1242 0109 07       		.uleb128 0x7
- 1243 010a E8000000 		.4byte	0xe8
- 1244 010e 05       		.uleb128 0x5
- 1245 010f 91000000 		.4byte	0x91
- 1246 0113 1E010000 		.4byte	0x11e
- 1247 0117 09       		.uleb128 0x9
- 1248 0118 8A000000 		.4byte	0x8a
- 1249 011c 0B       		.byte	0xb
- 1250 011d 00       		.byte	0
-ARM GAS  C:\Users\MECHAT~1\AppData\Local\Temp\cc2g9B0G.s 			page 23
+ 1198 0491 10       		.byte	16
+ 1199 0492 23       		.byte	35
+ 1200 0493 04       		.byte	4
+ 1201 0494 25       		.byte	37
+ 1202 0495 04       		.byte	4
+ 1203 0496 26       		.byte	38
+ 1204 0497 04       		.byte	4
+ 1205 0498 27       		.byte	39
+ 1206 0499 50       		.byte	80
+ 1207 049a 28       		.byte	40
+ 1208 049b 08       		.byte	8
+ 1209 049c 29       		.byte	41
+ 1210 049d 09       		.byte	9
+ 1211 049e 2B       		.byte	43
+ 1212 049f 01       		.byte	1
+ 1213 04a0 2E       		.byte	46
+ 1214 04a1 50       		.byte	80
+ 1215 04a2 2F       		.byte	47
+ 1216 04a3 20       		.byte	32
+ 1217 04a4 32       		.byte	50
+ 1218 04a5 95       		.byte	-107
+ 1219 04a6 36       		.byte	54
+ 1220 04a7 09       		.byte	9
+ 1221 04a8 37       		.byte	55
+ 1222 04a9 50       		.byte	80
+ 1223 04aa 38       		.byte	56
+ 1224 04ab 08       		.byte	8
+ 1225 04ac 39       		.byte	57
+ 1226 04ad 02       		.byte	2
+ 1227 04ae 3A       		.byte	58
+ 1228 04af 10       		.byte	16
+ 1229 04b0 3B       		.byte	59
+ 1230 04b1 40       		.byte	64
+ 1231 04b2 3D       		.byte	61
+ 1232 04b3 30       		.byte	48
+ 1233 04b4 48       		.byte	72
+ 1234 04b5 04       		.byte	4
+ 1235 04b6 50       		.byte	80
+ 1236 04b7 04       		.byte	4
+ 1237 04b8 52       		.byte	82
+ 1238 04b9 10       		.byte	16
+ 1239 04ba 53       		.byte	83
+ 1240 04bb 08       		.byte	8
+ 1241 04bc 59       		.byte	89
+ 1242 04bd 12       		.byte	18
+ 1243 04be 5B       		.byte	91
+ 1244 04bf 88       		.byte	-120
+ 1245 04c0 71       		.byte	113
+ 1246 04c1 01       		.byte	1
+ 1247 04c2 81       		.byte	-127
+ 1248 04c3 08       		.byte	8
+ 1249 04c4 83       		.byte	-125
+ 1250 04c5 80       		.byte	-128
+ 1251 04c6 85       		.byte	-123
+ 1252 04c7 12       		.byte	18
+ 1253 04c8 86       		.byte	-122
+ 1254 04c9 10       		.byte	16
+ARM GAS  C:\Users\MECHAT~1\AppData\Local\Temp\cckDkNiZ.s 			page 23
 
 
- 1251 011e 08       		.uleb128 0x8
- 1252 011f 0A000000 		.4byte	.LASF16
- 1253 0123 03       		.byte	0x3
- 1254 0124 F7       		.byte	0xf7
- 1255 0125 2F010000 		.4byte	0x12f
- 1256 0129 05       		.uleb128 0x5
- 1257 012a 03       		.byte	0x3
- 1258 012b 00000000 		.4byte	cy_metadata
- 1259 012f 07       		.uleb128 0x7
- 1260 0130 0E010000 		.4byte	0x10e
- 1261 0134 00       		.byte	0
- 1262              		.section	.debug_abbrev,"",%progbits
- 1263              	.Ldebug_abbrev0:
- 1264 0000 01       		.uleb128 0x1
- 1265 0001 11       		.uleb128 0x11
- 1266 0002 01       		.byte	0x1
- 1267 0003 25       		.uleb128 0x25
- 1268 0004 0E       		.uleb128 0xe
- 1269 0005 13       		.uleb128 0x13
- 1270 0006 0B       		.uleb128 0xb
- 1271 0007 03       		.uleb128 0x3
- 1272 0008 0E       		.uleb128 0xe
- 1273 0009 1B       		.uleb128 0x1b
- 1274 000a 0E       		.uleb128 0xe
- 1275 000b 10       		.uleb128 0x10
- 1276 000c 17       		.uleb128 0x17
- 1277 000d 00       		.byte	0
- 1278 000e 00       		.byte	0
- 1279 000f 02       		.uleb128 0x2
- 1280 0010 24       		.uleb128 0x24
- 1281 0011 00       		.byte	0
- 1282 0012 0B       		.uleb128 0xb
- 1283 0013 0B       		.uleb128 0xb
- 1284 0014 3E       		.uleb128 0x3e
- 1285 0015 0B       		.uleb128 0xb
- 1286 0016 03       		.uleb128 0x3
- 1287 0017 0E       		.uleb128 0xe
- 1288 0018 00       		.byte	0
- 1289 0019 00       		.byte	0
- 1290 001a 03       		.uleb128 0x3
- 1291 001b 16       		.uleb128 0x16
- 1292 001c 00       		.byte	0
- 1293 001d 03       		.uleb128 0x3
- 1294 001e 0E       		.uleb128 0xe
- 1295 001f 3A       		.uleb128 0x3a
- 1296 0020 0B       		.uleb128 0xb
- 1297 0021 3B       		.uleb128 0x3b
- 1298 0022 0B       		.uleb128 0xb
- 1299 0023 49       		.uleb128 0x49
- 1300 0024 13       		.uleb128 0x13
- 1301 0025 00       		.byte	0
- 1302 0026 00       		.byte	0
- 1303 0027 04       		.uleb128 0x4
- 1304 0028 24       		.uleb128 0x24
- 1305 0029 00       		.byte	0
- 1306 002a 0B       		.uleb128 0xb
- 1307 002b 0B       		.uleb128 0xb
-ARM GAS  C:\Users\MECHAT~1\AppData\Local\Temp\cc2g9B0G.s 			page 24
+ 1255 04ca 8B       		.byte	-117
+ 1256 04cb 48       		.byte	72
+ 1257 04cc 8C       		.byte	-116
+ 1258 04cd 04       		.byte	4
+ 1259 04ce 90       		.byte	-112
+ 1260 04cf 20       		.byte	32
+ 1261 04d0 93       		.byte	-109
+ 1262 04d1 80       		.byte	-128
+ 1263 04d2 96       		.byte	-106
+ 1264 04d3 50       		.byte	80
+ 1265 04d4 9B       		.byte	-101
+ 1266 04d5 04       		.byte	4
+ 1267 04d6 9F       		.byte	-97
+ 1268 04d7 40       		.byte	64
+ 1269 04d8 A0       		.byte	-96
+ 1270 04d9 80       		.byte	-128
+ 1271 04da A1       		.byte	-95
+ 1272 04db 10       		.byte	16
+ 1273 04dc A2       		.byte	-94
+ 1274 04dd A9       		.byte	-87
+ 1275 04de A5       		.byte	-91
+ 1276 04df 84       		.byte	-124
+ 1277 04e0 A6       		.byte	-90
+ 1278 04e1 04       		.byte	4
+ 1279 04e2 C0       		.byte	-64
+ 1280 04e3 5A       		.byte	90
+ 1281 04e4 C2       		.byte	-62
+ 1282 04e5 B4       		.byte	-76
+ 1283 04e6 C4       		.byte	-60
+ 1284 04e7 6C       		.byte	108
+ 1285 04e8 CA       		.byte	-54
+ 1286 04e9 7F       		.byte	127
+ 1287 04ea CC       		.byte	-52
+ 1288 04eb FF       		.byte	-1
+ 1289 04ec CE       		.byte	-50
+ 1290 04ed 2F       		.byte	47
+ 1291 04ee D2       		.byte	-46
+ 1292 04ef 04       		.byte	4
+ 1293 04f0 D6       		.byte	-42
+ 1294 04f1 0F       		.byte	15
+ 1295 04f2 E0       		.byte	-32
+ 1296 04f3 02       		.byte	2
+ 1297 04f4 EA       		.byte	-22
+ 1298 04f5 02       		.byte	2
+ 1299 04f6 EE       		.byte	-18
+ 1300 04f7 0A       		.byte	10
+ 1301 04f8 03       		.byte	3
+ 1302 04f9 08       		.byte	8
+ 1303 04fa 06       		.byte	6
+ 1304 04fb 04       		.byte	4
+ 1305 04fc 07       		.byte	7
+ 1306 04fd 01       		.byte	1
+ 1307 04fe 08       		.byte	8
+ 1308 04ff 04       		.byte	4
+ 1309 0500 09       		.byte	9
+ 1310 0501 07       		.byte	7
+ 1311 0502 0C       		.byte	12
+ARM GAS  C:\Users\MECHAT~1\AppData\Local\Temp\cckDkNiZ.s 			page 24
 
 
- 1308 002c 3E       		.uleb128 0x3e
- 1309 002d 0B       		.uleb128 0xb
- 1310 002e 03       		.uleb128 0x3
- 1311 002f 08       		.uleb128 0x8
- 1312 0030 00       		.byte	0
- 1313 0031 00       		.byte	0
- 1314 0032 05       		.uleb128 0x5
- 1315 0033 01       		.uleb128 0x1
- 1316 0034 01       		.byte	0x1
- 1317 0035 49       		.uleb128 0x49
- 1318 0036 13       		.uleb128 0x13
- 1319 0037 01       		.uleb128 0x1
- 1320 0038 13       		.uleb128 0x13
- 1321 0039 00       		.byte	0
- 1322 003a 00       		.byte	0
- 1323 003b 06       		.uleb128 0x6
- 1324 003c 21       		.uleb128 0x21
- 1325 003d 00       		.byte	0
- 1326 003e 49       		.uleb128 0x49
- 1327 003f 13       		.uleb128 0x13
- 1328 0040 2F       		.uleb128 0x2f
- 1329 0041 05       		.uleb128 0x5
- 1330 0042 00       		.byte	0
- 1331 0043 00       		.byte	0
- 1332 0044 07       		.uleb128 0x7
- 1333 0045 26       		.uleb128 0x26
- 1334 0046 00       		.byte	0
- 1335 0047 49       		.uleb128 0x49
- 1336 0048 13       		.uleb128 0x13
- 1337 0049 00       		.byte	0
- 1338 004a 00       		.byte	0
- 1339 004b 08       		.uleb128 0x8
- 1340 004c 34       		.uleb128 0x34
- 1341 004d 00       		.byte	0
- 1342 004e 03       		.uleb128 0x3
- 1343 004f 0E       		.uleb128 0xe
- 1344 0050 3A       		.uleb128 0x3a
- 1345 0051 0B       		.uleb128 0xb
- 1346 0052 3B       		.uleb128 0x3b
- 1347 0053 0B       		.uleb128 0xb
- 1348 0054 49       		.uleb128 0x49
- 1349 0055 13       		.uleb128 0x13
- 1350 0056 3F       		.uleb128 0x3f
- 1351 0057 19       		.uleb128 0x19
- 1352 0058 02       		.uleb128 0x2
- 1353 0059 18       		.uleb128 0x18
- 1354 005a 00       		.byte	0
- 1355 005b 00       		.byte	0
- 1356 005c 09       		.uleb128 0x9
- 1357 005d 21       		.uleb128 0x21
- 1358 005e 00       		.byte	0
- 1359 005f 49       		.uleb128 0x49
- 1360 0060 13       		.uleb128 0x13
- 1361 0061 2F       		.uleb128 0x2f
- 1362 0062 0B       		.uleb128 0xb
- 1363 0063 00       		.byte	0
- 1364 0064 00       		.byte	0
-ARM GAS  C:\Users\MECHAT~1\AppData\Local\Temp\cc2g9B0G.s 			page 25
+ 1312 0503 03       		.byte	3
+ 1313 0504 0F       		.byte	15
+ 1314 0505 08       		.byte	8
+ 1315 0506 11       		.byte	17
+ 1316 0507 06       		.byte	6
+ 1317 0508 13       		.byte	19
+ 1318 0509 01       		.byte	1
+ 1319 050a 14       		.byte	20
+ 1320 050b 03       		.byte	3
+ 1321 050c 15       		.byte	21
+ 1322 050d 07       		.byte	7
+ 1323 050e 18       		.byte	24
+ 1324 050f 02       		.byte	2
+ 1325 0510 19       		.byte	25
+ 1326 0511 06       		.byte	6
+ 1327 0512 1E       		.byte	30
+ 1328 0513 04       		.byte	4
+ 1329 0514 21       		.byte	33
+ 1330 0515 04       		.byte	4
+ 1331 0516 25       		.byte	37
+ 1332 0517 02       		.byte	2
+ 1333 0518 28       		.byte	40
+ 1334 0519 04       		.byte	4
+ 1335 051a 29       		.byte	41
+ 1336 051b 01       		.byte	1
+ 1337 051c 2B       		.byte	43
+ 1338 051d 06       		.byte	6
+ 1339 051e 2E       		.byte	46
+ 1340 051f 01       		.byte	1
+ 1341 0520 30       		.byte	48
+ 1342 0521 04       		.byte	4
+ 1343 0522 31       		.byte	49
+ 1344 0523 07       		.byte	7
+ 1345 0524 32       		.byte	50
+ 1346 0525 03       		.byte	3
+ 1347 0526 37       		.byte	55
+ 1348 0527 08       		.byte	8
+ 1349 0528 38       		.byte	56
+ 1350 0529 0A       		.byte	10
+ 1351 052a 3A       		.byte	58
+ 1352 052b 20       		.byte	32
+ 1353 052c 3E       		.byte	62
+ 1354 052d 04       		.byte	4
+ 1355 052e 3F       		.byte	63
+ 1356 052f 40       		.byte	64
+ 1357 0530 58       		.byte	88
+ 1358 0531 04       		.byte	4
+ 1359 0532 59       		.byte	89
+ 1360 0533 04       		.byte	4
+ 1361 0534 5C       		.byte	92
+ 1362 0535 11       		.byte	17
+ 1363 0536 5F       		.byte	95
+ 1364 0537 01       		.byte	1
+ 1365 0538 81       		.byte	-127
+ 1366 0539 0A       		.byte	10
+ 1367 053a 83       		.byte	-125
+ 1368 053b 05       		.byte	5
+ARM GAS  C:\Users\MECHAT~1\AppData\Local\Temp\cckDkNiZ.s 			page 25
 
 
- 1365 0065 00       		.byte	0
- 1366              		.section	.debug_aranges,"",%progbits
- 1367 0000 14000000 		.4byte	0x14
- 1368 0004 0200     		.2byte	0x2
- 1369 0006 00000000 		.4byte	.Ldebug_info0
- 1370 000a 04       		.byte	0x4
- 1371 000b 00       		.byte	0
- 1372 000c 0000     		.2byte	0
- 1373 000e 0000     		.2byte	0
- 1374 0010 00000000 		.4byte	0
- 1375 0014 00000000 		.4byte	0
- 1376              		.section	.debug_line,"",%progbits
- 1377              	.Ldebug_line0:
- 1378 0000 3D010000 		.section	.debug_str,"MS",%progbits,1
- 1378      02003701 
- 1378      00000201 
- 1378      FB0E0D00 
- 1378      01010101 
- 1379              	.LASF9:
- 1380 0000 5F5F7569 		.ascii	"__uint8_t\000"
- 1380      6E74385F 
- 1380      7400
- 1381              	.LASF16:
- 1382 000a 63795F6D 		.ascii	"cy_metadata\000"
- 1382      65746164 
- 1382      61746100 
- 1383              	.LASF1:
- 1384 0016 756E7369 		.ascii	"unsigned char\000"
- 1384      676E6564 
- 1384      20636861 
- 1384      7200
- 1385              	.LASF17:
- 1386 0024 474E5520 		.ascii	"GNU C11 5.4.1 20160609 (release) [ARM/embedded-5-br"
- 1386      43313120 
- 1386      352E342E 
- 1386      31203230 
- 1386      31363036 
- 1387 0057 616E6368 		.ascii	"anch revision 237715] -mcpu=cortex-m3 -mthumb -g -O"
- 1387      20726576 
- 1387      6973696F 
- 1387      6E203233 
- 1387      37373135 
- 1388 008a 67202D66 		.ascii	"g -ffunction-sections -ffat-lto-objects\000"
- 1388      66756E63 
- 1388      74696F6E 
- 1388      2D736563 
- 1388      74696F6E 
- 1389              	.LASF5:
- 1390 00b2 6C6F6E67 		.ascii	"long unsigned int\000"
- 1390      20756E73 
- 1390      69676E65 
- 1390      6420696E 
- 1390      7400
- 1391              	.LASF3:
- 1392 00c4 73686F72 		.ascii	"short unsigned int\000"
- 1392      7420756E 
- 1392      7369676E 
-ARM GAS  C:\Users\MECHAT~1\AppData\Local\Temp\cc2g9B0G.s 			page 26
+ 1369 053c 84       		.byte	-124
+ 1370 053d 01       		.byte	1
+ 1371 053e 87       		.byte	-121
+ 1372 053f 18       		.byte	24
+ 1373 0540 89       		.byte	-119
+ 1374 0541 18       		.byte	24
+ 1375 0542 8A       		.byte	-118
+ 1376 0543 02       		.byte	2
+ 1377 0544 8C       		.byte	-116
+ 1378 0545 0C       		.byte	12
+ 1379 0546 8D       		.byte	-115
+ 1380 0547 14       		.byte	20
+ 1381 0548 8E       		.byte	-114
+ 1382 0549 02       		.byte	2
+ 1383 054a 8F       		.byte	-113
+ 1384 054b 02       		.byte	2
+ 1385 054c 90       		.byte	-112
+ 1386 054d 01       		.byte	1
+ 1387 054e 91       		.byte	-111
+ 1388 054f 18       		.byte	24
+ 1389 0550 94       		.byte	-108
+ 1390 0551 0C       		.byte	12
+ 1391 0552 95       		.byte	-107
+ 1392 0553 06       		.byte	6
+ 1393 0554 96       		.byte	-106
+ 1394 0555 02       		.byte	2
+ 1395 0556 98       		.byte	-104
+ 1396 0557 04       		.byte	4
+ 1397 0558 99       		.byte	-103
+ 1398 0559 06       		.byte	6
+ 1399 055a 9C       		.byte	-100
+ 1400 055b 08       		.byte	8
+ 1401 055c A0       		.byte	-96
+ 1402 055d 0E       		.byte	14
+ 1403 055e A3       		.byte	-93
+ 1404 055f 18       		.byte	24
+ 1405 0560 A4       		.byte	-92
+ 1406 0561 02       		.byte	2
+ 1407 0562 A6       		.byte	-90
+ 1408 0563 0C       		.byte	12
+ 1409 0564 A7       		.byte	-89
+ 1410 0565 18       		.byte	24
+ 1411 0566 A8       		.byte	-88
+ 1412 0567 0C       		.byte	12
+ 1413 0568 A9       		.byte	-87
+ 1414 0569 18       		.byte	24
+ 1415 056a AC       		.byte	-84
+ 1416 056b 01       		.byte	1
+ 1417 056c B0       		.byte	-80
+ 1418 056d 0E       		.byte	14
+ 1419 056e B1       		.byte	-79
+ 1420 056f 06       		.byte	6
+ 1421 0570 B3       		.byte	-77
+ 1422 0571 01       		.byte	1
+ 1423 0572 B4       		.byte	-76
+ 1424 0573 01       		.byte	1
+ 1425 0574 B7       		.byte	-73
+ARM GAS  C:\Users\MECHAT~1\AppData\Local\Temp\cckDkNiZ.s 			page 26
 
 
- 1392      65642069 
- 1392      6E7400
- 1393              	.LASF13:
- 1394 00d7 63795F6D 		.ascii	"cy_meta_custnvl\000"
- 1394      6574615F 
- 1394      63757374 
- 1394      6E766C00 
- 1395              	.LASF12:
- 1396 00e7 63795F6D 		.ascii	"cy_meta_configecc\000"
- 1396      6574615F 
- 1396      636F6E66 
- 1396      69676563 
- 1396      6300
- 1397              	.LASF8:
- 1398 00f9 756E7369 		.ascii	"unsigned int\000"
- 1398      676E6564 
- 1398      20696E74 
- 1398      00
- 1399              	.LASF7:
- 1400 0106 6C6F6E67 		.ascii	"long long unsigned int\000"
- 1400      206C6F6E 
- 1400      6720756E 
- 1400      7369676E 
- 1400      65642069 
- 1401              	.LASF10:
- 1402 011d 75696E74 		.ascii	"uint8_t\000"
- 1402      385F7400 
- 1403              	.LASF15:
- 1404 0125 63795F6D 		.ascii	"cy_meta_flashprotect\000"
- 1404      6574615F 
- 1404      666C6173 
- 1404      6870726F 
- 1404      74656374 
- 1405              	.LASF14:
- 1406 013a 63795F6D 		.ascii	"cy_meta_wonvl\000"
- 1406      6574615F 
- 1406      776F6E76 
- 1406      6C00
- 1407              	.LASF11:
- 1408 0148 73697A65 		.ascii	"sizetype\000"
- 1408      74797065 
- 1408      00
- 1409              	.LASF6:
- 1410 0151 6C6F6E67 		.ascii	"long long int\000"
- 1410      206C6F6E 
- 1410      6720696E 
- 1410      7400
- 1411              	.LASF2:
- 1412 015f 73686F72 		.ascii	"short int\000"
- 1412      7420696E 
- 1412      7400
- 1413              	.LASF4:
- 1414 0169 6C6F6E67 		.ascii	"long int\000"
- 1414      20696E74 
- 1414      00
- 1415              	.LASF0:
- 1416 0172 7369676E 		.ascii	"signed char\000"
-ARM GAS  C:\Users\MECHAT~1\AppData\Local\Temp\cc2g9B0G.s 			page 27
+ 1426 0575 18       		.byte	24
+ 1427 0576 BA       		.byte	-70
+ 1428 0577 02       		.byte	2
+ 1429 0578 D8       		.byte	-40
+ 1430 0579 04       		.byte	4
+ 1431 057a D9       		.byte	-39
+ 1432 057b 04       		.byte	4
+ 1433 057c DC       		.byte	-36
+ 1434 057d 11       		.byte	17
+ 1435 057e DF       		.byte	-33
+ 1436 057f 01       		.byte	1
+ 1437 0580 01       		.byte	1
+ 1438 0581 04       		.byte	4
+ 1439 0582 02       		.byte	2
+ 1440 0583 28       		.byte	40
+ 1441 0584 03       		.byte	3
+ 1442 0585 02       		.byte	2
+ 1443 0586 04       		.byte	4
+ 1444 0587 80       		.byte	-128
+ 1445 0588 05       		.byte	5
+ 1446 0589 14       		.byte	20
+ 1447 058a 09       		.byte	9
+ 1448 058b 02       		.byte	2
+ 1449 058c 0A       		.byte	10
+ 1450 058d 15       		.byte	21
+ 1451 058e 0E       		.byte	14
+ 1452 058f 20       		.byte	32
+ 1453 0590 0F       		.byte	15
+ 1454 0591 0A       		.byte	10
+ 1455 0592 10       		.byte	16
+ 1456 0593 02       		.byte	2
+ 1457 0594 12       		.byte	18
+ 1458 0595 90       		.byte	-112
+ 1459 0596 13       		.byte	19
+ 1460 0597 20       		.byte	32
+ 1461 0598 15       		.byte	21
+ 1462 0599 10       		.byte	16
+ 1463 059a 17       		.byte	23
+ 1464 059b 40       		.byte	64
+ 1465 059c 18       		.byte	24
+ 1466 059d 0C       		.byte	12
+ 1467 059e 19       		.byte	25
+ 1468 059f 01       		.byte	1
+ 1469 05a0 1B       		.byte	27
+ 1470 05a1 03       		.byte	3
+ 1471 05a2 1D       		.byte	29
+ 1472 05a3 10       		.byte	16
+ 1473 05a4 1E       		.byte	30
+ 1474 05a5 88       		.byte	-120
+ 1475 05a6 1F       		.byte	31
+ 1476 05a7 08       		.byte	8
+ 1477 05a8 20       		.byte	32
+ 1478 05a9 40       		.byte	64
+ 1479 05aa 21       		.byte	33
+ 1480 05ab 08       		.byte	8
+ 1481 05ac 23       		.byte	35
+ 1482 05ad 01       		.byte	1
+ARM GAS  C:\Users\MECHAT~1\AppData\Local\Temp\cckDkNiZ.s 			page 27
 
 
- 1416      65642063 
- 1416      68617200 
- 1417              	.LASF19:
- 1418 017e 433A5C55 		.ascii	"C:\\Users\\mechatoro\\Documents\\PSoC Creator\\rota"
- 1418      73657273 
- 1418      5C6D6563 
- 1418      6861746F 
- 1418      726F5C44 
- 1419 01ac 72795F65 		.ascii	"ry_enc_hard\\rotary_enc_hard.cydsn\000"
- 1419      6E635F68 
- 1419      6172645C 
- 1419      726F7461 
- 1419      72795F65 
- 1420              	.LASF18:
- 1421 01ce 47656E65 		.ascii	"Generated_Source\\PSoC5\\cymetadata.c\000"
- 1421      72617465 
- 1421      645F536F 
- 1421      75726365 
- 1421      5C50536F 
- 1422              		.ident	"GCC: (GNU Tools for ARM Embedded Processors) 5.4.1 20160609 (release) [ARM/embedded-5-bran
+ 1483 05ae 25       		.byte	37
+ 1484 05af 01       		.byte	1
+ 1485 05b0 26       		.byte	38
+ 1486 05b1 02       		.byte	2
+ 1487 05b2 27       		.byte	39
+ 1488 05b3 01       		.byte	1
+ 1489 05b4 29       		.byte	41
+ 1490 05b5 15       		.byte	21
+ 1491 05b6 2B       		.byte	43
+ 1492 05b7 10       		.byte	16
+ 1493 05b8 2D       		.byte	45
+ 1494 05b9 30       		.byte	48
+ 1495 05ba 2E       		.byte	46
+ 1496 05bb 05       		.byte	5
+ 1497 05bc 30       		.byte	48
+ 1498 05bd 08       		.byte	8
+ 1499 05be 32       		.byte	50
+ 1500 05bf 21       		.byte	33
+ 1501 05c0 35       		.byte	53
+ 1502 05c1 01       		.byte	1
+ 1503 05c2 36       		.byte	54
+ 1504 05c3 04       		.byte	4
+ 1505 05c4 37       		.byte	55
+ 1506 05c5 20       		.byte	32
+ 1507 05c6 38       		.byte	56
+ 1508 05c7 4A       		.byte	74
+ 1509 05c8 39       		.byte	57
+ 1510 05c9 10       		.byte	16
+ 1511 05ca 3A       		.byte	58
+ 1512 05cb 10       		.byte	16
+ 1513 05cc 3C       		.byte	60
+ 1514 05cd 04       		.byte	4
+ 1515 05ce 3D       		.byte	61
+ 1516 05cf 02       		.byte	2
+ 1517 05d0 3E       		.byte	62
+ 1518 05d1 10       		.byte	16
+ 1519 05d2 3F       		.byte	63
+ 1520 05d3 A0       		.byte	-96
+ 1521 05d4 46       		.byte	70
+ 1522 05d5 40       		.byte	64
+ 1523 05d6 47       		.byte	71
+ 1524 05d7 01       		.byte	1
+ 1525 05d8 84       		.byte	-124
+ 1526 05d9 40       		.byte	64
+ 1527 05da 8E       		.byte	-114
+ 1528 05db 85       		.byte	-123
+ 1529 05dc 8F       		.byte	-113
+ 1530 05dd 40       		.byte	64
+ 1531 05de 97       		.byte	-105
+ 1532 05df 01       		.byte	1
+ 1533 05e0 9E       		.byte	-98
+ 1534 05e1 40       		.byte	64
+ 1535 05e2 A4       		.byte	-92
+ 1536 05e3 04       		.byte	4
+ 1537 05e4 A6       		.byte	-90
+ 1538 05e5 40       		.byte	64
+ 1539 05e6 C0       		.byte	-64
+ARM GAS  C:\Users\MECHAT~1\AppData\Local\Temp\cckDkNiZ.s 			page 28
+
+
+ 1540 05e7 E7       		.byte	-25
+ 1541 05e8 C2       		.byte	-62
+ 1542 05e9 EF       		.byte	-17
+ 1543 05ea C4       		.byte	-60
+ 1544 05eb CF       		.byte	-49
+ 1545 05ec CA       		.byte	-54
+ 1546 05ed E7       		.byte	-25
+ 1547 05ee CC       		.byte	-52
+ 1548 05ef E7       		.byte	-25
+ 1549 05f0 CE       		.byte	-50
+ 1550 05f1 FF       		.byte	-1
+ 1551 05f2 E0       		.byte	-32
+ 1552 05f3 10       		.byte	16
+ 1553 05f4 EA       		.byte	-22
+ 1554 05f5 02       		.byte	2
+ 1555 05f6 EE       		.byte	-18
+ 1556 05f7 0A       		.byte	10
+ 1557 05f8 00       		.byte	0
+ 1558 05f9 40       		.byte	64
+ 1559 05fa 01       		.byte	1
+ 1560 05fb 08       		.byte	8
+ 1561 05fc 03       		.byte	3
+ 1562 05fd 06       		.byte	6
+ 1563 05fe 04       		.byte	4
+ 1564 05ff 1C       		.byte	28
+ 1565 0600 05       		.byte	5
+ 1566 0601 1C       		.byte	28
+ 1567 0602 06       		.byte	6
+ 1568 0603 62       		.byte	98
+ 1569 0604 09       		.byte	9
+ 1570 0605 1C       		.byte	28
+ 1571 0606 0A       		.byte	10
+ 1572 0607 63       		.byte	99
+ 1573 0608 0C       		.byte	12
+ 1574 0609 7C       		.byte	124
+ 1575 060a 0D       		.byte	13
+ 1576 060b 10       		.byte	16
+ 1577 060c 0E       		.byte	14
+ 1578 060d 01       		.byte	1
+ 1579 060e 0F       		.byte	15
+ 1580 060f 06       		.byte	6
+ 1581 0610 10       		.byte	16
+ 1582 0611 60       		.byte	96
+ 1583 0612 11       		.byte	17
+ 1584 0613 04       		.byte	4
+ 1585 0614 13       		.byte	19
+ 1586 0615 19       		.byte	25
+ 1587 0616 15       		.byte	21
+ 1588 0617 20       		.byte	32
+ 1589 0618 16       		.byte	22
+ 1590 0619 04       		.byte	4
+ 1591 061a 18       		.byte	24
+ 1592 061b 7F       		.byte	127
+ 1593 061c 19       		.byte	25
+ 1594 061d 20       		.byte	32
+ 1595 061e 1C       		.byte	28
+ 1596 061f 67       		.byte	103
+ARM GAS  C:\Users\MECHAT~1\AppData\Local\Temp\cckDkNiZ.s 			page 29
+
+
+ 1597 0620 1E       		.byte	30
+ 1598 0621 18       		.byte	24
+ 1599 0622 20       		.byte	32
+ 1600 0623 10       		.byte	16
+ 1601 0624 21       		.byte	33
+ 1602 0625 20       		.byte	32
+ 1603 0626 24       		.byte	36
+ 1604 0627 08       		.byte	8
+ 1605 0628 28       		.byte	40
+ 1606 0629 18       		.byte	24
+ 1607 062a 29       		.byte	41
+ 1608 062b 20       		.byte	32
+ 1609 062c 2C       		.byte	44
+ 1610 062d 24       		.byte	36
+ 1611 062e 31       		.byte	49
+ 1612 062f 1C       		.byte	28
+ 1613 0630 32       		.byte	50
+ 1614 0631 1F       		.byte	31
+ 1615 0632 33       		.byte	51
+ 1616 0633 20       		.byte	32
+ 1617 0634 34       		.byte	52
+ 1618 0635 78       		.byte	120
+ 1619 0636 37       		.byte	55
+ 1620 0637 03       		.byte	3
+ 1621 0638 3A       		.byte	58
+ 1622 0639 28       		.byte	40
+ 1623 063a 3F       		.byte	63
+ 1624 063b 44       		.byte	68
+ 1625 063c 56       		.byte	86
+ 1626 063d 02       		.byte	2
+ 1627 063e 57       		.byte	87
+ 1628 063f 12       		.byte	18
+ 1629 0640 58       		.byte	88
+ 1630 0641 04       		.byte	4
+ 1631 0642 59       		.byte	89
+ 1632 0643 04       		.byte	4
+ 1633 0644 5B       		.byte	91
+ 1634 0645 04       		.byte	4
+ 1635 0646 5C       		.byte	92
+ 1636 0647 11       		.byte	17
+ 1637 0648 5D       		.byte	93
+ 1638 0649 10       		.byte	16
+ 1639 064a 5F       		.byte	95
+ 1640 064b 01       		.byte	1
+ 1641 064c 81       		.byte	-127
+ 1642 064d 18       		.byte	24
+ 1643 064e 83       		.byte	-125
+ 1644 064f 23       		.byte	35
+ 1645 0650 87       		.byte	-121
+ 1646 0651 06       		.byte	6
+ 1647 0652 8F       		.byte	-113
+ 1648 0653 02       		.byte	2
+ 1649 0654 93       		.byte	-109
+ 1650 0655 29       		.byte	41
+ 1651 0656 95       		.byte	-107
+ 1652 0657 18       		.byte	24
+ 1653 0658 97       		.byte	-105
+ARM GAS  C:\Users\MECHAT~1\AppData\Local\Temp\cckDkNiZ.s 			page 30
+
+
+ 1654 0659 25       		.byte	37
+ 1655 065a 99       		.byte	-103
+ 1656 065b 16       		.byte	22
+ 1657 065c 9B       		.byte	-101
+ 1658 065d 21       		.byte	33
+ 1659 065e A1       		.byte	-95
+ 1660 065f 18       		.byte	24
+ 1661 0660 A3       		.byte	-93
+ 1662 0661 20       		.byte	32
+ 1663 0662 B1       		.byte	-79
+ 1664 0663 07       		.byte	7
+ 1665 0664 B5       		.byte	-75
+ 1666 0665 3C       		.byte	60
+ 1667 0666 BB       		.byte	-69
+ 1668 0667 22       		.byte	34
+ 1669 0668 C0       		.byte	-64
+ 1670 0669 46       		.byte	70
+ 1671 066a C1       		.byte	-63
+ 1672 066b 03       		.byte	3
+ 1673 066c C2       		.byte	-62
+ 1674 066d 05       		.byte	5
+ 1675 066e C4       		.byte	-60
+ 1676 066f 01       		.byte	1
+ 1677 0670 C6       		.byte	-58
+ 1678 0671 0C       		.byte	12
+ 1679 0672 C7       		.byte	-57
+ 1680 0673 0E       		.byte	14
+ 1681 0674 C8       		.byte	-56
+ 1682 0675 14       		.byte	20
+ 1683 0676 C9       		.byte	-55
+ 1684 0677 FF       		.byte	-1
+ 1685 0678 CA       		.byte	-54
+ 1686 0679 FF       		.byte	-1
+ 1687 067a CB       		.byte	-53
+ 1688 067b FF       		.byte	-1
+ 1689 067c CC       		.byte	-52
+ 1690 067d 62       		.byte	98
+ 1691 067e CD       		.byte	-51
+ 1692 067f A0       		.byte	-96
+ 1693 0680 CE       		.byte	-50
+ 1694 0681 F0       		.byte	-16
+ 1695 0682 CF       		.byte	-49
+ 1696 0683 41       		.byte	65
+ 1697 0684 D0       		.byte	-48
+ 1698 0685 0C       		.byte	12
+ 1699 0686 D9       		.byte	-39
+ 1700 0687 04       		.byte	4
+ 1701 0688 DA       		.byte	-38
+ 1702 0689 04       		.byte	4
+ 1703 068a DC       		.byte	-36
+ 1704 068b 10       		.byte	16
+ 1705 068c DD       		.byte	-35
+ 1706 068d 01       		.byte	1
+ 1707 068e DF       		.byte	-33
+ 1708 068f 01       		.byte	1
+ 1709 0690 E6       		.byte	-26
+ 1710 0691 40       		.byte	64
+ARM GAS  C:\Users\MECHAT~1\AppData\Local\Temp\cckDkNiZ.s 			page 31
+
+
+ 1711 0692 E7       		.byte	-25
+ 1712 0693 02       		.byte	2
+ 1713 0694 E9       		.byte	-23
+ 1714 0695 10       		.byte	16
+ 1715 0696 EA       		.byte	-22
+ 1716 0697 30       		.byte	48
+ 1717 0698 EB       		.byte	-21
+ 1718 0699 10       		.byte	16
+ 1719 069a ED       		.byte	-19
+ 1720 069b 10       		.byte	16
+ 1721 069c EE       		.byte	-18
+ 1722 069d 10       		.byte	16
+ 1723 069e EF       		.byte	-17
+ 1724 069f 12       		.byte	18
+ 1725 06a0 01       		.byte	1
+ 1726 06a1 08       		.byte	8
+ 1727 06a2 02       		.byte	2
+ 1728 06a3 49       		.byte	73
+ 1729 06a4 08       		.byte	8
+ 1730 06a5 90       		.byte	-112
+ 1731 06a6 09       		.byte	9
+ 1732 06a7 0A       		.byte	10
+ 1733 06a8 10       		.byte	16
+ 1734 06a9 80       		.byte	-128
+ 1735 06aa 11       		.byte	17
+ 1736 06ab 40       		.byte	64
+ 1737 06ac 13       		.byte	19
+ 1738 06ad 24       		.byte	36
+ 1739 06ae 19       		.byte	25
+ 1740 06af 2C       		.byte	44
+ 1741 06b0 21       		.byte	33
+ 1742 06b1 82       		.byte	-126
+ 1743 06b2 22       		.byte	34
+ 1744 06b3 05       		.byte	5
+ 1745 06b4 24       		.byte	36
+ 1746 06b5 80       		.byte	-128
+ 1747 06b6 25       		.byte	37
+ 1748 06b7 01       		.byte	1
+ 1749 06b8 26       		.byte	38
+ 1750 06b9 10       		.byte	16
+ 1751 06ba 27       		.byte	39
+ 1752 06bb 04       		.byte	4
+ 1753 06bc 29       		.byte	41
+ 1754 06bd 21       		.byte	33
+ 1755 06be 2A       		.byte	42
+ 1756 06bf 01       		.byte	1
+ 1757 06c0 2D       		.byte	45
+ 1758 06c1 01       		.byte	1
+ 1759 06c2 30       		.byte	48
+ 1760 06c3 10       		.byte	16
+ 1761 06c4 31       		.byte	49
+ 1762 06c5 14       		.byte	20
+ 1763 06c6 32       		.byte	50
+ 1764 06c7 01       		.byte	1
+ 1765 06c8 34       		.byte	52
+ 1766 06c9 20       		.byte	32
+ 1767 06ca 36       		.byte	54
+ARM GAS  C:\Users\MECHAT~1\AppData\Local\Temp\cckDkNiZ.s 			page 32
+
+
+ 1768 06cb 01       		.byte	1
+ 1769 06cc 37       		.byte	55
+ 1770 06cd 04       		.byte	4
+ 1771 06ce 38       		.byte	56
+ 1772 06cf 42       		.byte	66
+ 1773 06d0 39       		.byte	57
+ 1774 06d1 14       		.byte	20
+ 1775 06d2 3A       		.byte	58
+ 1776 06d3 40       		.byte	64
+ 1777 06d4 3C       		.byte	60
+ 1778 06d5 80       		.byte	-128
+ 1779 06d6 3D       		.byte	61
+ 1780 06d7 0A       		.byte	10
+ 1781 06d8 44       		.byte	68
+ 1782 06d9 90       		.byte	-112
+ 1783 06da 45       		.byte	69
+ 1784 06db 80       		.byte	-128
+ 1785 06dc 4C       		.byte	76
+ 1786 06dd 04       		.byte	4
+ 1787 06de 4E       		.byte	78
+ 1788 06df 0A       		.byte	10
+ 1789 06e0 54       		.byte	84
+ 1790 06e1 04       		.byte	4
+ 1791 06e2 57       		.byte	87
+ 1792 06e3 40       		.byte	64
+ 1793 06e4 5A       		.byte	90
+ 1794 06e5 08       		.byte	8
+ 1795 06e6 68       		.byte	104
+ 1796 06e7 0A       		.byte	10
+ 1797 06e8 69       		.byte	105
+ 1798 06e9 14       		.byte	20
+ 1799 06ea 70       		.byte	112
+ 1800 06eb 80       		.byte	-128
+ 1801 06ec 72       		.byte	114
+ 1802 06ed 05       		.byte	5
+ 1803 06ee 73       		.byte	115
+ 1804 06ef 24       		.byte	36
+ 1805 06f0 85       		.byte	-123
+ 1806 06f1 01       		.byte	1
+ 1807 06f2 88       		.byte	-120
+ 1808 06f3 80       		.byte	-128
+ 1809 06f4 89       		.byte	-119
+ 1810 06f5 20       		.byte	32
+ 1811 06f6 8A       		.byte	-118
+ 1812 06f7 10       		.byte	16
+ 1813 06f8 8C       		.byte	-116
+ 1814 06f9 01       		.byte	1
+ 1815 06fa 8D       		.byte	-115
+ 1816 06fb 41       		.byte	65
+ 1817 06fc 90       		.byte	-112
+ 1818 06fd 48       		.byte	72
+ 1819 06fe 94       		.byte	-108
+ 1820 06ff 82       		.byte	-126
+ 1821 0700 95       		.byte	-107
+ 1822 0701 04       		.byte	4
+ 1823 0702 96       		.byte	-106
+ 1824 0703 07       		.byte	7
+ARM GAS  C:\Users\MECHAT~1\AppData\Local\Temp\cckDkNiZ.s 			page 33
+
+
+ 1825 0704 98       		.byte	-104
+ 1826 0705 20       		.byte	32
+ 1827 0706 99       		.byte	-103
+ 1828 0707 11       		.byte	17
+ 1829 0708 9D       		.byte	-99
+ 1830 0709 24       		.byte	36
+ 1831 070a 9F       		.byte	-97
+ 1832 070b 20       		.byte	32
+ 1833 070c A0       		.byte	-96
+ 1834 070d 40       		.byte	64
+ 1835 070e A1       		.byte	-95
+ 1836 070f 0C       		.byte	12
+ 1837 0710 A2       		.byte	-94
+ 1838 0711 03       		.byte	3
+ 1839 0712 A4       		.byte	-92
+ 1840 0713 0E       		.byte	14
+ 1841 0714 A6       		.byte	-90
+ 1842 0715 18       		.byte	24
+ 1843 0716 A7       		.byte	-89
+ 1844 0717 40       		.byte	64
+ 1845 0718 AF       		.byte	-81
+ 1846 0719 08       		.byte	8
+ 1847 071a B0       		.byte	-80
+ 1848 071b 08       		.byte	8
+ 1849 071c B1       		.byte	-79
+ 1850 071d 02       		.byte	2
+ 1851 071e B4       		.byte	-76
+ 1852 071f 20       		.byte	32
+ 1853 0720 B5       		.byte	-75
+ 1854 0721 04       		.byte	4
+ 1855 0722 B7       		.byte	-73
+ 1856 0723 04       		.byte	4
+ 1857 0724 C0       		.byte	-64
+ 1858 0725 0F       		.byte	15
+ 1859 0726 C2       		.byte	-62
+ 1860 0727 0F       		.byte	15
+ 1861 0728 C4       		.byte	-60
+ 1862 0729 0F       		.byte	15
+ 1863 072a CA       		.byte	-54
+ 1864 072b 85       		.byte	-123
+ 1865 072c CC       		.byte	-52
+ 1866 072d E7       		.byte	-25
+ 1867 072e CE       		.byte	-50
+ 1868 072f DF       		.byte	-33
+ 1869 0730 D0       		.byte	-48
+ 1870 0731 D0       		.byte	-48
+ 1871 0732 D2       		.byte	-46
+ 1872 0733 30       		.byte	48
+ 1873 0734 D6       		.byte	-42
+ 1874 0735 02       		.byte	2
+ 1875 0736 E2       		.byte	-30
+ 1876 0737 90       		.byte	-112
+ 1877 0738 E4       		.byte	-28
+ 1878 0739 40       		.byte	64
+ 1879 073a E8       		.byte	-24
+ 1880 073b 40       		.byte	64
+ 1881 073c EC       		.byte	-20
+ARM GAS  C:\Users\MECHAT~1\AppData\Local\Temp\cckDkNiZ.s 			page 34
+
+
+ 1882 073d 40       		.byte	64
+ 1883 073e 33       		.byte	51
+ 1884 073f 81       		.byte	-127
+ 1885 0740 36       		.byte	54
+ 1886 0741 44       		.byte	68
+ 1887 0742 CC       		.byte	-52
+ 1888 0743 F0       		.byte	-16
+ 1889 0744 9F       		.byte	-97
+ 1890 0745 01       		.byte	1
+ 1891 0746 A6       		.byte	-90
+ 1892 0747 44       		.byte	68
+ 1893 0748 A7       		.byte	-89
+ 1894 0749 80       		.byte	-128
+ 1895 074a 9F       		.byte	-97
+ 1896 074b 01       		.byte	1
+ 1897 074c A6       		.byte	-90
+ 1898 074d 44       		.byte	68
+ 1899 074e A7       		.byte	-89
+ 1900 074f 80       		.byte	-128
+ 1901 0750 9F       		.byte	-97
+ 1902 0751 01       		.byte	1
+ 1903 0752 A6       		.byte	-90
+ 1904 0753 44       		.byte	68
+ 1905 0754 A7       		.byte	-89
+ 1906 0755 80       		.byte	-128
+ 1907 0756 57       		.byte	87
+ 1908 0757 04       		.byte	4
+ 1909 0758 D4       		.byte	-44
+ 1910 0759 02       		.byte	2
+ 1911 075a B7       		.byte	-73
+ 1912 075b 04       		.byte	4
+ 1913 075c E8       		.byte	-24
+ 1914 075d 02       		.byte	2
+ 1915 075e 08       		.byte	8
+ 1916 075f 08       		.byte	8
+ 1917 0760 0B       		.byte	11
+ 1918 0761 04       		.byte	4
+ 1919 0762 0F       		.byte	15
+ 1920 0763 40       		.byte	64
+ 1921 0764 C2       		.byte	-62
+ 1922 0765 0E       		.byte	14
+ 1923 0766 A6       		.byte	-90
+ 1924 0767 04       		.byte	4
+ 1925 0768 AE       		.byte	-82
+ 1926 0769 40       		.byte	64
+ 1927 076a AF       		.byte	-81
+ 1928 076b 81       		.byte	-127
+ 1929 076c EA       		.byte	-22
+ 1930 076d 40       		.byte	64
+ 1931 076e EE       		.byte	-18
+ 1932 076f 50       		.byte	80
+ 1933 0770 08       		.byte	8
+ 1934 0771 20       		.byte	32
+ 1935 0772 0F       		.byte	15
+ 1936 0773 02       		.byte	2
+ 1937 0774 19       		.byte	25
+ 1938 0775 10       		.byte	16
+ARM GAS  C:\Users\MECHAT~1\AppData\Local\Temp\cckDkNiZ.s 			page 35
+
+
+ 1939 0776 81       		.byte	-127
+ 1940 0777 10       		.byte	16
+ 1941 0778 82       		.byte	-126
+ 1942 0779 04       		.byte	4
+ 1943 077a 87       		.byte	-121
+ 1944 077b 01       		.byte	1
+ 1945 077c 8C       		.byte	-116
+ 1946 077d 20       		.byte	32
+ 1947 077e A6       		.byte	-90
+ 1948 077f 04       		.byte	4
+ 1949 0780 C2       		.byte	-62
+ 1950 0781 C0       		.byte	-64
+ 1951 0782 C6       		.byte	-58
+ 1952 0783 40       		.byte	64
+ 1953 0784 E4       		.byte	-28
+ 1954 0785 10       		.byte	16
+ 1955 0786 AC       		.byte	-84
+ 1956 0787 08       		.byte	8
+ 1957 0788 AF       		.byte	-81
+ 1958 0789 44       		.byte	68
+ 1959 078a 12       		.byte	18
+ 1960 078b 80       		.byte	-128
+ 1961 078c 77       		.byte	119
+ 1962 078d 10       		.byte	16
+ 1963 078e 8E       		.byte	-114
+ 1964 078f 80       		.byte	-128
+ 1965 0790 8F       		.byte	-113
+ 1966 0791 10       		.byte	16
+ 1967 0792 C4       		.byte	-60
+ 1968 0793 08       		.byte	8
+ 1969 0794 DE       		.byte	-34
+ 1970 0795 04       		.byte	4
+ 1971 0796 E2       		.byte	-30
+ 1972 0797 02       		.byte	2
+ 1973 0798 E4       		.byte	-28
+ 1974 0799 02       		.byte	2
+ 1975 079a 00       		.byte	0
+ 1976 079b 07       		.byte	7
+ 1977 079c 0A       		.byte	10
+ 1978 079d 01       		.byte	1
+ 1979 079e 0E       		.byte	14
+ 1980 079f 06       		.byte	6
+ 1981 07a0 10       		.byte	16
+ 1982 07a1 03       		.byte	3
+ 1983 07a2 11       		.byte	17
+ 1984 07a3 01       		.byte	1
+ 1985 07a4 1A       		.byte	26
+ 1986 07a5 03       		.byte	3
+ 1987 07a6 1B       		.byte	27
+ 1988 07a7 01       		.byte	1
+ 1989 07a8 1C       		.byte	28
+ 1990 07a9 02       		.byte	2
+ 1991 07aa 1D       		.byte	29
+ 1992 07ab 01       		.byte	1
+ 1993 07ac 00       		.byte	0
+ 1994 07ad EA       		.byte	-22
+ 1995 07ae 00       		.byte	0
+ARM GAS  C:\Users\MECHAT~1\AppData\Local\Temp\cckDkNiZ.s 			page 36
+
+
+ 1996 07af 00       		.byte	0
+ 1997 07b0 80       		.byte	-128
+ 1998 07b1 80       		.byte	-128
+ 1999 07b2 00       		.byte	0
+ 2000 07b3 00       		.byte	0
+ 2001 07b4 40       		.byte	64
+ 2002 07b5 00       		.byte	0
+ 2003 07b6 00       		.byte	0
+ 2004 07b7 00       		.byte	0
+ 2005 07b8 80       		.byte	-128
+ 2006 07b9 00       		.byte	0
+ 2007 07ba 40       		.byte	64
+ 2008 07bb 80       		.byte	-128
+ 2009 07bc 80       		.byte	-128
+ 2010 07bd 00       		.byte	0
+ 2011 07be 80       		.byte	-128
+ 2012 07bf 00       		.byte	0
+ 2013 07c0 00       		.byte	0
+ 2014 07c1 00       		.byte	0
+ 2015 07c2 00       		.byte	0
+ 2016 07c3 00       		.byte	0
+ 2017 07c4 40       		.byte	64
+ 2018 07c5 00       		.byte	0
+ 2019 07c6 00       		.byte	0
+ 2020 07c7 00       		.byte	0
+ 2021 07c8 00       		.byte	0
+ 2022 07c9 00       		.byte	0
+ 2023 07ca 00       		.byte	0
+ 2024 07cb 00       		.byte	0
+ 2025 07cc C0       		.byte	-64
+ 2026 07cd 00       		.byte	0
+ 2027 07ce 00       		.byte	0
+ 2028 07cf 00       		.byte	0
+ 2029 07d0 00       		.byte	0
+ 2030 07d1 0B       		.byte	11
+ 2031 07d2 0B       		.byte	11
+ 2032 07d3 00       		.byte	0
+ 2033 07d4 00       		.byte	0
+ 2034 07d5 00       		.byte	0
+ 2035 07d6 00       		.byte	0
+ 2036 07d7 00       		.byte	0
+ 2037 07d8 00       		.byte	0
+ 2038 07d9 02       		.byte	2
+ 2039 07da 02       		.byte	2
+ 2040 07db 00       		.byte	0
+ 2041 07dc 02       		.byte	2
+ 2042 07dd 00       		.byte	0
+ 2043 07de 00       		.byte	0
+ 2044 07df 00       		.byte	0
+ 2045 07e0 C0       		.byte	-64
+ 2046 07e1 00       		.byte	0
+ 2047 07e2 00       		.byte	0
+ 2048 07e3 00       		.byte	0
+ 2049 07e4 00       		.byte	0
+ 2050 07e5 00       		.byte	0
+ 2051 07e6 00       		.byte	0
+ 2052 07e7 00       		.byte	0
+ARM GAS  C:\Users\MECHAT~1\AppData\Local\Temp\cckDkNiZ.s 			page 37
+
+
+ 2053              		.section	.cywolatch,"a",%progbits
+ 2054              		.align	2
+ 2055              		.type	cy_meta_wonvl, %object
+ 2056              		.size	cy_meta_wonvl, 4
+ 2057              	cy_meta_wonvl:
+ 2058 0000 BC       		.byte	-68
+ 2059 0001 90       		.byte	-112
+ 2060 0002 AC       		.byte	-84
+ 2061 0003 AF       		.byte	-81
+ 2062              		.section	.cycustnvl,"a",%progbits
+ 2063              		.align	2
+ 2064              		.type	cy_meta_custnvl, %object
+ 2065              		.size	cy_meta_custnvl, 4
+ 2066              	cy_meta_custnvl:
+ 2067 0000 00       		.byte	0
+ 2068 0001 00       		.byte	0
+ 2069 0002 40       		.byte	64
+ 2070 0003 05       		.byte	5
+ 2071              		.section	.cymeta,"a",%progbits
+ 2072              		.align	2
+ 2073              		.type	cy_metadata, %object
+ 2074              		.size	cy_metadata, 12
+ 2075              	cy_metadata:
+ 2076 0000 00       		.byte	0
+ 2077 0001 01       		.byte	1
+ 2078 0002 2E       		.byte	46
+ 2079 0003 16       		.byte	22
+ 2080 0004 10       		.byte	16
+ 2081 0005 69       		.byte	105
+ 2082 0006 00       		.byte	0
+ 2083 0007 01       		.byte	1
+ 2084 0008 00       		.byte	0
+ 2085 0009 00       		.byte	0
+ 2086 000a 00       		.byte	0
+ 2087 000b 00       		.byte	0
+ 2088              		.section	.cyflashprotect,"a",%progbits
+ 2089              		.align	2
+ 2090              		.type	cy_meta_flashprotect, %object
+ 2091              		.size	cy_meta_flashprotect, 256
+ 2092              	cy_meta_flashprotect:
+ 2093 0000 00000000 		.space	256
+ 2093      00000000 
+ 2093      00000000 
+ 2093      00000000 
+ 2093      00000000 
+ 2094              		.text
+ 2095              	.Letext0:
+ 2096              		.file 1 "c:\\program files (x86)\\cypress\\psoc creator\\4.1\\psoc creator\\import\\gnu\\arm\\5.4.
+ 2097              		.file 2 "c:\\program files (x86)\\cypress\\psoc creator\\4.1\\psoc creator\\import\\gnu\\arm\\5.4.
+ 2098              		.file 3 "Generated_Source\\PSoC5\\cymetadata.c"
+ 2099              		.section	.debug_info,"",%progbits
+ 2100              	.Ldebug_info0:
+ 2101 0000 35010000 		.4byte	0x135
+ 2102 0004 0400     		.2byte	0x4
+ 2103 0006 00000000 		.4byte	.Ldebug_abbrev0
+ 2104 000a 04       		.byte	0x4
+ 2105 000b 01       		.uleb128 0x1
+ARM GAS  C:\Users\MECHAT~1\AppData\Local\Temp\cckDkNiZ.s 			page 38
+
+
+ 2106 000c 24000000 		.4byte	.LASF17
+ 2107 0010 0C       		.byte	0xc
+ 2108 0011 CE010000 		.4byte	.LASF18
+ 2109 0015 7E010000 		.4byte	.LASF19
+ 2110 0019 00000000 		.4byte	.Ldebug_line0
+ 2111 001d 02       		.uleb128 0x2
+ 2112 001e 01       		.byte	0x1
+ 2113 001f 06       		.byte	0x6
+ 2114 0020 72010000 		.4byte	.LASF0
+ 2115 0024 03       		.uleb128 0x3
+ 2116 0025 00000000 		.4byte	.LASF9
+ 2117 0029 01       		.byte	0x1
+ 2118 002a 1D       		.byte	0x1d
+ 2119 002b 2F000000 		.4byte	0x2f
+ 2120 002f 02       		.uleb128 0x2
+ 2121 0030 01       		.byte	0x1
+ 2122 0031 08       		.byte	0x8
+ 2123 0032 16000000 		.4byte	.LASF1
+ 2124 0036 02       		.uleb128 0x2
+ 2125 0037 02       		.byte	0x2
+ 2126 0038 05       		.byte	0x5
+ 2127 0039 5F010000 		.4byte	.LASF2
+ 2128 003d 02       		.uleb128 0x2
+ 2129 003e 02       		.byte	0x2
+ 2130 003f 07       		.byte	0x7
+ 2131 0040 C4000000 		.4byte	.LASF3
+ 2132 0044 02       		.uleb128 0x2
+ 2133 0045 04       		.byte	0x4
+ 2134 0046 05       		.byte	0x5
+ 2135 0047 69010000 		.4byte	.LASF4
+ 2136 004b 02       		.uleb128 0x2
+ 2137 004c 04       		.byte	0x4
+ 2138 004d 07       		.byte	0x7
+ 2139 004e B2000000 		.4byte	.LASF5
+ 2140 0052 02       		.uleb128 0x2
+ 2141 0053 08       		.byte	0x8
+ 2142 0054 05       		.byte	0x5
+ 2143 0055 51010000 		.4byte	.LASF6
+ 2144 0059 02       		.uleb128 0x2
+ 2145 005a 08       		.byte	0x8
+ 2146 005b 07       		.byte	0x7
+ 2147 005c 06010000 		.4byte	.LASF7
+ 2148 0060 04       		.uleb128 0x4
+ 2149 0061 04       		.byte	0x4
+ 2150 0062 05       		.byte	0x5
+ 2151 0063 696E7400 		.ascii	"int\000"
+ 2152 0067 02       		.uleb128 0x2
+ 2153 0068 04       		.byte	0x4
+ 2154 0069 07       		.byte	0x7
+ 2155 006a F9000000 		.4byte	.LASF8
+ 2156 006e 03       		.uleb128 0x3
+ 2157 006f 1D010000 		.4byte	.LASF10
+ 2158 0073 02       		.byte	0x2
+ 2159 0074 18       		.byte	0x18
+ 2160 0075 24000000 		.4byte	0x24
+ 2161 0079 05       		.uleb128 0x5
+ 2162 007a 91000000 		.4byte	0x91
+ARM GAS  C:\Users\MECHAT~1\AppData\Local\Temp\cckDkNiZ.s 			page 39
+
+
+ 2163 007e 8A000000 		.4byte	0x8a
+ 2164 0082 06       		.uleb128 0x6
+ 2165 0083 8A000000 		.4byte	0x8a
+ 2166 0087 E707     		.2byte	0x7e7
+ 2167 0089 00       		.byte	0
+ 2168 008a 02       		.uleb128 0x2
+ 2169 008b 04       		.byte	0x4
+ 2170 008c 07       		.byte	0x7
+ 2171 008d 48010000 		.4byte	.LASF11
+ 2172 0091 07       		.uleb128 0x7
+ 2173 0092 6E000000 		.4byte	0x6e
+ 2174 0096 08       		.uleb128 0x8
+ 2175 0097 E7000000 		.4byte	.LASF12
+ 2176 009b 03       		.byte	0x3
+ 2177 009c 1F       		.byte	0x1f
+ 2178 009d A7000000 		.4byte	0xa7
+ 2179 00a1 05       		.uleb128 0x5
+ 2180 00a2 03       		.byte	0x3
+ 2181 00a3 00000000 		.4byte	cy_meta_configecc
+ 2182 00a7 07       		.uleb128 0x7
+ 2183 00a8 79000000 		.4byte	0x79
+ 2184 00ac 05       		.uleb128 0x5
+ 2185 00ad 91000000 		.4byte	0x91
+ 2186 00b1 BC000000 		.4byte	0xbc
+ 2187 00b5 09       		.uleb128 0x9
+ 2188 00b6 8A000000 		.4byte	0x8a
+ 2189 00ba 03       		.byte	0x3
+ 2190 00bb 00       		.byte	0
+ 2191 00bc 0A       		.uleb128 0xa
+ 2192 00bd D7000000 		.4byte	.LASF13
+ 2193 00c1 03       		.byte	0x3
+ 2194 00c2 2901     		.2byte	0x129
+ 2195 00c4 CE000000 		.4byte	0xce
+ 2196 00c8 05       		.uleb128 0x5
+ 2197 00c9 03       		.byte	0x3
+ 2198 00ca 00000000 		.4byte	cy_meta_custnvl
+ 2199 00ce 07       		.uleb128 0x7
+ 2200 00cf AC000000 		.4byte	0xac
+ 2201 00d3 0A       		.uleb128 0xa
+ 2202 00d4 3A010000 		.4byte	.LASF14
+ 2203 00d8 03       		.byte	0x3
+ 2204 00d9 3701     		.2byte	0x137
+ 2205 00db E5000000 		.4byte	0xe5
+ 2206 00df 05       		.uleb128 0x5
+ 2207 00e0 03       		.byte	0x3
+ 2208 00e1 00000000 		.4byte	cy_meta_wonvl
+ 2209 00e5 07       		.uleb128 0x7
+ 2210 00e6 AC000000 		.4byte	0xac
+ 2211 00ea 05       		.uleb128 0x5
+ 2212 00eb 91000000 		.4byte	0x91
+ 2213 00ef FA000000 		.4byte	0xfa
+ 2214 00f3 09       		.uleb128 0x9
+ 2215 00f4 8A000000 		.4byte	0x8a
+ 2216 00f8 FF       		.byte	0xff
+ 2217 00f9 00       		.byte	0
+ 2218 00fa 0A       		.uleb128 0xa
+ 2219 00fb 25010000 		.4byte	.LASF15
+ARM GAS  C:\Users\MECHAT~1\AppData\Local\Temp\cckDkNiZ.s 			page 40
+
+
+ 2220 00ff 03       		.byte	0x3
+ 2221 0100 4501     		.2byte	0x145
+ 2222 0102 0C010000 		.4byte	0x10c
+ 2223 0106 05       		.uleb128 0x5
+ 2224 0107 03       		.byte	0x3
+ 2225 0108 00000000 		.4byte	cy_meta_flashprotect
+ 2226 010c 07       		.uleb128 0x7
+ 2227 010d EA000000 		.4byte	0xea
+ 2228 0111 05       		.uleb128 0x5
+ 2229 0112 91000000 		.4byte	0x91
+ 2230 0116 21010000 		.4byte	0x121
+ 2231 011a 09       		.uleb128 0x9
+ 2232 011b 8A000000 		.4byte	0x8a
+ 2233 011f 0B       		.byte	0xb
+ 2234 0120 00       		.byte	0
+ 2235 0121 0A       		.uleb128 0xa
+ 2236 0122 0A000000 		.4byte	.LASF16
+ 2237 0126 03       		.byte	0x3
+ 2238 0127 7201     		.2byte	0x172
+ 2239 0129 33010000 		.4byte	0x133
+ 2240 012d 05       		.uleb128 0x5
+ 2241 012e 03       		.byte	0x3
+ 2242 012f 00000000 		.4byte	cy_metadata
+ 2243 0133 07       		.uleb128 0x7
+ 2244 0134 11010000 		.4byte	0x111
+ 2245 0138 00       		.byte	0
+ 2246              		.section	.debug_abbrev,"",%progbits
+ 2247              	.Ldebug_abbrev0:
+ 2248 0000 01       		.uleb128 0x1
+ 2249 0001 11       		.uleb128 0x11
+ 2250 0002 01       		.byte	0x1
+ 2251 0003 25       		.uleb128 0x25
+ 2252 0004 0E       		.uleb128 0xe
+ 2253 0005 13       		.uleb128 0x13
+ 2254 0006 0B       		.uleb128 0xb
+ 2255 0007 03       		.uleb128 0x3
+ 2256 0008 0E       		.uleb128 0xe
+ 2257 0009 1B       		.uleb128 0x1b
+ 2258 000a 0E       		.uleb128 0xe
+ 2259 000b 10       		.uleb128 0x10
+ 2260 000c 17       		.uleb128 0x17
+ 2261 000d 00       		.byte	0
+ 2262 000e 00       		.byte	0
+ 2263 000f 02       		.uleb128 0x2
+ 2264 0010 24       		.uleb128 0x24
+ 2265 0011 00       		.byte	0
+ 2266 0012 0B       		.uleb128 0xb
+ 2267 0013 0B       		.uleb128 0xb
+ 2268 0014 3E       		.uleb128 0x3e
+ 2269 0015 0B       		.uleb128 0xb
+ 2270 0016 03       		.uleb128 0x3
+ 2271 0017 0E       		.uleb128 0xe
+ 2272 0018 00       		.byte	0
+ 2273 0019 00       		.byte	0
+ 2274 001a 03       		.uleb128 0x3
+ 2275 001b 16       		.uleb128 0x16
+ 2276 001c 00       		.byte	0
+ARM GAS  C:\Users\MECHAT~1\AppData\Local\Temp\cckDkNiZ.s 			page 41
+
+
+ 2277 001d 03       		.uleb128 0x3
+ 2278 001e 0E       		.uleb128 0xe
+ 2279 001f 3A       		.uleb128 0x3a
+ 2280 0020 0B       		.uleb128 0xb
+ 2281 0021 3B       		.uleb128 0x3b
+ 2282 0022 0B       		.uleb128 0xb
+ 2283 0023 49       		.uleb128 0x49
+ 2284 0024 13       		.uleb128 0x13
+ 2285 0025 00       		.byte	0
+ 2286 0026 00       		.byte	0
+ 2287 0027 04       		.uleb128 0x4
+ 2288 0028 24       		.uleb128 0x24
+ 2289 0029 00       		.byte	0
+ 2290 002a 0B       		.uleb128 0xb
+ 2291 002b 0B       		.uleb128 0xb
+ 2292 002c 3E       		.uleb128 0x3e
+ 2293 002d 0B       		.uleb128 0xb
+ 2294 002e 03       		.uleb128 0x3
+ 2295 002f 08       		.uleb128 0x8
+ 2296 0030 00       		.byte	0
+ 2297 0031 00       		.byte	0
+ 2298 0032 05       		.uleb128 0x5
+ 2299 0033 01       		.uleb128 0x1
+ 2300 0034 01       		.byte	0x1
+ 2301 0035 49       		.uleb128 0x49
+ 2302 0036 13       		.uleb128 0x13
+ 2303 0037 01       		.uleb128 0x1
+ 2304 0038 13       		.uleb128 0x13
+ 2305 0039 00       		.byte	0
+ 2306 003a 00       		.byte	0
+ 2307 003b 06       		.uleb128 0x6
+ 2308 003c 21       		.uleb128 0x21
+ 2309 003d 00       		.byte	0
+ 2310 003e 49       		.uleb128 0x49
+ 2311 003f 13       		.uleb128 0x13
+ 2312 0040 2F       		.uleb128 0x2f
+ 2313 0041 05       		.uleb128 0x5
+ 2314 0042 00       		.byte	0
+ 2315 0043 00       		.byte	0
+ 2316 0044 07       		.uleb128 0x7
+ 2317 0045 26       		.uleb128 0x26
+ 2318 0046 00       		.byte	0
+ 2319 0047 49       		.uleb128 0x49
+ 2320 0048 13       		.uleb128 0x13
+ 2321 0049 00       		.byte	0
+ 2322 004a 00       		.byte	0
+ 2323 004b 08       		.uleb128 0x8
+ 2324 004c 34       		.uleb128 0x34
+ 2325 004d 00       		.byte	0
+ 2326 004e 03       		.uleb128 0x3
+ 2327 004f 0E       		.uleb128 0xe
+ 2328 0050 3A       		.uleb128 0x3a
+ 2329 0051 0B       		.uleb128 0xb
+ 2330 0052 3B       		.uleb128 0x3b
+ 2331 0053 0B       		.uleb128 0xb
+ 2332 0054 49       		.uleb128 0x49
+ 2333 0055 13       		.uleb128 0x13
+ARM GAS  C:\Users\MECHAT~1\AppData\Local\Temp\cckDkNiZ.s 			page 42
+
+
+ 2334 0056 3F       		.uleb128 0x3f
+ 2335 0057 19       		.uleb128 0x19
+ 2336 0058 02       		.uleb128 0x2
+ 2337 0059 18       		.uleb128 0x18
+ 2338 005a 00       		.byte	0
+ 2339 005b 00       		.byte	0
+ 2340 005c 09       		.uleb128 0x9
+ 2341 005d 21       		.uleb128 0x21
+ 2342 005e 00       		.byte	0
+ 2343 005f 49       		.uleb128 0x49
+ 2344 0060 13       		.uleb128 0x13
+ 2345 0061 2F       		.uleb128 0x2f
+ 2346 0062 0B       		.uleb128 0xb
+ 2347 0063 00       		.byte	0
+ 2348 0064 00       		.byte	0
+ 2349 0065 0A       		.uleb128 0xa
+ 2350 0066 34       		.uleb128 0x34
+ 2351 0067 00       		.byte	0
+ 2352 0068 03       		.uleb128 0x3
+ 2353 0069 0E       		.uleb128 0xe
+ 2354 006a 3A       		.uleb128 0x3a
+ 2355 006b 0B       		.uleb128 0xb
+ 2356 006c 3B       		.uleb128 0x3b
+ 2357 006d 05       		.uleb128 0x5
+ 2358 006e 49       		.uleb128 0x49
+ 2359 006f 13       		.uleb128 0x13
+ 2360 0070 3F       		.uleb128 0x3f
+ 2361 0071 19       		.uleb128 0x19
+ 2362 0072 02       		.uleb128 0x2
+ 2363 0073 18       		.uleb128 0x18
+ 2364 0074 00       		.byte	0
+ 2365 0075 00       		.byte	0
+ 2366 0076 00       		.byte	0
+ 2367              		.section	.debug_aranges,"",%progbits
+ 2368 0000 14000000 		.4byte	0x14
+ 2369 0004 0200     		.2byte	0x2
+ 2370 0006 00000000 		.4byte	.Ldebug_info0
+ 2371 000a 04       		.byte	0x4
+ 2372 000b 00       		.byte	0
+ 2373 000c 0000     		.2byte	0
+ 2374 000e 0000     		.2byte	0
+ 2375 0010 00000000 		.4byte	0
+ 2376 0014 00000000 		.4byte	0
+ 2377              		.section	.debug_line,"",%progbits
+ 2378              	.Ldebug_line0:
+ 2379 0000 3D010000 		.section	.debug_str,"MS",%progbits,1
+ 2379      02003701 
+ 2379      00000201 
+ 2379      FB0E0D00 
+ 2379      01010101 
+ 2380              	.LASF9:
+ 2381 0000 5F5F7569 		.ascii	"__uint8_t\000"
+ 2381      6E74385F 
+ 2381      7400
+ 2382              	.LASF16:
+ 2383 000a 63795F6D 		.ascii	"cy_metadata\000"
+ 2383      65746164 
+ARM GAS  C:\Users\MECHAT~1\AppData\Local\Temp\cckDkNiZ.s 			page 43
+
+
+ 2383      61746100 
+ 2384              	.LASF1:
+ 2385 0016 756E7369 		.ascii	"unsigned char\000"
+ 2385      676E6564 
+ 2385      20636861 
+ 2385      7200
+ 2386              	.LASF17:
+ 2387 0024 474E5520 		.ascii	"GNU C11 5.4.1 20160609 (release) [ARM/embedded-5-br"
+ 2387      43313120 
+ 2387      352E342E 
+ 2387      31203230 
+ 2387      31363036 
+ 2388 0057 616E6368 		.ascii	"anch revision 237715] -mcpu=cortex-m3 -mthumb -g -O"
+ 2388      20726576 
+ 2388      6973696F 
+ 2388      6E203233 
+ 2388      37373135 
+ 2389 008a 67202D66 		.ascii	"g -ffunction-sections -ffat-lto-objects\000"
+ 2389      66756E63 
+ 2389      74696F6E 
+ 2389      2D736563 
+ 2389      74696F6E 
+ 2390              	.LASF5:
+ 2391 00b2 6C6F6E67 		.ascii	"long unsigned int\000"
+ 2391      20756E73 
+ 2391      69676E65 
+ 2391      6420696E 
+ 2391      7400
+ 2392              	.LASF3:
+ 2393 00c4 73686F72 		.ascii	"short unsigned int\000"
+ 2393      7420756E 
+ 2393      7369676E 
+ 2393      65642069 
+ 2393      6E7400
+ 2394              	.LASF13:
+ 2395 00d7 63795F6D 		.ascii	"cy_meta_custnvl\000"
+ 2395      6574615F 
+ 2395      63757374 
+ 2395      6E766C00 
+ 2396              	.LASF12:
+ 2397 00e7 63795F6D 		.ascii	"cy_meta_configecc\000"
+ 2397      6574615F 
+ 2397      636F6E66 
+ 2397      69676563 
+ 2397      6300
+ 2398              	.LASF8:
+ 2399 00f9 756E7369 		.ascii	"unsigned int\000"
+ 2399      676E6564 
+ 2399      20696E74 
+ 2399      00
+ 2400              	.LASF7:
+ 2401 0106 6C6F6E67 		.ascii	"long long unsigned int\000"
+ 2401      206C6F6E 
+ 2401      6720756E 
+ 2401      7369676E 
+ 2401      65642069 
+ 2402              	.LASF10:
+ARM GAS  C:\Users\MECHAT~1\AppData\Local\Temp\cckDkNiZ.s 			page 44
+
+
+ 2403 011d 75696E74 		.ascii	"uint8_t\000"
+ 2403      385F7400 
+ 2404              	.LASF15:
+ 2405 0125 63795F6D 		.ascii	"cy_meta_flashprotect\000"
+ 2405      6574615F 
+ 2405      666C6173 
+ 2405      6870726F 
+ 2405      74656374 
+ 2406              	.LASF14:
+ 2407 013a 63795F6D 		.ascii	"cy_meta_wonvl\000"
+ 2407      6574615F 
+ 2407      776F6E76 
+ 2407      6C00
+ 2408              	.LASF11:
+ 2409 0148 73697A65 		.ascii	"sizetype\000"
+ 2409      74797065 
+ 2409      00
+ 2410              	.LASF6:
+ 2411 0151 6C6F6E67 		.ascii	"long long int\000"
+ 2411      206C6F6E 
+ 2411      6720696E 
+ 2411      7400
+ 2412              	.LASF2:
+ 2413 015f 73686F72 		.ascii	"short int\000"
+ 2413      7420696E 
+ 2413      7400
+ 2414              	.LASF4:
+ 2415 0169 6C6F6E67 		.ascii	"long int\000"
+ 2415      20696E74 
+ 2415      00
+ 2416              	.LASF0:
+ 2417 0172 7369676E 		.ascii	"signed char\000"
+ 2417      65642063 
+ 2417      68617200 
+ 2418              	.LASF19:
+ 2419 017e 433A5C55 		.ascii	"C:\\Users\\mechatoro\\Documents\\PSoC Creator\\rota"
+ 2419      73657273 
+ 2419      5C6D6563 
+ 2419      6861746F 
+ 2419      726F5C44 
+ 2420 01ac 72795F65 		.ascii	"ry_enc_hard\\rotary_enc_hard.cydsn\000"
+ 2420      6E635F68 
+ 2420      6172645C 
+ 2420      726F7461 
+ 2420      72795F65 
+ 2421              	.LASF18:
+ 2422 01ce 47656E65 		.ascii	"Generated_Source\\PSoC5\\cymetadata.c\000"
+ 2422      72617465 
+ 2422      645F536F 
+ 2422      75726365 
+ 2422      5C50536F 
+ 2423              		.ident	"GCC: (GNU Tools for ARM Embedded Processors) 5.4.1 20160609 (release) [ARM/embedded-5-bran
