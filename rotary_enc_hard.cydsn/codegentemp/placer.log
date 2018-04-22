@@ -6,7 +6,11 @@
 
 #Build Date:         Jul 19 2017 14:31:00
 
+<<<<<<< HEAD
 #File Generated:     Apr 19 2018 12:16:06
+=======
+#File Generated:     Apr 22 2018 09:57:15
+>>>>>>> bde16a60fc9443ec2d8f488d376a61c4e0b16aa3
 
 #Purpose:            
 
@@ -44,18 +48,32 @@ Phase 2
 Phase 3
 
 Design Statistics after Packing
+<<<<<<< HEAD
     Number of Combinational MCs 	:	18
     Number of Sequential MCs    	:	33
     Number of DPs               	:	7
     Number of Controls          	:	3
     Number of Status            	:	5
+=======
+    Number of Combinational MCs 	:	28
+    Number of Sequential MCs    	:	50
+    Number of DPs               	:	11
+    Number of Controls          	:	5
+    Number of Status            	:	8
+>>>>>>> bde16a60fc9443ec2d8f488d376a61c4e0b16aa3
     Number of SyncCells         	:	0
     Number of count7cells       	:	1
 
 Device Utilization Summary after Packing
+<<<<<<< HEAD
     Macrocells                  :	51/192
     UDBS                        :	10/24
     IOs                         :	7/72
+=======
+    Macrocells                  :	78/192
+    UDBS                        :	16/24
+    IOs                         :	10/72
+>>>>>>> bde16a60fc9443ec2d8f488d376a61c4e0b16aa3
 
 
 D2088: Phase 3, elapsed time : 0.0 (sec)
@@ -80,16 +98,28 @@ analysis after routing.
                      Clock Summary 
 ======================================================================
 Number of clocks: 10
+<<<<<<< HEAD
 Clock: Clock_1              | Frequency:  40.7 MHz | Target:   3.0 MHz
 Clock: Clock_2              | Frequency: N/A       | Target:   0.0 MHz
 Clock: Clock_2(routed)      | Frequency: N/A       | Target:   0.0 MHz
 Clock: Clock_3              | Frequency:  59.7 MHz | Target:   0.1 MHz
 Clock: CyBUS_CLK            | Frequency:  56.0 MHz | Target:  24.0 MHz
+=======
+Clock: Clock_1              | Frequency:  42.6 MHz | Target:   3.0 MHz
+Clock: Clock_2              | Frequency: N/A       | Target:   0.0 MHz
+Clock: Clock_2(routed)      | Frequency: N/A       | Target:   0.0 MHz
+Clock: Clock_3              | Frequency:  59.7 MHz | Target:   0.1 MHz
+Clock: CyBUS_CLK            | Frequency:  45.4 MHz | Target:  24.0 MHz
+>>>>>>> bde16a60fc9443ec2d8f488d376a61c4e0b16aa3
 Clock: CyILO                | Frequency: N/A       | Target:   0.1 MHz
 Clock: CyIMO                | Frequency: N/A       | Target:  24.0 MHz
 Clock: CyMASTER_CLK         | Frequency: N/A       | Target:  24.0 MHz
 Clock: CyPLL_OUT            | Frequency: N/A       | Target:  24.0 MHz
+<<<<<<< HEAD
 Clock: UART_IntClock        | Frequency:  46.9 MHz | Target:   0.1 MHz
+=======
+Clock: UART_IntClock        | Frequency:  39.7 MHz | Target:   0.1 MHz
+>>>>>>> bde16a60fc9443ec2d8f488d376a61c4e0b16aa3
 
 ======================================================================
                      End of Clock Summary
@@ -102,7 +132,11 @@ Phase 7
                      Clock Summary 
 ======================================================================
 Number of clocks: 10
+<<<<<<< HEAD
 Clock: Clock_1              | Frequency:  38.0 MHz | Target:   3.0 MHz
+=======
+Clock: Clock_1              | Frequency:  37.2 MHz | Target:   3.0 MHz
+>>>>>>> bde16a60fc9443ec2d8f488d376a61c4e0b16aa3
 Clock: Clock_2              | Frequency: N/A       | Target:   0.0 MHz
 Clock: Clock_2(routed)      | Frequency: N/A       | Target:   0.0 MHz
 Clock: Clock_3              | Frequency:  59.7 MHz | Target:   0.1 MHz
@@ -116,6 +150,7 @@ Clock: UART_IntClock        | Frequency:   1.4 MHz | Target:   0.1 MHz
 ======================================================================
                      End of Clock Summary
 ######################################################################
+<<<<<<< HEAD
 D2088: Phase 7, elapsed time : 1.0 (sec)
 
 Final Design Statistics
@@ -131,6 +166,23 @@ Final Design Statistics
 Device Utilization Summary
     Macrocells                  :	51/192
     IOs                         :	7/72
+=======
+D2088: Phase 7, elapsed time : 1.5 (sec)
+
+Final Design Statistics
+    Number of Combinational MCs 	:	28
+    Number of Sequential MCs    	:	50
+    Number of DPs               	:	11
+    Number of Controls          	:	5
+    Number of Status            	:	8
+    Number of SyncCells         	:	0
+    Number of count7cells       	:	1
+    Number of IOs       	:	10
+
+Device Utilization Summary
+    Macrocells                  :	78/192
+    IOs                         :	10/72
+>>>>>>> bde16a60fc9443ec2d8f488d376a61c4e0b16aa3
 
 
 
@@ -147,16 +199,28 @@ analysis after routing.
                      Clock Summary 
 ======================================================================
 Number of clocks: 10
+<<<<<<< HEAD
 Clock: Clock_1              | Frequency:  41.7 MHz | Target:   3.0 MHz
 Clock: Clock_2              | Frequency: N/A       | Target:   0.0 MHz
 Clock: Clock_2(routed)      | Frequency: N/A       | Target:   0.0 MHz
 Clock: Clock_3              | Frequency:  59.7 MHz | Target:   0.1 MHz
 Clock: CyBUS_CLK            | Frequency:   1.4 MHz | Target:  24.0 MHz
+=======
+Clock: Clock_1              | Frequency:  28.1 MHz | Target:   3.0 MHz
+Clock: Clock_2              | Frequency: N/A       | Target:   0.0 MHz
+Clock: Clock_2(routed)      | Frequency: N/A       | Target:   0.0 MHz
+Clock: Clock_3              | Frequency:  53.1 MHz | Target:   0.1 MHz
+Clock: CyBUS_CLK            | Frequency:   1.5 MHz | Target:  24.0 MHz
+>>>>>>> bde16a60fc9443ec2d8f488d376a61c4e0b16aa3
 Clock: CyILO                | Frequency: N/A       | Target:   0.1 MHz
 Clock: CyIMO                | Frequency: N/A       | Target:  24.0 MHz
 Clock: CyMASTER_CLK         | Frequency: N/A       | Target:  24.0 MHz
 Clock: CyPLL_OUT            | Frequency: N/A       | Target:  24.0 MHz
+<<<<<<< HEAD
 Clock: UART_IntClock        | Frequency:   1.4 MHz | Target:   0.1 MHz
+=======
+Clock: UART_IntClock        | Frequency:   1.5 MHz | Target:   0.1 MHz
+>>>>>>> bde16a60fc9443ec2d8f488d376a61c4e0b16aa3
 
 ======================================================================
                      End of Clock Summary
@@ -167,5 +231,9 @@ D2088: Phase 8, elapsed time : 0.0 (sec)
 
 D2054: Placement of the design completed successfully
 
+<<<<<<< HEAD
 I2076: Total run-time: 2.2 sec.
+=======
+I2076: Total run-time: 2.5 sec.
+>>>>>>> bde16a60fc9443ec2d8f488d376a61c4e0b16aa3
 

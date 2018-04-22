@@ -1,6 +1,15 @@
+<<<<<<< HEAD
 C:\Users\mechatoro\Documents\PSoC Creator\rotary_enc_hard\rotary_enc_hard.cydsn\rotary_enc_hard.cyprj|a0d464ff-244a-4600-9d4f-0430a5de3afa
 C:\Program Files (x86)\Cypress\PSoC Creator\4.1\PSoC Creator\psoc\content\default\CyAnnotationLibrary\CyAnnotationLibrary.cylib\CyAnnotationLibrary.cyprj|fd71a806-e7a2-4e86-b55c-2a0e8b69f59c
 C:\Users\mechatoro\Documents\PSoC Creator\4.1\Downloads ( 4.1).cylib\Downloads ( 4.1).cyprj|268db71b-d226-45ef-8240-0f77863415fa
 C:\Program Files (x86)\Cypress\PSoC Creator\4.1\PSoC Creator\psoc\content\cycomponentlibraryupdates\CyComponentLibraryUpdates.cylib\CyComponentLibraryUpdates.cyprj|26e44513-feda-45b4-b68d-92b9ec6b34f9
 C:\Program Files (x86)\Cypress\PSoC Creator\4.1\PSoC Creator\psoc\content\cycomponentlibrary\CyComponentLibrary.cylib\CyComponentLibrary.cyprj|dc32a4b7-4d2d-4e08-991b-177d0340cc4e
 C:\Program Files (x86)\Cypress\PSoC Creator\4.1\PSoC Creator\psoc\content\cyprimitives\CyPrimitives.cylib\CyPrimitives.cyprj|08098af9-46f3-4da9-8011-4cdc5a9fd027
+=======
+C:\Users\mechatoro\Documents\PSoC Creator\rotary_enc_hard_for_git\PSoC_rotaryenc_PI\rotary_enc_hard.cydsn\rotary_enc_hard.cyprj|81e864d9-8c8c-4d23-bf0c-5c39900645a0
+C:\Program Files (x86)\Cypress\PSoC Creator\4.1\PSoC Creator\psoc\content\default\CyAnnotationLibrary\CyAnnotationLibrary.cylib\CyAnnotationLibrary.cyprj|dba00810-e94a-4b09-8e07-ba448897cc21
+C:\Users\mechatoro\Documents\PSoC Creator\4.1\Downloads ( 4.1).cylib\Downloads ( 4.1).cyprj|b80baf29-a107-420e-a254-000209199fab
+C:\Program Files (x86)\Cypress\PSoC Creator\4.1\PSoC Creator\psoc\content\cycomponentlibraryupdates\CyComponentLibraryUpdates.cylib\CyComponentLibraryUpdates.cyprj|e6c3ab2f-f569-4413-b19e-5bc5bc79f934
+C:\Program Files (x86)\Cypress\PSoC Creator\4.1\PSoC Creator\psoc\content\cycomponentlibrary\CyComponentLibrary.cylib\CyComponentLibrary.cyprj|08c70401-8126-4399-9f56-3b6241d4a98f
+C:\Program Files (x86)\Cypress\PSoC Creator\4.1\PSoC Creator\psoc\content\cyprimitives\CyPrimitives.cylib\CyPrimitives.cyprj|ec660227-adff-45d8-9999-9c4214d98b94
+>>>>>>> bde16a60fc9443ec2d8f488d376a61c4e0b16aa3

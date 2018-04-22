@@ -25,7 +25,7 @@
       <Tool Name="postbuild" Command="" Options="" />
     </Toolchain>
   </Toolchains>
-  <Project Name="rotary_enc_hard" Path="C:\Users\mechatoro\Documents\PSoC Creator\rotary_enc_hard\rotary_enc_hard.cydsn" Version="5.60" Type="Normal">
+  <Project Name="rotary_enc_hard" Path="C:\Users\mechatoro\Documents\PSoC Creator\rotary_enc_hard_for_git\PSoC_rotaryenc_PI\rotary_enc_hard.cydsn" Version="5.60" Type="Normal">
     <CMSIS_SVD_File>rotary_enc_hard.svd</CMSIS_SVD_File>
     <Datasheet />
     <LinkerFiles>
@@ -34,14 +34,14 @@
       <LinkerFile Toolchain="ARM IAR Generic">.\Generated_Source\PSoC5\Cm3Iar.icf</LinkerFile>
     </LinkerFiles>
     <Folders>
-      <Folder BuildType="STRICT" Path="C:\Users\mechatoro\Documents\PSoC Creator\rotary_enc_hard\rotary_enc_hard.cydsn">
-        <Files Root="C:\Users\mechatoro\Documents\PSoC Creator\rotary_enc_hard\rotary_enc_hard.cydsn">
+      <Folder BuildType="STRICT" Path="C:\Users\mechatoro\Documents\PSoC Creator\rotary_enc_hard_for_git\PSoC_rotaryenc_PI\rotary_enc_hard.cydsn">
+        <Files Root="C:\Users\mechatoro\Documents\PSoC Creator\rotary_enc_hard_for_git\PSoC_rotaryenc_PI\rotary_enc_hard.cydsn">
           <File BuildType="BUILD" Toolchain="">main.c</File>
           <File BuildType="BUILD" Toolchain="">cyapicallbacks.h</File>
         </Files>
       </Folder>
-      <Folder BuildType="STRICT" Path="C:\Users\mechatoro\Documents\PSoC Creator\rotary_enc_hard\rotary_enc_hard.cydsn\Generated_Source\PSoC5">
-        <Files Root="C:\Users\mechatoro\Documents\PSoC Creator\rotary_enc_hard\rotary_enc_hard.cydsn">
+      <Folder BuildType="STRICT" Path="C:\Users\mechatoro\Documents\PSoC Creator\rotary_enc_hard_for_git\PSoC_rotaryenc_PI\rotary_enc_hard.cydsn\Generated_Source\PSoC5">
+        <Files Root="C:\Users\mechatoro\Documents\PSoC Creator\rotary_enc_hard_for_git\PSoC_rotaryenc_PI\rotary_enc_hard.cydsn">
           <File BuildType="BUILD" Toolchain="">Generated_Source\PSoC5\cyfitter_cfg.h</File>
           <File BuildType="BUILD" Toolchain="">Generated_Source\PSoC5\cyfitter_cfg.c</File>
           <File BuildType="BUILD" Toolchain="">Generated_Source\PSoC5\cymetadata.c</File>
@@ -58,11 +58,9 @@
           <File BuildType="BUILD" Toolchain="">Generated_Source\PSoC5\cyfitteriar.inc</File>
           <File BuildType="BUILD" Toolchain="">Generated_Source\PSoC5\cyfitter.h</File>
           <File BuildType="BUILD" Toolchain="">Generated_Source\PSoC5\cydisabledsheets.h</File>
-          <File BuildType="BUILD" Toolchain="">Generated_Source\PSoC5\QuadDec.c</File>
-          <File BuildType="BUILD" Toolchain="">Generated_Source\PSoC5\QuadDec.h</File>
-          <File BuildType="BUILD" Toolchain="">Generated_Source\PSoC5\QuadDec_PM.c</File>
           <File BuildType="BUILD" Toolchain="">Generated_Source\PSoC5\Clock_1.c</File>
           <File BuildType="BUILD" Toolchain="">Generated_Source\PSoC5\Clock_1.h</File>
+<<<<<<< HEAD
           <File BuildType="BUILD" Toolchain="">Generated_Source\PSoC5\enc_a_aliases.h</File>
           <File BuildType="BUILD" Toolchain="">Generated_Source\PSoC5\enc_a.c</File>
           <File BuildType="BUILD" Toolchain="">Generated_Source\PSoC5\enc_a.h</File>
@@ -72,6 +70,8 @@
           <File BuildType="BUILD" Toolchain="">Generated_Source\PSoC5\QuadDec_Cnt16.c</File>
           <File BuildType="BUILD" Toolchain="">Generated_Source\PSoC5\QuadDec_Cnt16.h</File>
           <File BuildType="BUILD" Toolchain="">Generated_Source\PSoC5\QuadDec_Cnt16_PM.c</File>
+=======
+>>>>>>> bde16a60fc9443ec2d8f488d376a61c4e0b16aa3
           <File BuildType="BUILD" Toolchain="ARM GCC Generic">Generated_Source\PSoC5\cm3gcc.ld</File>
           <File BuildType="BUILD" Toolchain="ARM MDK Generic">Generated_Source\PSoC5\Cm3RealView.scat</File>
           <File BuildType="BUILD" Toolchain="">Generated_Source\PSoC5\Cm3Start.c</File>
@@ -135,14 +135,14 @@
           <File BuildType="BUILD" Toolchain="">Generated_Source\PSoC5\USBUART_Dp_aliases.h</File>
           <File BuildType="BUILD" Toolchain="">Generated_Source\PSoC5\USBUART_Dp.c</File>
           <File BuildType="BUILD" Toolchain="">Generated_Source\PSoC5\USBUART_Dp.h</File>
-          <File BuildType="BUILD" Toolchain="">Generated_Source\PSoC5\PWM.c</File>
-          <File BuildType="BUILD" Toolchain="">Generated_Source\PSoC5\PWM.h</File>
-          <File BuildType="BUILD" Toolchain="">Generated_Source\PSoC5\PWM_PM.c</File>
           <File BuildType="BUILD" Toolchain="">Generated_Source\PSoC5\Clock_3.c</File>
           <File BuildType="BUILD" Toolchain="">Generated_Source\PSoC5\Clock_3.h</File>
+<<<<<<< HEAD
           <File BuildType="BUILD" Toolchain="">Generated_Source\PSoC5\Pin_1_aliases.h</File>
           <File BuildType="BUILD" Toolchain="">Generated_Source\PSoC5\Pin_1.c</File>
           <File BuildType="BUILD" Toolchain="">Generated_Source\PSoC5\Pin_1.h</File>
+=======
+>>>>>>> bde16a60fc9443ec2d8f488d376a61c4e0b16aa3
           <File BuildType="BUILD" Toolchain="">Generated_Source\PSoC5\UART.c</File>
           <File BuildType="BUILD" Toolchain="">Generated_Source\PSoC5\UART.h</File>
           <File BuildType="BUILD" Toolchain="">Generated_Source\PSoC5\UART_PM.c</File>
@@ -150,52 +150,91 @@
           <File BuildType="BUILD" Toolchain="">Generated_Source\PSoC5\UART_BOOT.c</File>
           <File BuildType="BUILD" Toolchain="">Generated_Source\PSoC5\UART_IntClock.c</File>
           <File BuildType="BUILD" Toolchain="">Generated_Source\PSoC5\UART_IntClock.h</File>
+<<<<<<< HEAD
+=======
+          <File BuildType="BUILD" Toolchain="">Generated_Source\PSoC5\QuadDec_L.c</File>
+          <File BuildType="BUILD" Toolchain="">Generated_Source\PSoC5\QuadDec_L.h</File>
+          <File BuildType="BUILD" Toolchain="">Generated_Source\PSoC5\QuadDec_L_PM.c</File>
+          <File BuildType="BUILD" Toolchain="">Generated_Source\PSoC5\enc_a_L_aliases.h</File>
+          <File BuildType="BUILD" Toolchain="">Generated_Source\PSoC5\enc_a_L.c</File>
+          <File BuildType="BUILD" Toolchain="">Generated_Source\PSoC5\enc_a_L.h</File>
+          <File BuildType="BUILD" Toolchain="">Generated_Source\PSoC5\enc_b_L_aliases.h</File>
+          <File BuildType="BUILD" Toolchain="">Generated_Source\PSoC5\enc_b_L.c</File>
+          <File BuildType="BUILD" Toolchain="">Generated_Source\PSoC5\enc_b_L.h</File>
+          <File BuildType="BUILD" Toolchain="">Generated_Source\PSoC5\PWM_L.c</File>
+          <File BuildType="BUILD" Toolchain="">Generated_Source\PSoC5\PWM_L.h</File>
+          <File BuildType="BUILD" Toolchain="">Generated_Source\PSoC5\PWM_L_PM.c</File>
+          <File BuildType="BUILD" Toolchain="">Generated_Source\PSoC5\PWM_Pin_L_aliases.h</File>
+          <File BuildType="BUILD" Toolchain="">Generated_Source\PSoC5\PWM_Pin_L.c</File>
+          <File BuildType="BUILD" Toolchain="">Generated_Source\PSoC5\PWM_Pin_L.h</File>
+          <File BuildType="BUILD" Toolchain="">Generated_Source\PSoC5\QuadDec_R.c</File>
+          <File BuildType="BUILD" Toolchain="">Generated_Source\PSoC5\QuadDec_R.h</File>
+          <File BuildType="BUILD" Toolchain="">Generated_Source\PSoC5\QuadDec_R_PM.c</File>
+          <File BuildType="BUILD" Toolchain="">Generated_Source\PSoC5\PWM_R.c</File>
+          <File BuildType="BUILD" Toolchain="">Generated_Source\PSoC5\PWM_R.h</File>
+          <File BuildType="BUILD" Toolchain="">Generated_Source\PSoC5\PWM_R_PM.c</File>
+          <File BuildType="BUILD" Toolchain="">Generated_Source\PSoC5\enc_a_R_aliases.h</File>
+          <File BuildType="BUILD" Toolchain="">Generated_Source\PSoC5\enc_a_R.c</File>
+          <File BuildType="BUILD" Toolchain="">Generated_Source\PSoC5\enc_a_R.h</File>
+          <File BuildType="BUILD" Toolchain="">Generated_Source\PSoC5\enc_b_R_aliases.h</File>
+          <File BuildType="BUILD" Toolchain="">Generated_Source\PSoC5\enc_b_R.c</File>
+          <File BuildType="BUILD" Toolchain="">Generated_Source\PSoC5\enc_b_R.h</File>
+          <File BuildType="BUILD" Toolchain="">Generated_Source\PSoC5\PWM_Pin_R_aliases.h</File>
+          <File BuildType="BUILD" Toolchain="">Generated_Source\PSoC5\PWM_Pin_R.c</File>
+          <File BuildType="BUILD" Toolchain="">Generated_Source\PSoC5\PWM_Pin_R.h</File>
+          <File BuildType="BUILD" Toolchain="">Generated_Source\PSoC5\QuadDec_L_Cnt16.c</File>
+          <File BuildType="BUILD" Toolchain="">Generated_Source\PSoC5\QuadDec_L_Cnt16.h</File>
+          <File BuildType="BUILD" Toolchain="">Generated_Source\PSoC5\QuadDec_L_Cnt16_PM.c</File>
+          <File BuildType="BUILD" Toolchain="">Generated_Source\PSoC5\QuadDec_R_Cnt16.c</File>
+          <File BuildType="BUILD" Toolchain="">Generated_Source\PSoC5\QuadDec_R_Cnt16.h</File>
+          <File BuildType="BUILD" Toolchain="">Generated_Source\PSoC5\QuadDec_R_Cnt16_PM.c</File>
+>>>>>>> bde16a60fc9443ec2d8f488d376a61c4e0b16aa3
         </Files>
       </Folder>
-      <Folder BuildType="STRICT" Path="C:\Users\mechatoro\Documents\PSoC Creator\rotary_enc_hard\rotary_enc_hard.cydsn\Export\ARM_GCC_Generic">
-        <Files Root="C:\Users\mechatoro\Documents\PSoC Creator\rotary_enc_hard\rotary_enc_hard.cydsn">
+      <Folder BuildType="STRICT" Path="C:\Users\mechatoro\Documents\PSoC Creator\rotary_enc_hard_for_git\PSoC_rotaryenc_PI\rotary_enc_hard.cydsn\Export\ARM_GCC_Generic">
+        <Files Root="C:\Users\mechatoro\Documents\PSoC Creator\rotary_enc_hard_for_git\PSoC_rotaryenc_PI\rotary_enc_hard.cydsn">
           <File BuildType="BUILD" Toolchain="ARM GCC Generic">.\Export\ARM_GCC_Generic\CyComponentLibrary.a</File>
         </Files>
       </Folder>
-      <Folder BuildType="STRICT" Path="C:\Users\mechatoro\Documents\PSoC Creator\rotary_enc_hard\rotary_enc_hard.cydsn\Export\ARM_MDK_Generic">
-        <Files Root="C:\Users\mechatoro\Documents\PSoC Creator\rotary_enc_hard\rotary_enc_hard.cydsn">
+      <Folder BuildType="STRICT" Path="C:\Users\mechatoro\Documents\PSoC Creator\rotary_enc_hard_for_git\PSoC_rotaryenc_PI\rotary_enc_hard.cydsn\Export\ARM_MDK_Generic">
+        <Files Root="C:\Users\mechatoro\Documents\PSoC Creator\rotary_enc_hard_for_git\PSoC_rotaryenc_PI\rotary_enc_hard.cydsn">
           <File BuildType="BUILD" Toolchain="ARM MDK Generic">.\Export\ARM_MDK_Generic\CyComponentLibrary.a</File>
         </Files>
       </Folder>
-      <Folder BuildType="STRICT" Path="C:\Users\mechatoro\Documents\PSoC Creator\rotary_enc_hard\rotary_enc_hard.cydsn\Export\ARM_IAR_Generic">
-        <Files Root="C:\Users\mechatoro\Documents\PSoC Creator\rotary_enc_hard\rotary_enc_hard.cydsn">
+      <Folder BuildType="STRICT" Path="C:\Users\mechatoro\Documents\PSoC Creator\rotary_enc_hard_for_git\PSoC_rotaryenc_PI\rotary_enc_hard.cydsn\Export\ARM_IAR_Generic">
+        <Files Root="C:\Users\mechatoro\Documents\PSoC Creator\rotary_enc_hard_for_git\PSoC_rotaryenc_PI\rotary_enc_hard.cydsn">
           <File BuildType="BUILD" Toolchain="ARM IAR Generic">.\Export\ARM_IAR_Generic\CyComponentLibrary.a</File>
         </Files>
       </Folder>
       <Folder BuildType="EXCLUDE" Path=".\codegentemp">
-        <Files Root="C:\Users\mechatoro\Documents\PSoC Creator\rotary_enc_hard\rotary_enc_hard.cydsn" />
+        <Files Root="C:\Users\mechatoro\Documents\PSoC Creator\rotary_enc_hard_for_git\PSoC_rotaryenc_PI\rotary_enc_hard.cydsn" />
       </Folder>
       <Folder BuildType="EXCLUDE" Path=".\ARM_GCC_441">
-        <Files Root="C:\Users\mechatoro\Documents\PSoC Creator\rotary_enc_hard\rotary_enc_hard.cydsn" />
+        <Files Root="C:\Users\mechatoro\Documents\PSoC Creator\rotary_enc_hard_for_git\PSoC_rotaryenc_PI\rotary_enc_hard.cydsn" />
       </Folder>
       <Folder BuildType="EXCLUDE" Path=".\ARM_GCC_473">
-        <Files Root="C:\Users\mechatoro\Documents\PSoC Creator\rotary_enc_hard\rotary_enc_hard.cydsn" />
+        <Files Root="C:\Users\mechatoro\Documents\PSoC Creator\rotary_enc_hard_for_git\PSoC_rotaryenc_PI\rotary_enc_hard.cydsn" />
       </Folder>
       <Folder BuildType="EXCLUDE" Path=".\DP8051_Keil_952">
-        <Files Root="C:\Users\mechatoro\Documents\PSoC Creator\rotary_enc_hard\rotary_enc_hard.cydsn" />
+        <Files Root="C:\Users\mechatoro\Documents\PSoC Creator\rotary_enc_hard_for_git\PSoC_rotaryenc_PI\rotary_enc_hard.cydsn" />
       </Folder>
       <Folder BuildType="EXCLUDE" Path=".\DP8051">
-        <Files Root="C:\Users\mechatoro\Documents\PSoC Creator\rotary_enc_hard\rotary_enc_hard.cydsn" />
+        <Files Root="C:\Users\mechatoro\Documents\PSoC Creator\rotary_enc_hard_for_git\PSoC_rotaryenc_PI\rotary_enc_hard.cydsn" />
       </Folder>
       <Folder BuildType="EXCLUDE" Path=".\CortexM0">
-        <Files Root="C:\Users\mechatoro\Documents\PSoC Creator\rotary_enc_hard\rotary_enc_hard.cydsn" />
+        <Files Root="C:\Users\mechatoro\Documents\PSoC Creator\rotary_enc_hard_for_git\PSoC_rotaryenc_PI\rotary_enc_hard.cydsn" />
       </Folder>
       <Folder BuildType="EXCLUDE" Path=".\CortexM0p">
-        <Files Root="C:\Users\mechatoro\Documents\PSoC Creator\rotary_enc_hard\rotary_enc_hard.cydsn" />
+        <Files Root="C:\Users\mechatoro\Documents\PSoC Creator\rotary_enc_hard_for_git\PSoC_rotaryenc_PI\rotary_enc_hard.cydsn" />
       </Folder>
       <Folder BuildType="EXCLUDE" Path=".\CortexM3">
-        <Files Root="C:\Users\mechatoro\Documents\PSoC Creator\rotary_enc_hard\rotary_enc_hard.cydsn" />
+        <Files Root="C:\Users\mechatoro\Documents\PSoC Creator\rotary_enc_hard_for_git\PSoC_rotaryenc_PI\rotary_enc_hard.cydsn" />
       </Folder>
       <Folder BuildType="EXCLUDE" Path=".\CortexM4">
-        <Files Root="C:\Users\mechatoro\Documents\PSoC Creator\rotary_enc_hard\rotary_enc_hard.cydsn" />
+        <Files Root="C:\Users\mechatoro\Documents\PSoC Creator\rotary_enc_hard_for_git\PSoC_rotaryenc_PI\rotary_enc_hard.cydsn" />
       </Folder>
       <Folder BuildType="EXCLUDE" Path=".\CortexM7">
-        <Files Root="C:\Users\mechatoro\Documents\PSoC Creator\rotary_enc_hard\rotary_enc_hard.cydsn" />
+        <Files Root="C:\Users\mechatoro\Documents\PSoC Creator\rotary_enc_hard_for_git\PSoC_rotaryenc_PI\rotary_enc_hard.cydsn" />
       </Folder>
     </Folders>
   </Project>
