@@ -2,7 +2,7 @@
 --	Conversion of rotary_enc_hard.v to vh2:
 --
 --	Cypress Semiconductor - WARP Version 6.3 IR 41
---	Thu Apr 19 18:19:48 2018
+--	Sun Apr 22 09:57:13 2018
 --
 
 USE cypress.cypress.all;
@@ -2459,7 +2459,7 @@ Clock_2:cy_clock_v1_0
 		id=>"5328009a-24fd-4c27-b5c7-a17defdc0e68",
 		source_clock_id=>"",
 		divisor=>0,
-		period=>"200000000000000",
+		period=>"100000000000000",
 		is_direct=>'0',
 		is_digital=>'1')
 	PORT MAP(clock_out=>Net_10,

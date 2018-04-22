@@ -1,6 +1,6 @@
-C:\Users\mechatoro\Documents\PSoC Creator\rotary_enc_hard_for_git\PSoC_rotaryenc_PI\rotary_enc_hard.cydsn\rotary_enc_hard.cyprj|3aaf8b11-996a-4288-98c5-4689cdb90dd9
-C:\Program Files (x86)\Cypress\PSoC Creator\4.1\PSoC Creator\psoc\content\default\CyAnnotationLibrary\CyAnnotationLibrary.cylib\CyAnnotationLibrary.cyprj|8d995543-7897-43d2-9673-88b569999158
-C:\Users\mechatoro\Documents\PSoC Creator\4.1\Downloads ( 4.1).cylib\Downloads ( 4.1).cyprj|75096e5e-0b99-4dd2-8a29-ed2f1db1fefb
-C:\Program Files (x86)\Cypress\PSoC Creator\4.1\PSoC Creator\psoc\content\cycomponentlibraryupdates\CyComponentLibraryUpdates.cylib\CyComponentLibraryUpdates.cyprj|45df5b91-102b-4bcd-be81-123399038a45
-C:\Program Files (x86)\Cypress\PSoC Creator\4.1\PSoC Creator\psoc\content\cycomponentlibrary\CyComponentLibrary.cylib\CyComponentLibrary.cyprj|fb71bc01-73a9-4bdd-ad46-de7c347bcba6
-C:\Program Files (x86)\Cypress\PSoC Creator\4.1\PSoC Creator\psoc\content\cyprimitives\CyPrimitives.cylib\CyPrimitives.cyprj|77f66351-7be3-48fe-b862-aa4a5e42fe2f
+C:\Users\mechatoro\Documents\PSoC Creator\rotary_enc_hard_for_git\PSoC_rotaryenc_PI\rotary_enc_hard.cydsn\rotary_enc_hard.cyprj|81e864d9-8c8c-4d23-bf0c-5c39900645a0
+C:\Program Files (x86)\Cypress\PSoC Creator\4.1\PSoC Creator\psoc\content\default\CyAnnotationLibrary\CyAnnotationLibrary.cylib\CyAnnotationLibrary.cyprj|dba00810-e94a-4b09-8e07-ba448897cc21
+C:\Users\mechatoro\Documents\PSoC Creator\4.1\Downloads ( 4.1).cylib\Downloads ( 4.1).cyprj|b80baf29-a107-420e-a254-000209199fab
+C:\Program Files (x86)\Cypress\PSoC Creator\4.1\PSoC Creator\psoc\content\cycomponentlibraryupdates\CyComponentLibraryUpdates.cylib\CyComponentLibraryUpdates.cyprj|e6c3ab2f-f569-4413-b19e-5bc5bc79f934
+C:\Program Files (x86)\Cypress\PSoC Creator\4.1\PSoC Creator\psoc\content\cycomponentlibrary\CyComponentLibrary.cylib\CyComponentLibrary.cyprj|08c70401-8126-4399-9f56-3b6241d4a98f
+C:\Program Files (x86)\Cypress\PSoC Creator\4.1\PSoC Creator\psoc\content\cyprimitives\CyPrimitives.cylib\CyPrimitives.cyprj|ec660227-adff-45d8-9999-9c4214d98b94

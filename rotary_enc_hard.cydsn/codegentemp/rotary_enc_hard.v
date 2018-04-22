@@ -1,6 +1,6 @@
 // ======================================================================
 // rotary_enc_hard.v generated from TopDesign.cysch
-// 04/19/2018 at 18:19
+// 04/22/2018 at 09:57
 // This file is auto generated. ANY EDITS YOU MAKE MAY BE LOST WHEN THIS FILE IS REGENERATED!!!
 // ======================================================================
 
@@ -1530,7 +1530,7 @@ module top ;
 		#(.id("5328009a-24fd-4c27-b5c7-a17defdc0e68"),
 		  .source_clock_id(""),
 		  .divisor(0),
-		  .period("200000000000000"),
+		  .period("100000000000000"),
 		  .is_direct(0),
 		  .is_digital(1))
 		Clock_2

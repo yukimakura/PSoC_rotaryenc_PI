@@ -13,7 +13,7 @@
 <v>Output</v>
 </TreeKeys>
 <TreeStates>
-<CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237 type_name="CyDesigner.Common.Base.Controls.CyTreeViewState" version="1" SelectedNodeId="">
+<CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237 type_name="CyDesigner.Common.Base.Controls.CyTreeViewState" version="1" SelectedNodeId="rotary_enc_hard\rotary_enc_hard\Source Files\main.c">
 <ExpandedNodeIds>
 <v>rotary_enc_hard</v>
 <v>rotary_enc_hard\rotary_enc_hard</v>
@@ -66,6 +66,7 @@
 <v>rotary_enc_hard\rotary_enc_hard\Generated_Source\PSoC5\enc_b_R</v>
 <v>rotary_enc_hard\rotary_enc_hard\Generated_Source\PSoC5\PWM_L</v>
 <v>rotary_enc_hard\rotary_enc_hard\Generated_Source\PSoC5\PWM_Pin_L</v>
+<v>rotary_enc_hard\rotary_enc_hard\Generated_Source\PSoC5\PWM_Pin_R</v>
 </VisibleNodeIds>
 </CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237>
 <CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237 type_name="CyDesigner.Common.Base.Controls.CyTreeViewState" version="1" SelectedNodeId="">
@@ -182,6 +183,7 @@
 <v>rotary_enc_hard\rotary_enc_hard\CortexM3\ARM_GCC_541\Debug\Listing Files\PWM_Pin_L.lst</v>
 <v>rotary_enc_hard\rotary_enc_hard\CortexM3\ARM_GCC_541\Debug\Listing Files\PWM_Pin_R.lst</v>
 <v>rotary_enc_hard\rotary_enc_hard\CortexM3\ARM_GCC_541\Debug\Listing Files\PWM_R.lst</v>
+<v>rotary_enc_hard\rotary_enc_hard\CortexM3\ARM_GCC_541\Debug\Listing Files\PWM_R_PM.lst</v>
 </VisibleNodeIds>
 </CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237>
 </TreeStates>
@@ -236,9 +238,9 @@
 </CyGuid_fdba8dfd-b15b-4469-9bbb-9e40c3e70997>
 <Unloaded />
 <OpenDocs>
-<name v=".\rotary_enc_hard.cydsn\main.c" />
 <name v=".\rotary_enc_hard.cydsn\TopDesign\TopDesign.cysch" />
 <name v=".\rotary_enc_hard.cydsn\rotary_enc_hard.cydwr" />
+<name v=".\rotary_enc_hard.cydsn\main.c" />
 </OpenDocs>
 <OpenDocsLayout><![CDATA[<?xml version="1.0"?><!--
 
@@ -246,7 +248,7 @@
   Copyright (c) 2001-2016 Actipro Software LLC.  All rights reserved.
   http://www.actiprosoftware.com
 
---><DocumentLayout Version="1.0"><LayoutData><TabbedMdiRootContainer Orientation="Horizontal"><TabbedMdiContainer Size="454, 400" SelectedTabbedMdiWindow="46239a1b-4910-4aad-8a53-430e14102ba0"><ToolWindow Key="Start Page:bd4649ab-da6b-4d04-a663-c722b8bf99db:Start Page" Guid="0dfd48a3-2c0a-4379-9f26-c8d6ee48ad5c" /><DocumentWindow Key="C:\Users\mechatoro\Documents\PSoC Creator\rotary_enc_hard_for_git\PSoC_rotaryenc_PI\rotary_enc_hard.cydsn\main.c" Guid="46239a1b-4910-4aad-8a53-430e14102ba0" /><DocumentWindow Key="C:\Users\mechatoro\Documents\PSoC Creator\rotary_enc_hard_for_git\PSoC_rotaryenc_PI\rotary_enc_hard.cydsn\TopDesign\TopDesign.cysch" Guid="c619229c-bcb2-409b-8d83-d3bba27d3d06" /><DocumentWindow Key="C:\Users\mechatoro\Documents\PSoC Creator\rotary_enc_hard_for_git\PSoC_rotaryenc_PI\rotary_enc_hard.cydsn\rotary_enc_hard.cydwr" Guid="97bcba13-dcd1-402b-8c11-f24a0dd42713" /></TabbedMdiContainer></TabbedMdiRootContainer><FloatingContainers /></LayoutData></DocumentLayout>]]></OpenDocsLayout>
+--><DocumentLayout Version="1.0"><LayoutData><TabbedMdiRootContainer Orientation="Horizontal"><TabbedMdiContainer Size="454, 400" SelectedTabbedMdiWindow="08b07362-d45d-44b9-8d0a-ab7b76de3167"><ToolWindow Key="Start Page:bd4649ab-da6b-4d04-a663-c722b8bf99db:Start Page" Guid="0dfd48a3-2c0a-4379-9f26-c8d6ee48ad5c" /><DocumentWindow Key="C:\Users\mechatoro\Documents\PSoC Creator\rotary_enc_hard_for_git\PSoC_rotaryenc_PI\rotary_enc_hard.cydsn\TopDesign\TopDesign.cysch" Guid="c619229c-bcb2-409b-8d83-d3bba27d3d06" /><DocumentWindow Key="C:\Users\mechatoro\Documents\PSoC Creator\rotary_enc_hard_for_git\PSoC_rotaryenc_PI\rotary_enc_hard.cydsn\rotary_enc_hard.cydwr" Guid="97bcba13-dcd1-402b-8c11-f24a0dd42713" /><DocumentWindow Key="C:\Users\mechatoro\Documents\PSoC Creator\rotary_enc_hard_for_git\PSoC_rotaryenc_PI\rotary_enc_hard.cydsn\main.c" Guid="08b07362-d45d-44b9-8d0a-ab7b76de3167" /></TabbedMdiContainer></TabbedMdiRootContainer><FloatingContainers /></LayoutData></DocumentLayout>]]></OpenDocsLayout>
 <config v="" />
 <AutoUpdate v="true" />
 </CyGuid_843a90a4-0c4b-4e44-991d-05e7fb117a21>
